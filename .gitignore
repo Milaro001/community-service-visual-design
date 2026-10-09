@@ -1,0 +1,12 @@
+# 本机配置与临时文件
+agents/local-resources.json
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+# 私人资料、第三方素材和任务产物
+private/
+assets/
+output/
+*.zip

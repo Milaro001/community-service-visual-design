@@ -1,0 +1,6 @@
+interface:
+  display_name: "社区服务视觉设计"
+  short_description: "依据真实服务信息与受众阅读需求，完成社区海报、公告和指引的设计、检查与交付"
+  default_prompt: "使用 $community-service-visual-design，检查我提供的社区服务资料并制作可审阅的海报。"
+policy:
+  allow_implicit_invocation: true
