@@ -103,12 +103,12 @@ jobs:
           PY
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -- versions/V3.4
+          git add --force -- versions/V3.4
           python3 - <<'PY'
           import subprocess
           records = subprocess.check_output(['git', 'diff', '--cached', '--name-status', '-z']).decode().split('\0')
           records = records[:-1]
-          assert len(records) == 639 * 2
+          assert len(records) == 639 * 2, f'Unexpected staged file count: {len(records) // 2}'
           for index in range(0, len(records), 2):
               assert records[index] == 'A', 'Only new files may be committed'
               assert records[index + 1].startswith('versions/V3.4/community-related-visual-design-v3-4/')
