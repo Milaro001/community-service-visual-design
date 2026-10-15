@@ -1,0 +1,3997 @@
+{
+ "files": [
+  {
+   "id": "TG01",
+   "path": "assets/type-generation-references/TG01_英文艺术字与组合.png",
+   "source": "用户上传截图，2026-10-12 20.46.56",
+   "features": "粗窄无衬线、笔刷手写、衬线花体、词组堆叠、横竖组合及彩色字面",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成"
+   ],
+   "canvas_px": [
+    928,
+    1406
+   ],
+   "sha256": "919f105597822e5c6cced19c15710a6d7b75bc84a64707fc4cd98663ddc284d7",
+   "viewed": "本对话附件已查看",
+   "rights": "参考研究；不直接复用截图中的文字、品牌、图形或字体文件",
+   "type_layout": {
+    "modes": [
+     "mixed",
+     "stacked",
+     "vertical"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "919f105597822e5c6cced19c15710a6d7b75bc84a64707fc4cd98663ddc284d7",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG02",
+   "path": "assets/type-generation-references/TG02_中文趣味粗字.png",
+   "source": "用户上传截图，2026-10-12 20.47.25",
+   "features": "厚实几何笔画、圆润变形、错落叠排、笔画延展、字义图形结合",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成"
+   ],
+   "canvas_px": [
+    910,
+    1292
+   ],
+   "sha256": "d73c32964956a173b6bcf72e5acba7b7b4b521229a54ce84ca6abecc784ec8cc",
+   "viewed": "本对话附件已查看",
+   "rights": "参考研究；不直接复用截图中的文字、品牌、图形或字体文件",
+   "type_layout": {
+    "modes": [
+     "mixed",
+     "stacked",
+     "staggered",
+     "interleaved"
+    ],
+    "semantic_device_observed": "字形与伞/粽子等语义辅助图形结合",
+    "source_sha256": "d73c32964956a173b6bcf72e5acba7b7b4b521229a54ce84ca6abecc784ec8cc",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG03",
+   "path": "assets/type-generation-references/TG03_中文艺术字多风格.png",
+   "source": "用户上传截图，2026-10-12 20.47.56",
+   "features": "几何切割、细线字、笔刷、装饰衬线、线框与立体字面、中英层级组合",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成"
+   ],
+   "canvas_px": [
+    500,
+    1382
+   ],
+   "sha256": "c6fe861ec304df81bf44f5e5c364ccff6392d982c13f3d5c3d96fb549bb98ba9",
+   "viewed": "本对话附件已查看",
+   "rights": "参考研究；不直接复用截图中的文字、品牌、图形或字体文件",
+   "type_layout": {
+    "modes": [
+     "mixed",
+     "vertical",
+     "horizontal"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "c6fe861ec304df81bf44f5e5c364ccff6392d982c13f3d5c3d96fb549bb98ba9",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG04",
+   "path": "assets/type-generation-references/TG04_圆润清楚与趣味粗字.png",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "ab5b79f47b009fab3be41aa4f8043cb9.png",
+   "attachment_positions": [
+    1
+   ],
+   "display_name": "圆润清楚与趣味粗字",
+   "source_asset_type": "字例/字体效果图",
+   "features": "上组圆润匀线、清楚字腔；下组粗厚不规则笔画；各有拉丁字母与数字样本",
+   "glyph_samples": [
+    {
+     "anchor": "有猫青年",
+     "position": "上方字例区",
+     "features": "圆润匀线、清楚字腔",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "按实际选中的上组或下组分别提取；正文统一基线、笔画与字距，保留开阔字腔"
+    },
+    {
+     "anchor": "撒野计划",
+     "position": "下方字例区",
+     "features": "粗厚不规则笔画、趣味书写",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "按实际选中的上组或下组分别提取；正文统一基线、笔画与字距，保留开阔字腔"
+    }
+   ],
+   "type_families": [
+    "圆润匀线",
+    "趣味粗字"
+   ],
+   "context_tags": [
+    "生活关怀",
+    "宠物",
+    "户外活动"
+   ],
+   "observed_palette": "黑字白底；浅粉展示底",
+   "body_simplification": "按实际选中的上组或下组分别提取；正文统一基线、笔画与字距，保留开阔字腔",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "0984ec35dac3782f0fbb8025419008e0dd22f1a029ca6988976dd26a3a828c7d",
+   "decoded_pixel_sha256": "a98a6e94a4be7a094c6bb38e84fc19159b4129049940a67cd721db14d266c1fa",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "0984ec35dac3782f0fbb8025419008e0dd22f1a029ca6988976dd26a3a828c7d",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG05",
+   "path": "assets/type-generation-references/TG05_厚重黑字与运动斜体.png",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "94168a8fcb1927985a2600653ee275d7.png",
+   "attachment_positions": [
+    2
+   ],
+   "display_name": "厚重黑字与运动斜体",
+   "source_asset_type": "字例/字体效果图",
+   "features": "上组紧凑厚重黑字；下组向右倾斜、粗笔画与窄长节奏",
+   "glyph_samples": [
+    {
+     "anchor": "失眠基地",
+     "position": "上方字例区",
+     "features": "紧凑厚重黑字",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "厚字扩大内白与间距；斜体正文降低倾角，不压缩长句或号码"
+    },
+    {
+     "anchor": "夏日快乐水",
+     "position": "下方字例区",
+     "features": "向右倾斜、粗笔画与窄长节奏",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "厚字扩大内白与间距；斜体正文降低倾角，不压缩长句或号码"
+    }
+   ],
+   "type_families": [
+    "粗黑几何",
+    "运动斜体"
+   ],
+   "context_tags": [
+    "青年活动",
+    "生活主题",
+    "夏日邀约"
+   ],
+   "observed_palette": "黑字白底；浅粉展示底",
+   "body_simplification": "厚字扩大内白与间距；斜体正文降低倾角，不压缩长句或号码",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "37dfc048dd360a7bcc4a9b87abcf083f653bcbde43016e707ab92cb5b5d9ce58",
+   "decoded_pixel_sha256": "83afd8bfea142de35a2aa2764f50d8dfbf0a463f70b20ab429070148470529ea",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "37dfc048dd360a7bcc4a9b87abcf083f653bcbde43016e707ab92cb5b5d9ce58",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG06",
+   "path": "assets/type-generation-references/TG06_窄斜黑字与圆润粗字.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "b1ab356dc3d47ebed85f8ceeac88f498.jpg",
+   "attachment_positions": [
+    3
+   ],
+   "display_name": "窄斜黑字与圆润粗字",
+   "source_asset_type": "字例/字体效果图",
+   "features": "上组细长倾斜、纵向节奏；下组较圆润、稳定粗字面",
+   "glyph_samples": [
+    {
+     "anchor": "玩心不长大",
+     "position": "上方字例区",
+     "features": "细长倾斜、纵向节奏",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "分别选用相近组；正文减小斜度，统一高宽与标点，不把两组逐字拼接"
+    },
+    {
+     "anchor": "感官觉醒",
+     "position": "下方字例区",
+     "features": "较圆润、稳定粗字面",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "分别选用相近组；正文减小斜度，统一高宽与标点，不把两组逐字拼接"
+    }
+   ],
+   "type_families": [
+    "运动斜体",
+    "圆润粗字"
+   ],
+   "context_tags": [
+    "青年活动",
+    "文创",
+    "体验活动"
+   ],
+   "observed_palette": "黑字白底；浅粉展示底",
+   "body_simplification": "分别选用相近组；正文减小斜度，统一高宽与标点，不把两组逐字拼接",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "5d3c2c78c752f914bb8d2fabcfe282982ac4e152bdb1d0c7a98b6f4fa0a94dc9",
+   "decoded_pixel_sha256": "96574920197f8a7531fda441217c5aa64e6dff772c7bbb6a25e3bc08c02cf9de",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "5d3c2c78c752f914bb8d2fabcfe282982ac4e152bdb1d0c7a98b6f4fa0a94dc9",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG07",
+   "path": "assets/type-generation-references/TG07_棱角科技与动态书写.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "14f27fea94277c491be500b87669e767.jpg",
+   "attachment_positions": [
+    4
+   ],
+   "display_name": "棱角科技与动态书写",
+   "source_asset_type": "字例/字体效果图",
+   "features": "上组折角与方形切口；下组斜向粗笔画和书写动作",
+   "glyph_samples": [
+    {
+     "anchor": "赛博朋克",
+     "position": "上方字例区",
+     "features": "折角与方形切口",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "科技切口减量并保证数字辨识；书写字简化飞白与夸张倾斜"
+    },
+    {
+     "anchor": "一座青山",
+     "position": "下方字例区",
+     "features": "斜向粗笔画和书写动作",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "科技切口减量并保证数字辨识；书写字简化飞白与夸张倾斜"
+    }
+   ],
+   "type_families": [
+    "棱角科技",
+    "动态书写"
+   ],
+   "context_tags": [
+    "科技活动",
+    "青年活动",
+    "户外主题"
+   ],
+   "observed_palette": "黑字白底；浅粉展示底",
+   "body_simplification": "科技切口减量并保证数字辨识；书写字简化飞白与夸张倾斜",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "3b9756e3873e0372125b7f907caa4ae3b242a7c9069fd08df780f475602d8361",
+   "decoded_pixel_sha256": "a69e971f850ea06fe4477fda2153e89da564b55eb210bf48158e497f25c71ac5",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "3b9756e3873e0372125b7f907caa4ae3b242a7c9069fd08df780f475602d8361",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG08",
+   "path": "assets/type-generation-references/TG08_春日衬线与英文手写组合.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "50b121f8a9ba797e3b57d42bd4f58f8d.jpg",
+   "attachment_positions": [
+    5
+   ],
+   "display_name": "春日衬线与英文手写组合",
+   "source_asset_type": "字例/字体效果图",
+   "features": "中文高低字重对比的衬线；英文清楚无衬线与手写连笔交错；自然浅绿摄影",
+   "glyph_samples": [
+    {
+     "anchor": "春天的影像诗；Spring’s image poetry",
+     "position": "方形摄影图中央文字区",
+     "features": "中文高低字重对比的衬线；英文清楚无衬线与手写连笔交错；自然浅绿摄影",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "中文保留足够笔画厚度；英文正文不用细连笔长句，浅底处重新核查局部对比"
+    }
+   ],
+   "type_families": [
+    "衬线人文",
+    "英文手写",
+    "摄影搭配"
+   ],
+   "context_tags": [
+    "自然",
+    "春日",
+    "文化活动"
+   ],
+   "observed_palette": "白字；浅绿摄影底",
+   "body_simplification": "中文保留足够笔画厚度；英文正文不用细连笔长句，浅底处重新核查局部对比",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1169,
+    995
+   ],
+   "sha256": "cd0e34bdff99b00b5d6660d8a6d30868e0efcd200a33a88497bd717ba7dba3c0",
+   "decoded_pixel_sha256": "1ea0aa6cb17925223995a290e52b5b76a034344c71c0ed2964f2e5ebfef2b6d1",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "stacked",
+     "staggered",
+     "side-caption"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "cd0e34bdff99b00b5d6660d8a6d30868e0efcd200a33a88497bd717ba7dba3c0",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG09",
+   "path": "assets/type-generation-references/TG09_山野粗书写与英文衬线.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "fed7f3135383b4b4bee83b307acceb7d.jpg",
+   "attachment_positions": [
+    6
+   ],
+   "display_name": "山野粗书写与英文衬线",
+   "source_asset_type": "字例/字体效果图",
+   "features": "粗书写笔画、微不规则端点、两行主题；下方英文衬线小字",
+   "glyph_samples": [
+    {
+     "anchor": "山河远阔；人间烟火",
+     "position": "方形摄影图中央上下字组",
+     "features": "粗书写笔画、微不规则端点、两行主题；下方英文衬线小字",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文保留清楚笔画，降低书写变形与纹理；不照搬样图的小字比例"
+    }
+   ],
+   "type_families": [
+    "粗书写",
+    "摄影搭配"
+   ],
+   "context_tags": [
+    "户外",
+    "人文",
+    "生活关怀"
+   ],
+   "observed_palette": "白字；深褐灰山野摄影底",
+   "body_simplification": "正文保留清楚笔画，降低书写变形与纹理；不照搬样图的小字比例",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1086,
+    1086
+   ],
+   "sha256": "d98bc6036f0476562540dd61c9f10d526a659b9474f9cf6e855f526252e02964",
+   "decoded_pixel_sha256": "bc39a6d09e47389397d8f63ed67c7670f2b2a10abe728bfb37aa05e7fd581df2",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "stacked"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "d98bc6036f0476562540dd61c9f10d526a659b9474f9cf6e855f526252e02964",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG10",
+   "path": "assets/type-generation-references/TG10_活力几何粗字与英文横组.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "0680e1df2969a1354ec2962904aef390.jpg",
+   "attachment_positions": [
+    7
+   ],
+   "display_name": "活力几何粗字与英文横组",
+   "source_asset_type": "字例/字体效果图",
+   "features": "较宽粗黑几何、横向英文无衬线；中间独立三角符号仅为示例装饰",
+   "glyph_samples": [
+    {
+     "anchor": "开启；活力；UNLOCK ENERGY",
+     "position": "方形摄影图中央标题区",
+     "features": "较宽粗黑几何、横向英文无衬线；中间独立三角符号仅为示例装饰",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文用稳定几何笔画和开阔内白；不能用三角等装饰代替准确标题字符"
+    }
+   ],
+   "type_families": [
+    "粗黑几何",
+    "摄影搭配"
+   ],
+   "context_tags": [
+    "运动",
+    "活力",
+    "活动邀约"
+   ],
+   "observed_palette": "白字；蓝天绿色草地",
+   "body_simplification": "正文用稳定几何笔画和开阔内白；不能用三角等装饰代替准确标题字符",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1056,
+    1056
+   ],
+   "sha256": "2cd974017d847136c1c99420e87bd5055bda22fbb25935e32499b316699ac718",
+   "decoded_pixel_sha256": "5cf0f1ca24c396396e7b5334c989c459189bdaf9a833cc5deb6a6ea7ac9d0001",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal",
+     "interleaved"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "2cd974017d847136c1c99420e87bd5055bda22fbb25935e32499b316699ac718",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG11",
+   "path": "assets/type-generation-references/TG11_春游窄斜标题组合.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "ed54ce38ceda3758725c14e38ee5fb55.jpg",
+   "attachment_positions": [
+    8
+   ],
+   "display_name": "春游窄斜标题组合",
+   "source_asset_type": "字例/字体效果图",
+   "features": "粗窄斜体、上下不同字量的组块；括号、箭头与英文完整词组",
+   "glyph_samples": [
+    {
+     "anchor": "春日；出游计划",
+     "position": "方形摄影图左中部标题区",
+     "features": "粗窄斜体、上下不同字量的组块；括号、箭头与英文完整词组",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文降低窄化和倾斜，去掉无语义箭头，完整日期与时刻同行"
+    }
+   ],
+   "type_families": [
+    "运动斜体",
+    "摄影搭配"
+   ],
+   "context_tags": [
+    "春游",
+    "户外",
+    "青年活动"
+   ],
+   "observed_palette": "白字；草地蓝天摄影底",
+   "body_simplification": "正文降低窄化和倾斜，去掉无语义箭头，完整日期与时刻同行",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1042,
+    1042
+   ],
+   "sha256": "43a8e9103ae9c2808913b79f9c9225d1c399c5391a3c24624c82993c18f4ba2a",
+   "decoded_pixel_sha256": "43d18570b466c94a69d260dcc21a5bf335203305e79a45662e17eb34af960f87",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "stacked",
+     "staggered"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "43a8e9103ae9c2808913b79f9c9225d1c399c5391a3c24624c82993c18f4ba2a",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG12",
+   "path": "assets/type-generation-references/TG12_户外斜体与双层副题.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "1fe849975f46adc5e07fd54c83a5ac24.jpg",
+   "attachment_positions": [
+    9
+   ],
+   "display_name": "户外斜体与双层副题",
+   "source_asset_type": "字例/字体效果图",
+   "features": "较窄动态黑字、横线分组；中英副题大小层级",
+   "glyph_samples": [
+    {
+     "anchor": "向野而生；夏日登陆计划",
+     "position": "方形山谷摄影图中央文字区",
+     "features": "较窄动态黑字、横线分组；中英副题大小层级",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文减少倾角，采用完整横向语义组；副题不因样例比例缩小到难读"
+    }
+   ],
+   "type_families": [
+    "运动斜体",
+    "摄影搭配"
+   ],
+   "context_tags": [
+    "户外",
+    "探索",
+    "夏日活动"
+   ],
+   "observed_palette": "白字；深绿灰山谷底",
+   "body_simplification": "正文减少倾角，采用完整横向语义组；副题不因样例比例缩小到难读",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1058,
+    1058
+   ],
+   "sha256": "549727eca5cbaf498ae9df1feeb9588e1f6f06dea3c22656c12928f709e08fc3",
+   "decoded_pixel_sha256": "eaed160e215879fe6f138176fc3b9ea4fc816dec04e8286ae9ba8cfe58b0402f",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal",
+     "side-caption"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "549727eca5cbaf498ae9df1feeb9588e1f6f06dea3c22656c12928f709e08fc3",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG13",
+   "path": "assets/type-generation-references/TG13_露营粗字与错落组合.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "e00ca482b47862a312c6fa7f7b1debc2.jpg",
+   "attachment_positions": [
+    10
+   ],
+   "display_name": "露营粗字与错落组合",
+   "source_asset_type": "字例/字体效果图",
+   "features": "圆角粗黑、不同大小与轻微旋转、两行错落；亮绿短标签",
+   "glyph_samples": [
+    {
+     "anchor": "春日撒欢；露营局",
+     "position": "方形山谷摄影图中央标题区",
+     "features": "圆角粗黑、不同大小与轻微旋转、两行错落；亮绿短标签",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文统一正向与行高，少量强调色呼应，不逐字旋转或继承PARTY文案"
+    }
+   ],
+   "type_families": [
+    "圆润粗字",
+    "错落组块",
+    "摄影搭配"
+   ],
+   "context_tags": [
+    "露营",
+    "亲子",
+    "活力邀约"
+   ],
+   "observed_palette": "白字；亮绿强调；深绿摄影底",
+   "body_simplification": "正文统一正向与行高，少量强调色呼应，不逐字旋转或继承PARTY文案",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1105,
+    1105
+   ],
+   "sha256": "da1e7551e396bc0ec98fd9f5b086bada6e38d6b87d930727f80f53b6ab5fce27",
+   "decoded_pixel_sha256": "31f0e62df6d50a630ee4364fcfba5d3c9910c87db957a44085a93ac632b99cb8",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "stacked",
+     "staggered"
+    ],
+    "semantic_device_observed": "轻微旋转和大小跳动表达户外活力",
+    "source_sha256": "da1e7551e396bc0ec98fd9f5b086bada6e38d6b87d930727f80f53b6ab5fce27",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG14",
+   "path": "assets/type-generation-references/TG14_宠物清楚匀线字与中英组合.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "68bb9236adb40036fbf6b54b02a18d22.jpg",
+   "attachment_positions": [
+    11
+   ],
+   "display_name": "宠物清楚匀线字与中英组合",
+   "source_asset_type": "字例/字体效果图",
+   "features": "清楚偏细匀线、较开阔字腔、中文与完整英文词组组合",
+   "glyph_samples": [
+    {
+     "anchor": "宠物生活；温暖；守护者",
+     "position": "方形宠物摄影图下半部文字区",
+     "features": "清楚偏细匀线、较开阔字腔、中文与完整英文词组组合",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文选清楚匀线基础并按显示尺寸加足笔画分量；不继承示例外语或破碎阅读顺序"
+    }
+   ],
+   "type_families": [
+    "圆润匀线",
+    "摄影搭配"
+   ],
+   "context_tags": [
+    "宠物",
+    "陪伴",
+    "生活关怀"
+   ],
+   "observed_palette": "白字；绿色草地摄影底",
+   "body_simplification": "正文选清楚匀线基础并按显示尺寸加足笔画分量；不继承示例外语或破碎阅读顺序",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1130,
+    1130
+   ],
+   "sha256": "2d0b22ead4bfc10e53c9961026c0ba46c31c3b04e4000492a155d75ae8f99482",
+   "decoded_pixel_sha256": "184474717744d80165ca63681de1841e76ebd989524ae9ce78213b7ee1262dae",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "staggered",
+     "interleaved",
+     "side-caption"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "2d0b22ead4bfc10e53c9961026c0ba46c31c3b04e4000492a155d75ae8f99482",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG15",
+   "path": "assets/type-generation-references/TG15_运动季圆润匀线与服务信息.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "e817dd83eab1f35603d4cc7c94bcfab2.jpg",
+   "attachment_positions": [
+    12
+   ],
+   "display_name": "运动季圆润匀线与服务信息",
+   "source_asset_type": "字例/字体效果图",
+   "features": "圆角匀线、纵向叠组、英文副题；下方日期与较小服务信息",
+   "glyph_samples": [
+    {
+     "anchor": "春日运动季；Spring Fitness Festival",
+     "position": "方形人物摄影图左侧标题及下方信息区",
+     "features": "圆角匀线、纵向叠组、英文副题；下方日期与较小服务信息",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "保留圆润基础，正文按当前95–110px规则与容量重排，样图小字不作达标依据"
+    }
+   ],
+   "type_families": [
+    "圆润匀线",
+    "摄影搭配"
+   ],
+   "context_tags": [
+    "运动",
+    "健身",
+    "友好活动"
+   ],
+   "observed_palette": "白字；草地蓝天摄影底",
+   "body_simplification": "保留圆润基础，正文按当前95–110px规则与容量重排，样图小字不作达标依据",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    1170
+   ],
+   "sha256": "180b744d3909c1285ae5b9b3019d10c4dd48778515da07561c4eecf74aecfff6",
+   "decoded_pixel_sha256": "1cf3c57ba27a8a141308686cc58cac58d05c1c62d57ab3a1cd39cad840e59ef3",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "stacked",
+     "side-caption"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "180b744d3909c1285ae5b9b3019d10c4dd48778515da07561c4eecf74aecfff6",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG16",
+   "path": "assets/type-generation-references/TG16_厚实几何标题与疏排副题.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "ea01ca06d042885eecd1758659d329fd.jpg",
+   "attachment_positions": [
+    13
+   ],
+   "display_name": "厚实几何标题与疏排副题",
+   "source_asset_type": "字例/字体效果图",
+   "features": "粗厚方正黑字、紧凑字面；下方小字横向疏排",
+   "glyph_samples": [
+    {
+     "anchor": "步启新程",
+     "position": "截图中部主字例区",
+     "features": "粗厚方正黑字、紧凑字面；下方小字横向疏排",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文降低字重与密度，保留完整字腔、清楚数字与合理字距"
+    }
+   ],
+   "type_families": [
+    "粗黑几何"
+   ],
+   "context_tags": [
+    "行动倡议",
+    "启程",
+    "青年活动"
+   ],
+   "observed_palette": "黑字白底",
+   "body_simplification": "正文降低字重与密度，保留完整字腔、清楚数字与合理字距",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "edd6ca362705ab50ec97cb46068a474b6e786a0caaaa2f0cd1aef226a44ffc80",
+   "decoded_pixel_sha256": "583b92ce16c7e5abff76c685757f26a09a324d7264062f6b32b0c4c3c176e727",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "edd6ca362705ab50ec97cb46068a474b6e786a0caaaa2f0cd1aef226a44ffc80",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG17",
+   "path": "assets/type-generation-references/TG17_宽厚黑字与弧形拉丁标签.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "4a71cb969b985eedda72db2934f4ebe6.jpg",
+   "attachment_positions": [
+    14
+   ],
+   "display_name": "宽厚黑字与弧形拉丁标签",
+   "source_asset_type": "字例/字体效果图",
+   "features": "宽厚方圆黑体、稳定水平字组；弧形拉丁标签与下方完整日期时间",
+   "glyph_samples": [
+    {
+     "anchor": "巅峰之夜",
+     "position": "截图中部主字例区",
+     "features": "宽厚方圆黑体、稳定水平字组；弧形拉丁标签与下方完整日期时间",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文取稳定横向骨架、减字重，不采用弧线；日期数字完整横排，不继承样例活动时间"
+    }
+   ],
+   "type_families": [
+    "粗黑几何",
+    "弧形辅助字"
+   ],
+   "context_tags": [
+    "晚会",
+    "活动邀约",
+    "青年主题"
+   ],
+   "observed_palette": "黑字白底；浅青点缀",
+   "body_simplification": "正文取稳定横向骨架、减字重，不采用弧线；日期数字完整横排，不继承样例活动时间",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "d58936bb5521b0e5cf445cf2b177e58233c67f5ad5ec22b7946c79e95b876f57",
+   "decoded_pixel_sha256": "253d8944cd57cd7b1edbf4b715f200dadd3cfd53f2d87a1773d23a4902e77989",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal",
+     "curved"
+    ],
+    "semantic_device_observed": "弧形英文形成聚集节奏",
+    "source_sha256": "d58936bb5521b0e5cf445cf2b177e58233c67f5ad5ec22b7946c79e95b876f57",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG18",
+   "path": "assets/type-generation-references/TG18_粗圆手写数字与黑字层级.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "828e39d9283b5b738ec293c1cd0144b8.jpg",
+   "attachment_positions": [
+    15
+   ],
+   "display_name": "粗圆手写数字与黑字层级",
+   "source_asset_type": "字例/字体效果图",
+   "features": "大号粗圆数字、粗糙手写边缘与下方粗字；数字周边圆形短标签",
+   "glyph_samples": [
+    {
+     "anchor": "6.18；服装品牌季",
+     "position": "截图中部主字例区",
+     "features": "大号粗圆数字、粗糙手写边缘与下方粗字；数字周边圆形短标签",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文去粗糙纹理和跳动，日期号码采用清楚规则轮廓；不继承促销数字、围圈或文案"
+    }
+   ],
+   "type_families": [
+    "粗手写",
+    "数字层级"
+   ],
+   "context_tags": [
+    "数值强调",
+    "轻松活动"
+   ],
+   "observed_palette": "黑字白底",
+   "body_simplification": "正文去粗糙纹理和跳动，日期号码采用清楚规则轮廓；不继承促销数字、围圈或文案",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "9e036aa3df834ebfd0cdbbea4914991000eed342b60449740ca6ed9be4d92e18",
+   "decoded_pixel_sha256": "0a81b41b17d0ae185d3e728e32df29a2e6abfa4233872db31b009fbeba3a7267",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "stacked",
+     "interleaved"
+    ],
+    "semantic_device_observed": "数字大幅强调",
+    "source_sha256": "9e036aa3df834ebfd0cdbbea4914991000eed342b60449740ca6ed9be4d92e18",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG19",
+   "path": "assets/type-generation-references/TG19_动势黑字与青春副题.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "b40904d801eefd30e30711f80aee3d9b.jpg",
+   "attachment_positions": [
+    16
+   ],
+   "display_name": "动势黑字与青春副题",
+   "source_asset_type": "字例/字体效果图",
+   "features": "粗黑斜向笔画、锐利端点、向上运动感；副题横排；原图定位字是付",
+   "glyph_samples": [
+    {
+     "anchor": "不付青春梦；奋斗正当时",
+     "position": "截图中部主字例区",
+     "features": "粗黑斜向笔画、锐利端点、向上运动感；副题横排；原图定位字是付",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文降低斜度与切口，不为借笔形改母本；源图付字仅作定位，不将它自动纠为负"
+    }
+   ],
+   "type_families": [
+    "运动斜体",
+    "粗黑几何"
+   ],
+   "context_tags": [
+    "青春",
+    "成长",
+    "活动倡议"
+   ],
+   "observed_palette": "黑字白底；浅青点缀",
+   "body_simplification": "正文降低斜度与切口，不为借笔形改母本；源图付字仅作定位，不将它自动纠为负",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "16b593af85caf2a1989c8733532cf34d584e12ecd68c1564b828caba18931772",
+   "decoded_pixel_sha256": "c8381df88b2ace3850c8cbe7f39ac0e61febb6b347a735e0b21b11aee97a0fcf",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "16b593af85caf2a1989c8733532cf34d584e12ecd68c1564b828caba18931772",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG20",
+   "path": "assets/type-generation-references/TG20_窄斜匀线生活标题.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "fbeee0e89ffb65cf04700e02b4b73a96.jpg",
+   "attachment_positions": [
+    17
+   ],
+   "display_name": "窄斜匀线生活标题",
+   "source_asset_type": "字例/字体效果图",
+   "features": "窄长斜黑、均匀笔画、开放字腔与疏排副题；中间假名是原示例文字",
+   "glyph_samples": [
+    {
+     "anchor": "向往の生活",
+     "position": "截图中部主字例区",
+     "features": "窄长斜黑、均匀笔画、开放字腔与疏排副题；中间假名是原示例文字",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文保留清楚匀线，减少窄化与倾斜；不自动加入假名或改变当前语言"
+    }
+   ],
+   "type_families": [
+    "窄长黑字",
+    "运动斜体"
+   ],
+   "context_tags": [
+    "生活关怀",
+    "人文",
+    "户外休闲"
+   ],
+   "observed_palette": "黑字白底；绿色局部",
+   "body_simplification": "正文保留清楚匀线，减少窄化与倾斜；不自动加入假名或改变当前语言",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "da87dddc87f133f5d371027deb22ee83f4b777b0db17fca51cfd191ecb3bdb54",
+   "decoded_pixel_sha256": "ff3122ec180ea322d8b5cee253505d21c2122cfe0cd5452c5a9448553ab99624",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "da87dddc87f133f5d371027deb22ee83f4b777b0db17fca51cfd191ecb3bdb54",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG21",
+   "path": "assets/type-generation-references/TG21_趣味粗字与柠檬图形.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "6c31de6ef3aea11540eda1ced84c6032.jpg",
+   "attachment_positions": [
+    18
+   ],
+   "display_name": "趣味粗字与柠檬图形",
+   "source_asset_type": "字例/字体效果图",
+   "features": "圆润粗字、两行紧凑组块；柠檬辅助图形及浅色曲线",
+   "glyph_samples": [
+    {
+     "anchor": "整颗柠檬茶",
+     "position": "截图中部两行字例区",
+     "features": "圆润粗字、两行紧凑组块；柠檬辅助图形及浅色曲线",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文减少图形和不规则组块，降低笔画密度；食品图形仅在本次语义适合时使用"
+    }
+   ],
+   "type_families": [
+    "圆润粗字",
+    "趣味组块"
+   ],
+   "context_tags": [
+    "夏日",
+    "生活",
+    "活动邀约"
+   ],
+   "observed_palette": "黑字白底；黄绿图形",
+   "body_simplification": "正文减少图形和不规则组块，降低笔画密度；食品图形仅在本次语义适合时使用",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "e3d96aec903c1c3502f1e99986add0328fa891bf59645177f737157b8c539a3f",
+   "decoded_pixel_sha256": "9ab9d849bd3776477623c3d397b9aba3f80504771f800853506d970ac5cf6541",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "stacked",
+     "interleaved"
+    ],
+    "semantic_device_observed": "柠檬轮廓点明主题",
+    "source_sha256": "e3d96aec903c1c3502f1e99986add0328fa891bf59645177f737157b8c539a3f",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG22",
+   "path": "assets/type-generation-references/TG22_户外粗字与大小关键词.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "6c96130f07478d1bfd830a5f119dd469.jpg",
+   "attachment_positions": [
+    19
+   ],
+   "display_name": "户外粗字与大小关键词",
+   "source_asset_type": "字例/字体效果图",
+   "features": "三个粗黑大字错落排列，中字野上移；双箭头与绿色局部强调",
+   "glyph_samples": [
+    {
+     "anchor": "撒野去",
+     "position": "截图中部主字例区",
+     "features": "三个粗黑大字错落排列，中字野上移；双箭头与绿色局部强调",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文统一字面大小，删除无语义箭头，必要强调沿本次配色控制"
+    }
+   ],
+   "type_families": [
+    "粗黑几何",
+    "错落组块"
+   ],
+   "context_tags": [
+    "户外",
+    "探索",
+    "青年活动"
+   ],
+   "observed_palette": "黑字白底；绿色强调",
+   "body_simplification": "正文统一字面大小，删除无语义箭头，必要强调沿本次配色控制",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "ee16d59dfb496c0397968fa48bf77932d9d6aded5e3766458bae0e342d5cc500",
+   "decoded_pixel_sha256": "476a21db0d913254bffa6550c8fc0569267a0375013a5c37db8b256f5d5fccbb",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "staggered",
+     "interleaved"
+    ],
+    "semantic_device_observed": "中字上移及箭头产生向外动势",
+    "source_sha256": "ee16d59dfb496c0397968fa48bf77932d9d6aded5e3766458bae0e342d5cc500",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG23",
+   "path": "assets/type-generation-references/TG23_圆角粗字与传统生活副题.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "1aa8bad7ea813cf7e3a5b43d8da3f3cb.jpg",
+   "attachment_positions": [
+    20
+   ],
+   "display_name": "圆角粗字与传统生活副题",
+   "source_asset_type": "字例/字体效果图",
+   "features": "圆角粗字、短副题与橙黄色四瓣花形；厚字面、开阔转角",
+   "glyph_samples": [
+    {
+     "anchor": "花生酥糖",
+     "position": "截图中部主字例区",
+     "features": "圆角粗字、短副题与橙黄色四瓣花形；厚字面、开阔转角",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文稍减字重、扩大内白与行距，四瓣花形只作适当分组装饰"
+    }
+   ],
+   "type_families": [
+    "圆润粗字"
+   ],
+   "context_tags": [
+    "生活",
+    "传统文化",
+    "亲和活动"
+   ],
+   "observed_palette": "黑字白底；暖黄点缀",
+   "body_simplification": "正文稍减字重、扩大内白与行距，四瓣花形只作适当分组装饰",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "6db64fc3a55afc571e7e51c9e16b5b5210038ed37a814904b34f31d8785b7ff1",
+   "decoded_pixel_sha256": "ba6d2bbabe7442665a8a9d472a5957719d0e1855eb9187225fbfa8b24d706e4f",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal"
+    ],
+    "semantic_device_observed": "花形作小点缀",
+    "source_sha256": "6db64fc3a55afc571e7e51c9e16b5b5210038ed37a814904b34f31d8785b7ff1",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG24",
+   "path": "assets/type-generation-references/TG24_几何黑字与弧形英文.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "8df4fa215e7353780ec9d2c0dc63abc4.jpg",
+   "attachment_positions": [
+    21
+   ],
+   "display_name": "几何黑字与弧形英文",
+   "source_asset_type": "字例/字体效果图",
+   "features": "稳定几何字面、弧形英文标签、下方紧凑短副题",
+   "glyph_samples": [
+    {
+     "anchor": "山野漫步",
+     "position": "截图中部主字例区",
+     "features": "稳定几何字面、弧形英文标签、下方紧凑短副题",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文取清楚几何笔画，保持正向基线，不照搬弧形英文和紧密短句比例"
+    }
+   ],
+   "type_families": [
+    "粗黑几何",
+    "弧形辅助字"
+   ],
+   "context_tags": [
+    "自然",
+    "漫步",
+    "户外活动"
+   ],
+   "observed_palette": "黑字白底",
+   "body_simplification": "正文取清楚几何笔画，保持正向基线，不照搬弧形英文和紧密短句比例",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "38ad53d394a3a8557ec8e0d1a1d0d0a4c59a5b2b761baeb521b2afbdc8f5f8a1",
+   "decoded_pixel_sha256": "a9efe6c95f72d77c02728b81d31728e53f0e9bbf03f2f03e0df539b77788e3d4",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal",
+     "curved"
+    ],
+    "semantic_device_observed": "弧形副题呼应漫步节奏",
+    "source_sha256": "38ad53d394a3a8557ec8e0d1a1d0d0a4c59a5b2b761baeb521b2afbdc8f5f8a1",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG25",
+   "path": "assets/type-generation-references/TG25_横向发布标题与英文副题.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "21e3ed74e2a6c48208285d0926eb8eeb.jpg",
+   "attachment_positions": [
+    22
+   ],
+   "display_name": "横向发布标题与英文副题",
+   "source_asset_type": "字例/字体效果图",
+   "features": "锐利粗黑主字、圆方结合的宽英文副题；日期、中文、英文三级横向组合",
+   "glyph_samples": [
+    {
+     "anchor": "爆品发布会；PRESS CONFERENCE",
+     "position": "截图中部主字例区",
+     "features": "锐利粗黑主字、圆方结合的宽英文副题；日期、中文、英文三级横向组合",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文减字重与英文过宽字面，保持完整词组；不要继承营销语气和样例日期"
+    }
+   ],
+   "type_families": [
+    "粗黑几何",
+    "横向组块"
+   ],
+   "context_tags": [
+    "发布",
+    "通知",
+    "活动说明"
+   ],
+   "observed_palette": "黑字白底",
+   "body_simplification": "正文减字重与英文过宽字面，保持完整词组；不要继承营销语气和样例日期",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "bb778f3c83253dfcac93a9a75b66b8f3f8e8dd27b4003389e4deb1a85e831100",
+   "decoded_pixel_sha256": "2cf14a3568324b2bddf92f9b883e6764865a140016e79533bad34c0685289e91",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "stacked"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "bb778f3c83253dfcac93a9a75b66b8f3f8e8dd27b4003389e4deb1a85e831100",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG26",
+   "path": "assets/type-generation-references/TG26_粗黑生活字与餐碗插图.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "a0a9a181ab4d48156c67ee803b7559ed.jpg",
+   "attachment_positions": [
+    23
+   ],
+   "display_name": "粗黑生活字与餐碗插图",
+   "source_asset_type": "字例/字体效果图",
+   "features": "粗厚近方字面、略圆端点；中央餐碗小图与拉丁标签",
+   "glyph_samples": [
+    {
+     "anchor": "烟火日常",
+     "position": "截图中部主字例区",
+     "features": "粗厚近方字面、略圆端点；中央餐碗小图与拉丁标签",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文保留粗黑基础但降低密度，图形不能替代当前母本字符或挤占字距"
+    }
+   ],
+   "type_families": [
+    "粗黑几何",
+    "生活图形"
+   ],
+   "context_tags": [
+    "生活服务",
+    "邻里",
+    "日常活动"
+   ],
+   "observed_palette": "黑字白底",
+   "body_simplification": "正文保留粗黑基础但降低密度，图形不能替代当前母本字符或挤占字距",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "699cffcc06a8257242d00fc23fbdccfb3dd3f3e9ed2ce2e2317cf27ed2c847c8",
+   "decoded_pixel_sha256": "dad3400a6f7eacc22e051d92252178b5211d1fb762afbdd2ed4a393358cf17e6",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal",
+     "interleaved"
+    ],
+    "semantic_device_observed": "餐碗嵌在两字组之间",
+    "source_sha256": "699cffcc06a8257242d00fc23fbdccfb3dd3f3e9ed2ce2e2317cf27ed2c847c8",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG27",
+   "path": "assets/type-generation-references/TG27_厚黑双行标题与星月.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "b368a310dc5557e478cf4eab52d73be9.jpg",
+   "attachment_positions": [
+    24
+   ],
+   "display_name": "厚黑双行标题与星月",
+   "source_asset_type": "字例/字体效果图",
+   "features": "强粗黑方字、两行组块；黄色月亮与星星、轻曲线",
+   "glyph_samples": [
+    {
+     "anchor": "梦境妄想家",
+     "position": "截图中部两行字例区",
+     "features": "强粗黑方字、两行组块；黄色月亮与星星、轻曲线",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文减少装饰和粗黑分量，建立稳定基线；星月仅在主题语义适合时采用"
+    }
+   ],
+   "type_families": [
+    "粗黑几何",
+    "趣味组块"
+   ],
+   "context_tags": [
+    "想象",
+    "文化",
+    "青年活动"
+   ],
+   "observed_palette": "黑字白底；黄色星月",
+   "body_simplification": "正文减少装饰和粗黑分量，建立稳定基线；星月仅在主题语义适合时采用",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "67042eb58cbf463ea559e058e62b14ce3a0c56ebe77d8aa488ab35fddb83a387",
+   "decoded_pixel_sha256": "860728817eb93a38e55e23d755ba416c59346663da0df1351b84519ec5088999",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "stacked",
+     "interleaved"
+    ],
+    "semantic_device_observed": "月亮星星关联梦境",
+    "source_sha256": "67042eb58cbf463ea559e058e62b14ce3a0c56ebe77d8aa488ab35fddb83a387",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG28",
+   "path": "assets/type-generation-references/TG28_斜向粗字与绿色曲线.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "a69d7da9dcb87007eb276e6ade50c379.jpg",
+   "attachment_positions": [
+    25
+   ],
+   "display_name": "斜向粗字与绿色曲线",
+   "source_asset_type": "字例/字体效果图",
+   "features": "粗黑斜体、横向行动感；细绿色曲线穿行与疏排副题",
+   "glyph_samples": [
+    {
+     "anchor": "逐梦前行",
+     "position": "截图中部横向字例区",
+     "features": "粗黑斜体、横向行动感；细绿色曲线穿行与疏排副题",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文减小斜度，曲线不穿越关键笔画与数字；副题保留完整语义组"
+    }
+   ],
+   "type_families": [
+    "运动斜体"
+   ],
+   "context_tags": [
+    "成长",
+    "行动倡议",
+    "运动"
+   ],
+   "observed_palette": "黑字白底；绿色强调线",
+   "body_simplification": "正文减小斜度，曲线不穿越关键笔画与数字；副题保留完整语义组",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "7c91a6f300499f4f2b95411b428a5ac7d4892d3ebf69ca7a04fa79702a57368e",
+   "decoded_pixel_sha256": "74f7eba1706ed533f5684a94619dff9d9635845889cf7f7db1fae24ad99eeb5f",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal"
+    ],
+    "semantic_device_observed": "斜向笔画表达前进",
+    "source_sha256": "7c91a6f300499f4f2b95411b428a5ac7d4892d3ebf69ca7a04fa79702a57368e",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG29",
+   "path": "assets/type-generation-references/TG29_运动斜字与上扬箭头.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "143a031c9d6a4a44df523b3c46db2d0a.jpg",
+   "attachment_positions": [
+    26
+   ],
+   "display_name": "运动斜字与上扬箭头",
+   "source_asset_type": "字例/字体效果图",
+   "features": "粗窄斜向中文与右侧窄斜拉丁字；黄色上扬曲线箭头",
+   "glyph_samples": [
+    {
+     "anchor": "蓄势待发；XUSHI DAIFA",
+     "position": "截图中部横向字例区",
+     "features": "粗窄斜向中文与右侧窄斜拉丁字；黄色上扬曲线箭头",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文降低窄化与斜角，少量保留行动感；装饰箭头不作事实或操作方向"
+    }
+   ],
+   "type_families": [
+    "运动斜体",
+    "窄长黑字"
+   ],
+   "context_tags": [
+    "运动",
+    "准备",
+    "行动倡议"
+   ],
+   "observed_palette": "黑字白底；黄色曲线",
+   "body_simplification": "正文降低窄化与斜角，少量保留行动感；装饰箭头不作事实或操作方向",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "d4dcba2585db4ab861ab26ccfa30ebc8dbb15c4a8a8165476722cbc5f03630ff",
+   "decoded_pixel_sha256": "6515ef8c9d877bde350e18d77594ded2205130a86f664e26f34dc79f3045713a",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal",
+     "side-caption"
+    ],
+    "semantic_device_observed": "窄斜字和上扬曲线表达蓄势",
+    "source_sha256": "d4dcba2585db4ab861ab26ccfa30ebc8dbb15c4a8a8165476722cbc5f03630ff",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG30",
+   "path": "assets/type-generation-references/TG30_极窄长标题与疏排副题.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "f8e402e44c415ef25728a49db733012c.jpg",
+   "attachment_positions": [
+    27
+   ],
+   "display_name": "极窄长标题与疏排副题",
+   "source_asset_type": "字例/字体效果图",
+   "features": "极窄长黑体、纵向拉伸感；下方字距较疏的短句与短横线",
+   "glyph_samples": [
+    {
+     "anchor": "限时好价",
+     "position": "截图中部主字例区",
+     "features": "极窄长黑体、纵向拉伸感；下方字距较疏的短句与短横线",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "只借纵向节奏并扩大正常字面；长正文不用极窄拉伸字，号码避免相似轮廓"
+    }
+   ],
+   "type_families": [
+    "窄长黑字"
+   ],
+   "context_tags": [
+    "短标题",
+    "醒目层级"
+   ],
+   "observed_palette": "黑字白底",
+   "body_simplification": "只借纵向节奏并扩大正常字面；长正文不用极窄拉伸字，号码避免相似轮廓",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "93b71e008bc0c4309e85bc27ac95005cc31f8424e3522d79dd750044b381a700",
+   "decoded_pixel_sha256": "b54b30df067a786cd658945ca56cd618bd8e6e542f46037b464f115a720c9777",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "93b71e008bc0c4309e85bc27ac95005cc31f8424e3522d79dd750044b381a700",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG31",
+   "path": "assets/type-generation-references/TG31_自然黄书写与深绿摄影.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "a1ca2d832d521af70345c47c60c858c0.jpg",
+   "attachment_positions": [
+    28
+   ],
+   "display_name": "自然黄书写与深绿摄影",
+   "source_asset_type": "字例/字体效果图",
+   "features": "大幅细粗对比的手写笔势、粗糙纹理与长收笔；下方独立信息",
+   "glyph_samples": [
+    {
+     "anchor": "随风去野",
+     "position": "截图内摄影海报上半部主字区",
+     "features": "大幅细粗对比的手写笔势、粗糙纹理与长收笔；下方独立信息",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文取清楚书写气质、去长拖尾和飞白，长句用稳定笔画；摄影上重新核查对比"
+    }
+   ],
+   "type_families": [
+    "书写书法",
+    "摄影搭配"
+   ],
+   "context_tags": [
+    "自然",
+    "户外",
+    "自由探索"
+   ],
+   "observed_palette": "亮黄字；深绿草地；红色人物配饰",
+   "body_simplification": "正文取清楚书写气质、去长拖尾和飞白，长句用稳定笔画；摄影上重新核查对比",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "a916494bb358efaf397c949cf430c039adec16ba12af31ddea34b9f3178ee27f",
+   "decoded_pixel_sha256": "3204a3730a924e49daed6cc8af119dc0c1be369e124024c85a2d0865804e72f6",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "vertical",
+     "staggered"
+    ],
+    "semantic_device_observed": "长收笔/粗细变化关联风与自由",
+    "source_sha256": "a916494bb358efaf397c949cf430c039adec16ba12af31ddea34b9f3178ee27f",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG32",
+   "path": "assets/type-generation-references/TG32_棱角斜体的双色背景对照.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "bd119deef05b0189e3829ef082f70ead.jpg",
+   "attachment_positions": [
+    29
+   ],
+   "display_name": "棱角斜体的双色背景对照",
+   "source_asset_type": "字例/字体效果图",
+   "features": "粗黑角切斜体、两行强动势；同款分别黑字和白字展示",
+   "glyph_samples": [
+    {
+     "anchor": "无畏挑战；极速成长",
+     "position": "截图上方白底及中部深底同款字组",
+     "features": "粗黑角切斜体、两行强动势；同款分别黑字和白字展示",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文减切口与倾斜，保留开口和数字辨识；两种背景展示不当两款字体"
+    }
+   ],
+   "type_families": [
+    "棱角科技",
+    "运动斜体"
+   ],
+   "context_tags": [
+    "挑战",
+    "成长",
+    "运动活动"
+   ],
+   "observed_palette": "黑白字；深灰纹理底",
+   "body_simplification": "正文减切口与倾斜，保留开口和数字辨识；两种背景展示不当两款字体",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "f6de425a8eb32c9144bec01b730e380ac1ff7ca7174e70e0ec3f73768f17b6c2",
+   "decoded_pixel_sha256": "7739255d9cd44322f721743b5c324630e849c79e30361e7e1b96b58552939524",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "stacked",
+     "staggered",
+     "side-caption"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "f6de425a8eb32c9144bec01b730e380ac1ff7ca7174e70e0ec3f73768f17b6c2",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG33",
+   "path": "assets/type-generation-references/TG33_粗黑线性叠边与数字.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "2305a78737981eb9b85bd6dfa9cc6c69.jpg",
+   "attachment_positions": [
+    30
+   ],
+   "display_name": "粗黑线性叠边与数字",
+   "source_asset_type": "字例/字体效果图",
+   "features": "棱角粗黑、连续线性叠边、主数字与小旁题",
+   "glyph_samples": [
+    {
+     "anchor": "再见；我的2023",
+     "position": "截图上方白底及中部纹理底同款字组",
+     "features": "棱角粗黑、连续线性叠边、主数字与小旁题",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文移除密集叠边，仅借基础轮廓，数字采用清楚实心结构；不继承2023"
+    }
+   ],
+   "type_families": [
+    "装饰线体",
+    "棱角科技"
+   ],
+   "context_tags": [
+    "回顾",
+    "纪念",
+    "短主题字"
+   ],
+   "observed_palette": "黑字；白色碎片纹理底",
+   "body_simplification": "正文移除密集叠边，仅借基础轮廓，数字采用清楚实心结构；不继承2023",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "0a0f41c8edcb174af2416b170266536624e524cef1577c50bcde1f936f5829fa",
+   "decoded_pixel_sha256": "ac6716ccdc603892e6ad4efd6e6270774c79178ab03a74cce784f24dd4773676",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal",
+     "side-caption"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "0a0f41c8edcb174af2416b170266536624e524cef1577c50bcde1f936f5829fa",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG34",
+   "path": "assets/type-generation-references/TG34_方折家居字与点状黄色.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "f239d4d1d06dc8c91081fe51932dffa2.jpg",
+   "attachment_positions": [
+    31
+   ],
+   "display_name": "方折家居字与点状黄色",
+   "source_asset_type": "字例/字体效果图",
+   "features": "方折匀宽黑字、简化灯泡图形、短副题与两侧横线",
+   "glyph_samples": [
+    {
+     "anchor": "更别致の家居",
+     "position": "截图上方白底及中部家居摄影同款字组",
+     "features": "方折匀宽黑字、简化灯泡图形、短副题与两侧横线",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文减去灯泡替字式图形和假名，保证准确文字；折角简化并统一标点"
+    }
+   ],
+   "type_families": [
+    "棱角科技",
+    "横向组块",
+    "摄影搭配"
+   ],
+   "context_tags": [
+    "生活",
+    "空间",
+    "服务说明"
+   ],
+   "observed_palette": "黑白字；黄色局部；暖米家居底",
+   "body_simplification": "正文减去灯泡替字式图形和假名，保证准确文字；折角简化并统一标点",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "ae8fe06e5ac72dcfa31b6572efc093ee5cf6f82991d40a8a4420158998f60ed1",
+   "decoded_pixel_sha256": "e1670f23ebc4baf35655e2471531b9f367d7237ae21205b0f958c15e38c5a3ae",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal",
+     "interleaved"
+    ],
+    "semantic_device_observed": "灯泡作字组间辅助图形",
+    "source_sha256": "ae8fe06e5ac72dcfa31b6572efc093ee5cf6f82991d40a8a4420158998f60ed1",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG35",
+   "path": "assets/type-generation-references/TG35_粗黑切口双行与对话小组.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "0a496b54a479d52dfaac1a3931244ee6.jpg",
+   "attachment_positions": [
+    32
+   ],
+   "display_name": "粗黑切口双行与对话小组",
+   "source_asset_type": "字例/字体效果图",
+   "features": "粗黑方字、局部切口与线性侧边；引号和蓝色英文对话框辅助",
+   "glyph_samples": [
+    {
+     "anchor": "今夜不加班",
+     "position": "截图上方白底及中部蓝底同款字组",
+     "features": "粗黑方字、局部切口与线性侧边；引号和蓝色英文对话框辅助",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文去切口密集边线与无语义引号；主标题不继承围框，英文不自动新增"
+    }
+   ],
+   "type_families": [
+    "粗黑几何",
+    "装饰切口"
+   ],
+   "context_tags": [
+    "生活关怀",
+    "青年活动",
+    "轻松话题"
+   ],
+   "observed_palette": "黑白字；蓝色辅助",
+   "body_simplification": "正文去切口密集边线与无语义引号；主标题不继承围框，英文不自动新增",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "e0e27909794a34f7c25c194e8a7bc8663a7a04da04c12018cdc49e8a216ead83",
+   "decoded_pixel_sha256": "b73a88aa16215ca2efd65a9ab2f40f9979278ffb12d646d1aaa0e91ed93fb3f7",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "stacked",
+     "side-caption"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "e0e27909794a34f7c25c194e8a7bc8663a7a04da04c12018cdc49e8a216ead83",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG36",
+   "path": "assets/type-generation-references/TG36_斜向短句与大数字层级.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "6bcd716ea13d0096e3d49365040a08b1.jpg",
+   "attachment_positions": [
+    33
+   ],
+   "display_name": "斜向短句与大数字层级",
+   "source_asset_type": "字例/字体效果图",
+   "features": "粗斜短句左右分组、中间大数字；下方疏排拉丁标签",
+   "glyph_samples": [
+    {
+     "anchor": "越努力；越幸运；7",
+     "position": "截图上方白底及中部山野摄影同款字组",
+     "features": "粗斜短句左右分组、中间大数字；下方疏排拉丁标签",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文保持统一正常字面与完整句，只有母本真实存在的数字才放大，不添加7"
+    }
+   ],
+   "type_families": [
+    "运动斜体",
+    "数字层级",
+    "摄影搭配"
+   ],
+   "context_tags": [
+    "成长",
+    "运动",
+    "数值强调"
+   ],
+   "observed_palette": "黑白字；黄色大数字",
+   "body_simplification": "正文保持统一正常字面与完整句，只有母本真实存在的数字才放大，不添加7",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "1d61870e5a26aaa4863159e84c3fc37951fc29c46bf6d6eabc9dc93737782b27",
+   "decoded_pixel_sha256": "75920fdbbd9034b10fd87e4ef74ebafa876be1c667de8fb9f4a0838246567ba8",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal",
+     "interleaved"
+    ],
+    "semantic_device_observed": "大数字作为两侧字组枢纽",
+    "source_sha256": "1d61870e5a26aaa4863159e84c3fc37951fc29c46bf6d6eabc9dc93737782b27",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG37",
+   "path": "assets/type-generation-references/TG37_粗几何活动字与轮廓装饰.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "1fd7830bd7107050591ffa40b8415449.jpg",
+   "attachment_positions": [
+    34
+   ],
+   "display_name": "粗几何活动字与轮廓装饰",
+   "source_asset_type": "字例/字体效果图",
+   "features": "粗黑棱角主字、下方年份日期与胶囊旁题；上部猫耳轮廓",
+   "glyph_samples": [
+    {
+     "anchor": "狂欢盛典",
+     "position": "截图上方白底及中部橙底同款字组",
+     "features": "粗黑棱角主字、下方年份日期与胶囊旁题；上部猫耳轮廓",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文清楚实心笔画；主标题禁框，去承托围廓；不继承促销年份日期及标签"
+    }
+   ],
+   "type_families": [
+    "粗黑几何",
+    "装饰轮廓"
+   ],
+   "context_tags": [
+    "活动邀约",
+    "热烈主题"
+   ],
+   "observed_palette": "黑白字；橙红色底",
+   "body_simplification": "正文清楚实心笔画；主标题禁框，去承托围廓；不继承促销年份日期及标签",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "9de3295b87a7931983c67927eac2d6889d210576f0a0918c9b90843058efb656",
+   "decoded_pixel_sha256": "65d19971111e587ac189bd3666b5457fe6888e2fafbaca2b65aa97b1649a923b",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "9de3295b87a7931983c67927eac2d6889d210576f0a0918c9b90843058efb656",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG38",
+   "path": "assets/type-generation-references/TG38_复古块面与弧形拉丁标题.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "88436580a5d5ac5e7f5b464f695e5213.jpg",
+   "attachment_positions": [
+    35
+   ],
+   "display_name": "复古块面与弧形拉丁标题",
+   "source_asset_type": "字例/字体效果图",
+   "features": "块面粗字、圆角与方折混合；弧形拉丁组、圈号和年份",
+   "glyph_samples": [
+    {
+     "anchor": "东街壹号",
+     "position": "截图上方白底及中部复古街景同款字组",
+     "features": "块面粗字、圆角与方折混合；弧形拉丁组、圈号和年份",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文提取稳定块面基础、减少复古切口；年份与圈号需来自当前母本"
+    }
+   ],
+   "type_families": [
+    "复古几何",
+    "弧形辅助字",
+    "摄影搭配"
+   ],
+   "context_tags": [
+    "社区文化",
+    "街区",
+    "怀旧活动"
+   ],
+   "observed_palette": "黑白字；暖灰褐街景底",
+   "body_simplification": "正文提取稳定块面基础、减少复古切口；年份与圈号需来自当前母本",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "e41ac0386a9b82d00353fc4be927abb405a00f11db332e6a5bb37a61d6b8d82a",
+   "decoded_pixel_sha256": "821c06e7d26867faef5d73dbff5b7872f57db9bc3ca466045af1fb77b8261a28",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal",
+     "curved"
+    ],
+    "semantic_device_observed": "弧形副题与块面字表达街区复古",
+    "source_sha256": "e41ac0386a9b82d00353fc4be927abb405a00f11db332e6a5bb37a61d6b8d82a",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG39",
+   "path": "assets/type-generation-references/TG39_两字竖向书写标志.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "d247715316fefd1ed7870716278468c3.jpg",
+   "attachment_positions": [
+    36,
+    37
+   ],
+   "display_name": "两字竖向书写标志",
+   "source_asset_type": "字例/字体效果图",
+   "features": "粗书写笔画、端点变化、两字上下紧凑组合与拉丁下标；中文识读待确认",
+   "glyph_samples": [
+    {
+     "anchor": "两字竖排；YUGE下标",
+     "position": "截图中央两字竖排标志区",
+     "features": "粗书写笔画、端点变化、两字上下紧凑组合与拉丁下标；中文识读待确认",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文降低书写变形和浓重端点；按位置定位，不将不确定中文或拉丁下标当正文事实"
+    }
+   ],
+   "type_families": [
+    "书写书法",
+    "品牌字组"
+   ],
+   "context_tags": [
+    "人文",
+    "生活",
+    "文化活动"
+   ],
+   "observed_palette": "黑字白底",
+   "body_simplification": "正文降低书写变形和浓重端点；按位置定位，不将不确定中文或拉丁下标当正文事实",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "a9a53fc500a69741719db545574b303920cbd2ad0fb6579f93d06e7516cdb5d0",
+   "decoded_pixel_sha256": "7db5cc16fdedf9f3ac39d4c7b119f50d1e17900f3acbf08b5305f18ea0e5b7bd",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "vertical"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "a9a53fc500a69741719db545574b303920cbd2ad0fb6579f93d06e7516cdb5d0",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG40",
+   "path": "assets/type-generation-references/TG40_镜界块面与英文基线.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "cdf409564f470d79121661439d63e6a7.jpg",
+   "attachment_positions": [
+    38
+   ],
+   "display_name": "镜界块面与英文基线",
+   "source_asset_type": "字例/字体效果图",
+   "features": "宽厚块面黑字、局部切口与下方英文较大基线组",
+   "glyph_samples": [
+    {
+     "anchor": "镜界；JING JIE",
+     "position": "截图中央横向标志区",
+     "features": "宽厚块面黑字、局部切口与下方英文较大基线组",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文减少切口和厚度，保持开阔字腔与字距；不继承品牌名或注册标识"
+    }
+   ],
+   "type_families": [
+    "粗黑几何",
+    "品牌字组"
+   ],
+   "context_tags": [
+    "视觉文化",
+    "展览",
+    "短主题字"
+   ],
+   "observed_palette": "黑字白底",
+   "body_simplification": "正文减少切口和厚度，保持开阔字腔与字距；不继承品牌名或注册标识",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "93c32ec4b95496ab0cdaaea825f9e42c1eb46f48fb47e8601411f0301f711fd6",
+   "decoded_pixel_sha256": "450faa38b721606ad35a07e646f72b76851b7b70795455c18fd46d2a05b73ba4",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "stacked"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "93c32ec4b95496ab0cdaaea825f9e42c1eb46f48fb47e8601411f0301f711fd6",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG41",
+   "path": "assets/type-generation-references/TG41_两字竖排与红印章.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "ae09bb44ff7771c77a92fb92aedda834.jpg",
+   "attachment_positions": [
+    39
+   ],
+   "display_name": "两字竖排与红印章",
+   "source_asset_type": "字例/字体效果图",
+   "features": "匀宽书写式横竖、斜点与局部粗细变化；小红印章与英文夹组",
+   "glyph_samples": [
+    {
+     "anchor": "上、下两字及SUN CENT中间标签",
+     "position": "截图中央两字竖排标志区",
+     "features": "匀宽书写式横竖、斜点与局部粗细变化；小红印章与英文夹组",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文保留清楚匀线和笔势，去印章与夹组标签；中文字义不稳时不强制转写"
+    }
+   ],
+   "type_families": [
+    "书写匀线",
+    "品牌字组"
+   ],
+   "context_tags": [
+    "人文",
+    "诚信语境",
+    "文化活动"
+   ],
+   "observed_palette": "黑字白底；红色小印章",
+   "body_simplification": "正文保留清楚匀线和笔势，去印章与夹组标签；中文字义不稳时不强制转写",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "978a4c25ffa7cdd7cd24159d66ff41b9beb53f948a574608603e1713a7fca495",
+   "decoded_pixel_sha256": "39873166a60e55205be039bee0f9a073a91f3ca98f9f95ac4184ff901666b0cc",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "vertical",
+     "interleaved"
+    ],
+    "semantic_device_observed": "印章与竖组形成书写关系",
+    "source_sha256": "978a4c25ffa7cdd7cd24159d66ff41b9beb53f948a574608603e1713a7fca495",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG42",
+   "path": "assets/type-generation-references/TG42_窄斜等待标题与短副题.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "2e5abd75163c6774472566fc148642ed.jpg",
+   "attachment_positions": [
+    40
+   ],
+   "display_name": "窄斜等待标题与短副题",
+   "source_asset_type": "字例/字体效果图",
+   "features": "粗窄斜字、左右装饰括号；横向副题及黄色细曲线",
+   "glyph_samples": [
+    {
+     "anchor": "永远的等待",
+     "position": "截图上方白底及中部钟表摄影同款字组",
+     "features": "粗窄斜字、左右装饰括号；横向副题及黄色细曲线",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文减斜度窄化，保持完整横向词组；括号曲线不作围框或切断阅读"
+    }
+   ],
+   "type_families": [
+    "运动斜体",
+    "摄影搭配"
+   ],
+   "context_tags": [
+    "时间",
+    "等待",
+    "行动语境"
+   ],
+   "observed_palette": "黑白字；黄色曲线；钟表摄影",
+   "body_simplification": "正文减斜度窄化，保持完整横向词组；括号曲线不作围框或切断阅读",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "74159c674035339cf438225dca38fea5ae06d0c2c6761038e26f1273e252f062",
+   "decoded_pixel_sha256": "a4772c6995fafa18fc797d0f3b8823f84b773aed121e1d886c16e53f7a4e6ed6",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal",
+     "side-caption"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "74159c674035339cf438225dca38fea5ae06d0c2c6761038e26f1273e252f062",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG43",
+   "path": "assets/type-generation-references/TG43_衬线大字与中间英文小组.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "b3e7366ae64d15156baa52d064ef0115.jpg",
+   "attachment_positions": [
+    41
+   ],
+   "display_name": "衬线大字与中间英文小组",
+   "source_asset_type": "字例/字体效果图",
+   "features": "高粗细对比的尖角衬线；上下字块、中央英文填隙；图片上绿色字",
+   "glyph_samples": [
+    {
+     "anchor": "神奈川；新聞",
+     "position": "截图上部浅底及下部街景同款字组",
+     "features": "高粗细对比的尖角衬线；上下字块、中央英文填隙；图片上绿色字",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文加足细笔画分量，取消填隙碎组；不继承原新闻名称、繁简写法或英文"
+    }
+   ],
+   "type_families": [
+    "衬线人文",
+    "错落组块",
+    "摄影搭配"
+   ],
+   "context_tags": [
+    "街区",
+    "人文",
+    "文化资讯"
+   ],
+   "observed_palette": "黑字；绿色字；暖暗街景底",
+   "body_simplification": "正文加足细笔画分量，取消填隙碎组；不继承原新闻名称、繁简写法或英文",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "513087951a39c84a506b65dae022b9338ebd0d47e3bc3a22a9ba5bbd7a1e96d4",
+   "decoded_pixel_sha256": "0eef288fa6460abda3271c81fbee39d9a46bec833c88fa726cccf9325255e26a",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "stacked",
+     "interleaved"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "513087951a39c84a506b65dae022b9338ebd0d47e3bc3a22a9ba5bbd7a1e96d4",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG44",
+   "path": "assets/type-generation-references/TG44_窄长衬线与阶梯组合.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "e68b7054182941eaa3b2af38b494562a.jpg",
+   "attachment_positions": [
+    42
+   ],
+   "display_name": "窄长衬线与阶梯组合",
+   "source_asset_type": "字例/字体效果图",
+   "features": "窄长高对比衬线、阶梯式三行中文与英文侧组",
+   "glyph_samples": [
+    {
+     "anchor": "阳光下的小确幸",
+     "position": "截图上部浅黄底及下部草地摄影同款字组",
+     "features": "窄长高对比衬线、阶梯式三行中文与英文侧组",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文恢复正常字面宽度、增加细笔画分量与间距；英文用完整可读词组"
+    }
+   ],
+   "type_families": [
+    "衬线人文",
+    "错落组块",
+    "摄影搭配"
+   ],
+   "context_tags": [
+    "生活关怀",
+    "春日",
+    "文化活动"
+   ],
+   "observed_palette": "黑白字；浅黄底；绿色草地",
+   "body_simplification": "正文恢复正常字面宽度、增加细笔画分量与间距；英文用完整可读词组",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "00979912e7c12736194f49cb3aa6ccad46a86268cf21e17d4b80953386097722",
+   "decoded_pixel_sha256": "438cf73c22ad6bb2537278ae9c16bf6660da18dbd453d04bb1101222f8e05898",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "staggered",
+     "vertical",
+     "side-caption"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "00979912e7c12736194f49cb3aa6ccad46a86268cf21e17d4b80953386097722",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG45",
+   "path": "assets/type-generation-references/TG45_展览衬线与左右大组.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "df051397462c33b713775062e9cc6d58.jpg",
+   "attachment_positions": [
+    43
+   ],
+   "display_name": "展览衬线与左右大组",
+   "source_asset_type": "字例/字体效果图",
+   "features": "衬线主字左右分组、中央英文、上方展览标签；日期由细线连接",
+   "glyph_samples": [
+    {
+     "anchor": "城中；山野；摄影展",
+     "position": "截图上部浅底及下部蓝绿风景同款字组",
+     "features": "衬线主字左右分组、中央英文、上方展览标签；日期由细线连接",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文用清楚衬线基础与足够字重；本次日期范围完整同行，不继承连接示例或装饰英文"
+    }
+   ],
+   "type_families": [
+    "衬线人文",
+    "横向组块",
+    "摄影搭配"
+   ],
+   "context_tags": [
+    "展览",
+    "摄影",
+    "人文"
+   ],
+   "observed_palette": "黑白字；深蓝绿色摄影底",
+   "body_simplification": "正文用清楚衬线基础与足够字重；本次日期范围完整同行，不继承连接示例或装饰英文",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "844f7af00027c6e407751186d72d3d34aef85bb3c0232a191e9e347ab91a4ca9",
+   "decoded_pixel_sha256": "fc09788443c165a7e0f6567b3ef5b751d2e902d7dece47a452cd29618e5aedcb",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal",
+     "interleaved"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "844f7af00027c6e407751186d72d3d34aef85bb3c0232a191e9e347ab91a4ca9",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG46",
+   "path": "assets/type-generation-references/TG46_花卉书写竖组与橙色点缀.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "ad675b12545e82b6d6d038334170d7be.jpg",
+   "attachment_positions": [
+    44
+   ],
+   "display_name": "花卉书写竖组与橙色点缀",
+   "source_asset_type": "字例/字体效果图",
+   "features": "柔和书写笔形、四字错落竖组、小花点缀和拉丁侧组；侧组与中文字义不一致",
+   "glyph_samples": [
+    {
+     "anchor": "四字竖组与橙色小花；未闻花名字形近似",
+     "position": "截图上部浅底及下部花枝摄影文字区",
+     "features": "柔和书写笔形、四字错落竖组、小花点缀和拉丁侧组；侧组与中文字义不一致",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文统一大小与正向笔形，竖向按当前从左到右列序；不根据侧组猜字或添加花名"
+    }
+   ],
+   "type_families": [
+    "柔和书写",
+    "竖向组块",
+    "摄影搭配"
+   ],
+   "context_tags": [
+    "花卉",
+    "文化",
+    "生活关怀"
+   ],
+   "observed_palette": "黑字；橙色小花；灰白摄影底",
+   "body_simplification": "正文统一大小与正向笔形，竖向按当前从左到右列序；不根据侧组猜字或添加花名",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "ede73f202e3ad4806ad1f78f5a706ce6cfcc26c3acb6261a7ad108a04d671a0f",
+   "decoded_pixel_sha256": "76f1bd46d0b064d5bd778ab5b564c6e8524889b3fb77c300a3e7f2af25b0ae30",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "vertical",
+     "staggered",
+     "side-caption"
+    ],
+    "semantic_device_observed": "小花与竖向书写关联花卉",
+    "source_sha256": "ede73f202e3ad4806ad1f78f5a706ce6cfcc26c3acb6261a7ad108a04d671a0f",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG47",
+   "path": "assets/type-generation-references/TG47_竖向衬线与纵置英文对照.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "1096f6e5750a9e278ef10091dfd2c575.jpg",
+   "attachment_positions": [
+    45
+   ],
+   "display_name": "竖向衬线与纵置英文对照",
+   "source_asset_type": "字例/字体效果图",
+   "features": "中文竖向衬线、旋转英文与侧边极小字；黑白建筑摄影",
+   "glyph_samples": [
+    {
+     "anchor": "秩序的诗意；Poetic Order",
+     "position": "截图上部浅底及下部建筑摄影文字区",
+     "features": "中文竖向衬线、旋转英文与侧边极小字；黑白建筑摄影",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "中文正文加足笔画与行距；英文用完整横向词组叠排，禁止照搬旋转英文和占位说明"
+    }
+   ],
+   "type_families": [
+    "衬线人文",
+    "竖向组块",
+    "摄影搭配"
+   ],
+   "context_tags": [
+    "建筑",
+    "人文",
+    "展览"
+   ],
+   "observed_palette": "黑白字；黑白建筑底",
+   "body_simplification": "中文正文加足笔画与行距；英文用完整横向词组叠排，禁止照搬旋转英文和占位说明",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "ecfde8a2e323458414d58b99b35bd2685af9db071077bda913651e8b0df87304",
+   "decoded_pixel_sha256": "0f150dae74c7b0f9f64a4031cae35774d98c40cacaecd1fded63455bb1cb80ef",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "vertical",
+     "side-caption"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "ecfde8a2e323458414d58b99b35bd2685af9db071077bda913651e8b0df87304",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG48",
+   "path": "assets/type-generation-references/TG48_月球主题清楚衬线与括号.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "7a437c79756879804c7770350a69d27a.jpg",
+   "attachment_positions": [
+    46
+   ],
+   "display_name": "月球主题清楚衬线与括号",
+   "source_asset_type": "字例/字体效果图",
+   "features": "清楚衬线横组、上下英文层级、左右花括号与作者标记",
+   "glyph_samples": [
+    {
+     "anchor": "月球風格愛情；MOON STYLE LOVE",
+     "position": "截图上部浅底及下部月亮摄影同款字组",
+     "features": "清楚衬线横组、上下英文层级、左右花括号与作者标记",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文减少花括号和细小装饰，采用当前母本繁简与语言；作者名不是本次信息"
+    }
+   ],
+   "type_families": [
+    "衬线人文",
+    "摄影搭配"
+   ],
+   "context_tags": [
+    "文化",
+    "夜景",
+    "人文情绪"
+   ],
+   "observed_palette": "黑白字；蓝色夜景摄影底",
+   "body_simplification": "正文减少花括号和细小装饰，采用当前母本繁简与语言；作者名不是本次信息",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "7f03885d09be7c36b339744d934a82fd9591d6220eeee2d98ac54dbf6a16e285",
+   "decoded_pixel_sha256": "17b53456899ec541fd9be7eebcad4f3b26faa60f88ad6e349bc39780bab52f7f",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal",
+     "stacked"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "7f03885d09be7c36b339744d934a82fd9591d6220eeee2d98ac54dbf6a16e285",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG49",
+   "path": "assets/type-generation-references/TG49_轻衬线四字与侧组.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "90532d3057a33518d0741493b8a638db.jpg",
+   "attachment_positions": [
+    47
+   ],
+   "display_name": "轻衬线四字与侧组",
+   "source_asset_type": "字例/字体效果图",
+   "features": "偏细清楚衬线、2×2大字与侧边纹理方块、英文和竖向短标签",
+   "glyph_samples": [
+    {
+     "anchor": "行／字／间／里四字2×2区",
+     "position": "截图上部浅底及下部灰阶场景同款字组",
+     "features": "偏细清楚衬线、2×2大字与侧边纹理方块、英文和竖向短标签",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文保持足够笔画分量和完整阅读顺序；不硬定义四字题名，纹理方块不能成为必备承托框"
+    }
+   ],
+   "type_families": [
+    "衬线人文",
+    "轻字重",
+    "摄影搭配"
+   ],
+   "context_tags": [
+    "阅读",
+    "文化",
+    "展览"
+   ],
+   "observed_palette": "深褐黑字；白字；灰阶摄影底",
+   "body_simplification": "正文保持足够笔画分量和完整阅读顺序；不硬定义四字题名，纹理方块不能成为必备承托框",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "6c451753f3de6e9b4c6522ad4cd8ddc98ba2f3eadeccc0c39ab25906b5074d58",
+   "decoded_pixel_sha256": "a7a48d1bdd72be6f5b4a35a471315c7728f405184234e383d0f88c08f5e808c7",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "grid",
+     "side-caption"
+    ],
+    "semantic_device_observed": "2×2字组与侧组制造留白",
+    "source_sha256": "6c451753f3de6e9b4c6522ad4cd8ddc98ba2f3eadeccc0c39ab25906b5074d58",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG50",
+   "path": "assets/type-generation-references/TG50_书写衬线横题与疏散拉丁.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "a935e87c9e75fa52fc1f8d0eb3ab7d05.jpg",
+   "attachment_positions": [
+    48
+   ],
+   "display_name": "书写衬线横题与疏散拉丁",
+   "source_asset_type": "字例/字体效果图",
+   "features": "较强书写衬线与横向笔势；下方稀疏拉丁单字母和极小装饰说明",
+   "glyph_samples": [
+    {
+     "anchor": "第二次拥抱",
+     "position": "截图上部浅底及下部海边摄影同款字组",
+     "features": "较强书写衬线与横向笔势；下方稀疏拉丁单字母和极小装饰说明",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文收敛书写变形；英文不能逐字母散排长句，不继承装饰说明与字母"
+    }
+   ],
+   "type_families": [
+    "书写衬线",
+    "摄影搭配"
+   ],
+   "context_tags": [
+    "人文",
+    "关怀",
+    "文化活动"
+   ],
+   "observed_palette": "黑白字；深蓝海边与暖橙夕阳",
+   "body_simplification": "正文收敛书写变形；英文不能逐字母散排长句，不继承装饰说明与字母",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "f0f1b7396ec8c7f2408671a18c29d711d4ca114bbaf2c5c49bc4ab2d918cab85",
+   "decoded_pixel_sha256": "2fdd0e036de2ccf61dac7d1ef5c1e20e230f838e82f9e6721e987cf9e1264fb6",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "f0f1b7396ec8c7f2408671a18c29d711d4ca114bbaf2c5c49bc4ab2d918cab85",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG51",
+   "path": "assets/type-generation-references/TG51_复古衬线两行与英文副组.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "267a3d3da610c1ee3f44b5d16503a03f.jpg",
+   "attachment_positions": [
+    49
+   ],
+   "display_name": "复古衬线两行与英文副组",
+   "source_asset_type": "字例/字体效果图",
+   "features": "厚重装饰衬线、两行错落字块与英文副组；传统字形",
+   "glyph_samples": [
+    {
+     "anchor": "蘸料禮物鋪；Sauce & Gift",
+     "position": "截图上部浅暖底及下部复古物件摄影同款字组",
+     "features": "厚重装饰衬线、两行错落字块与英文副组；传统字形",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文减少装饰端点、统一字面；沿当前母本文字及繁简，不继承店名或英文含义"
+    }
+   ],
+   "type_families": [
+    "衬线人文",
+    "复古书写",
+    "摄影搭配"
+   ],
+   "context_tags": [
+    "社区文化",
+    "文创",
+    "生活活动"
+   ],
+   "observed_palette": "黑白字；浅暖底；复古物件摄影",
+   "body_simplification": "正文减少装饰端点、统一字面；沿当前母本文字及繁简，不继承店名或英文含义",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "5cb7e432edb89036904bf15c6a4a2133c7988aee60896c8ce0ba1f51d44a93fb",
+   "decoded_pixel_sha256": "dad3c02c2b45f94194d452c40d34ff13ed035d93960e1e3717d9eecc3712c124",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "stacked",
+     "staggered"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "5cb7e432edb89036904bf15c6a4a2133c7988aee60896c8ce0ba1f51d44a93fb",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG52",
+   "path": "assets/type-generation-references/TG52_绿色粉色趣味粗字合集封面.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "2be50a26275b48c0cc0b0963eb990a2b.jpg",
+   "attachment_positions": [
+    50
+   ],
+   "display_name": "绿色粉色趣味粗字合集封面",
+   "source_asset_type": "字例/字体效果图",
+   "features": "粗厚不规则手写、绿粉关键词分组、红色与粉色对话形状和卷曲线",
+   "glyph_samples": [
+    {
+     "anchor": "设计师常用的趣味字体很不错",
+     "position": "截图主体多行彩色字区",
+     "features": "粗厚不规则手写、绿粉关键词分组、红色与粉色对话形状和卷曲线",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文简化为稳定趣味笔画、降低逐字摆动；主标题去围框，色彩依当前主题重配"
+    }
+   ],
+   "type_families": [
+    "趣味粗字",
+    "彩色分组"
+   ],
+   "context_tags": [
+    "亲子",
+    "青年",
+    "轻松活动"
+   ],
+   "observed_palette": "绿色；粉色；红色；白底",
+   "body_simplification": "正文简化为稳定趣味笔画、降低逐字摆动；主标题去围框，色彩依当前主题重配",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "50cb56e6af1eea6b6e60f2fdaf8c643279dd699c281ee65571d2976ca4af6f15",
+   "decoded_pixel_sha256": "3c0508f374d80e683e53788d92e9dd1f1ab0f966b14454091d0916070a17e1e7",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "stacked",
+     "staggered",
+     "interleaved"
+    ],
+    "semantic_device_observed": "绿粉关键词形成语义分组",
+    "source_sha256": "50cb56e6af1eea6b6e60f2fdaf8c643279dd699c281ee65571d2976ca4af6f15",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG53",
+   "path": "assets/type-generation-references/TG53_春日柔软手写与棉花图形.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "32f243a2830a9d2dfff242c16d3b9d9c.jpg",
+   "attachment_positions": [
+    51
+   ],
+   "display_name": "春日柔软手写与棉花图形",
+   "source_asset_type": "字例/字体效果图",
+   "features": "松弛手写粗细变化、错落两行、粉色棉花辅助图形与淡粉英文",
+   "glyph_samples": [
+    {
+     "anchor": "把春天卷成棉花糖",
+     "position": "截图中部主字例区",
+     "features": "松弛手写粗细变化、错落两行、粉色棉花辅助图形与淡粉英文",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文统一基线与行距、减少笔画粘连；浅粉色小字重新核查对比，不固定沿用"
+    }
+   ],
+   "type_families": [
+    "趣味手写",
+    "柔软书写"
+   ],
+   "context_tags": [
+    "春日",
+    "亲子",
+    "友好邀约"
+   ],
+   "observed_palette": "黑字；黄粉；白底",
+   "body_simplification": "正文统一基线与行距、减少笔画粘连；浅粉色小字重新核查对比，不固定沿用",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "b2683adaa7ab471f258631f7ac19a4bc71b57e21042e62289958e04b87190bb2",
+   "decoded_pixel_sha256": "47589217bae5bda9e774ba14878fa1a7633efa79ab142bca07c8a4d5bd781ae1",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "stacked",
+     "staggered",
+     "interleaved"
+    ],
+    "semantic_device_observed": "棉花辅助形与松弛字形呼应柔软",
+    "source_sha256": "b2683adaa7ab471f258631f7ac19a4bc71b57e21042e62289958e04b87190bb2",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG54",
+   "path": "assets/type-generation-references/TG54_泡泡圆润手写与蓝色层级.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "e733fb1cfeaf39e1857a8f50817846f8.jpg",
+   "attachment_positions": [
+    52
+   ],
+   "display_name": "泡泡圆润手写与蓝色层级",
+   "source_asset_type": "字例/字体效果图",
+   "features": "圆润不规则手写、大小错落、蓝色泡泡辅助图形与短副题",
+   "glyph_samples": [
+    {
+     "anchor": "咕噜咕噜；冒泡泡",
+     "position": "截图中部主字例区",
+     "features": "圆润不规则手写、大小错落、蓝色泡泡辅助图形与短副题",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文保留圆润轮廓，减少气泡和大小跳跃；需要提醒或数字时用清楚同系派生"
+    }
+   ],
+   "type_families": [
+    "圆润手写",
+    "趣味组块"
+   ],
+   "context_tags": [
+    "亲子",
+    "水主题",
+    "轻松活动"
+   ],
+   "observed_palette": "深蓝字；浅蓝泡泡；白底",
+   "body_simplification": "正文保留圆润轮廓，减少气泡和大小跳跃；需要提醒或数字时用清楚同系派生",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "2bfc7ca8b7c254055632a8b2d05f7b720275b8f74e08003ca11f97d5b2de8b1f",
+   "decoded_pixel_sha256": "ee7696790ecd919b6a3ceadf112de33348f62ed949f30bbcdf9c04d21ec2ee3b",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "stacked",
+     "staggered",
+     "interleaved"
+    ],
+    "semantic_device_observed": "泡泡辅助形与圆润字形呼应水主题",
+    "source_sha256": "2bfc7ca8b7c254055632a8b2d05f7b720275b8f74e08003ca11f97d5b2de8b1f",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG55",
+   "path": "assets/type-generation-references/TG55_方折粗字与浅绿底色点缀.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "2af9059ab3c1b506b78609c1c35223ab.jpg",
+   "attachment_positions": [
+    53
+   ],
+   "display_name": "方折粗字与浅绿底色点缀",
+   "source_asset_type": "字例/字体效果图",
+   "features": "厚实方折黑字、浅绿不规则色块与穿行绿线；下方短副题与日期",
+   "glyph_samples": [
+    {
+     "anchor": "出逃计划",
+     "position": "截图中部横向主字区",
+     "features": "厚实方折黑字、浅绿不规则色块与穿行绿线；下方短副题与日期",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文减粗黑密度，保留稳定方折；主标题不继承底板，曲线不穿字，日期完整同行"
+    }
+   ],
+   "type_families": [
+    "粗黑几何",
+    "趣味组块"
+   ],
+   "context_tags": [
+    "户外",
+    "探索",
+    "青年活动"
+   ],
+   "observed_palette": "黑字；绿色；浅绿局部",
+   "body_simplification": "正文减粗黑密度，保留稳定方折；主标题不继承底板，曲线不穿字，日期完整同行",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "fed1e6bca312bca8ee5e53c94d6564e4c6a637b3cafd66b3709c5c2ddb00d48e",
+   "decoded_pixel_sha256": "e4057b15a0423b3da9f3d264859d58bc9fe8f05a9e0ce29cf511015bed44995c",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal"
+    ],
+    "semantic_device_observed": "",
+    "source_sha256": "fed1e6bca312bca8ee5e53c94d6564e4c6a637b3cafd66b3709c5c2ddb00d48e",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG56",
+   "path": "assets/type-generation-references/TG56_斜向粗字与黄色笑脸.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "aaf5f9ac5182579b7cebce62022285e3.jpg",
+   "attachment_positions": [
+    54
+   ],
+   "display_name": "斜向粗字与黄色笑脸",
+   "source_asset_type": "字例/字体效果图",
+   "features": "粗斜中文、较窄英文辅助组；黄色笑脸与两行错落",
+   "glyph_samples": [
+    {
+     "anchor": "慢一点；没关系；SLOW DOWN IT’S OKAY",
+     "position": "截图中部两行主字区",
+     "features": "粗斜中文、较窄英文辅助组；黄色笑脸与两行错落",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文减斜度与错落，笑脸按语境少量使用；严肃警示不沿用调侃语气"
+    }
+   ],
+   "type_families": [
+    "运动斜体",
+    "亲和强调"
+   ],
+   "context_tags": [
+    "生活关怀",
+    "节奏",
+    "友好提醒"
+   ],
+   "observed_palette": "黑字；黄色；白底",
+   "body_simplification": "正文减斜度与错落，笑脸按语境少量使用；严肃警示不沿用调侃语气",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "be41138ea75ba1132239946ec0968a8b2d82c2830acc24c74f7ce1ff2c436046",
+   "decoded_pixel_sha256": "55b77563ca560ece4b271f150ae295603f9b2f42e1596eb83fe02e8db16fd54c",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "stacked",
+     "staggered",
+     "side-caption"
+    ],
+    "semantic_device_observed": "笑脸与斜字呼应友好提醒",
+    "source_sha256": "be41138ea75ba1132239946ec0968a8b2d82c2830acc24c74f7ce1ff2c436046",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG57",
+   "path": "assets/type-generation-references/TG57_圆润匀线与暖色心情副题.jpg",
+   "source": "用户2026-10-13提供的字体效果与摄影搭配参考",
+   "original_file": "1648a702bbd7a354cce827a5abeb56f9.jpg",
+   "attachment_positions": [
+    55
+   ],
+   "display_name": "圆润匀线与暖色心情副题",
+   "source_asset_type": "字例/字体效果图",
+   "features": "圆润匀线、开阔字腔与轻书写动作；橙色对话辅助、小字疏排",
+   "glyph_samples": [
+    {
+     "anchor": "今日好心情",
+     "position": "截图中部横向主字区",
+     "features": "圆润匀线、开阔字腔与轻书写动作；橙色对话辅助、小字疏排",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文保留圆润清楚骨架，取消对话承托框与过疏字距，浅暖配色核查实际对比"
+    }
+   ],
+   "type_families": [
+    "圆润匀线",
+    "柔和手写"
+   ],
+   "context_tags": [
+    "生活关怀",
+    "陪伴",
+    "友好活动"
+   ],
+   "observed_palette": "深棕字；橙黄；白底",
+   "body_simplification": "正文保留圆润清楚骨架，取消对话承托框与过疏字距，浅暖配色核查实际对比",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；未验证当前海报成图",
+   "canvas_px": [
+    1170,
+    2532
+   ],
+   "sha256": "4e232543de75583c19de490b7bb789520c1c06dae657ec25539d8f2572a124a0",
+   "decoded_pixel_sha256": "db9f781c88e78531426b2d10906bd02bb7c4af6419bb6524c95dbe766339fcdc",
+   "viewed": "本对话附件与内部检视总览已观察，重点字例经原图复核；分类为视觉特征归纳",
+   "rights": "用户提供的视觉研究参考；不直接复用截图、品牌、水印或样例文案，实际字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal",
+     "side-caption"
+    ],
+    "semantic_device_observed": "匀线和对话辅助呼应好心情",
+    "source_sha256": "4e232543de75583c19de490b7bb789520c1c06dae657ec25539d8f2572a124a0",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image_atlas",
+    "caveat": "组合参考不代表可照搬样例文字、穿字线、框、旋转英文或实际字体许可；混合合集需定位具体字例。"
+   }
+  },
+  {
+   "id": "TG58",
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C01_重阳望远红色行书横版.jpg",
+   "source": "用户2026-10-14提供的横版敬老/重阳海报（与实例C组C01同一文件）",
+   "display_name": "红色行书横排与短线副标题",
+   "source_asset_type": "完整海报中的字例",
+   "features": "浓墨飞白的红色行书横排、字间连笔与收笔拖尾；副标题宽字距配两侧细横线；云纹回纹标签框装日期类信息",
+   "glyph_samples": [
+    {
+     "anchor": "主标题与副标题字组",
+     "position": "见实例C组同图标题区",
+     "features": "浓墨飞白的红色行书横排、字间连笔与收笔拖尾；副标题宽字距配两侧细横线；云纹回纹标签框装日期类信息",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文取同系宋体/黑体的清楚骨架，保留笔势气质，去掉飞白和长拖尾"
+    }
+   ],
+   "type_families": [
+    "书写书法",
+    "粗书写"
+   ],
+   "context_tags": [
+    "敬老",
+    "重阳",
+    "传统节日",
+    "国风",
+    "生活关怀"
+   ],
+   "observed_palette": "朱红到深红渐变字；金棕细线；暖米底",
+   "body_simplification": "正文取同系宋体/黑体的清楚骨架，保留笔势气质，去掉飞白和长拖尾",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；横版与老年题材优先参考",
+   "canvas_px": [
+    2000,
+    1119
+   ],
+   "sha256": "487e85a9cfb3721ca6b3a9fe1a6ef437a7ea677a2a2ec71a41227997909cc83d",
+   "viewed": "本对话附件已查看",
+   "rights": "用户提供的视觉研究参考；不复用样例文案、印章文字、品牌或水印，字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal",
+     "side-caption"
+    ],
+    "semantic_device_observed": "副标题两侧短横线、云纹标签框、收笔拖尾延展",
+    "source_sha256": "487e85a9cfb3721ca6b3a9fe1a6ef437a7ea677a2a2ec71a41227997909cc83d",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image",
+    "caveat": "组合参考不代表可照搬样例文字、印章内容或实际字体许可。"
+   }
+  },
+  {
+   "id": "TG59",
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C02_重阳节蓝色水墨粗宋横版.jpg",
+   "source": "用户2026-10-14提供的横版敬老/重阳海报（与实例C组C02同一文件）",
+   "display_name": "蓝色厚重粗体与印章侧组",
+   "source_asset_type": "完整海报中的字例",
+   "features": "方正厚重的粗体主标题（类粗宋/方黑）配红色竖印章；正文用宋体两行诗句；英文宽字距衬线；底部斜线分隔的大字距品牌语",
+   "glyph_samples": [
+    {
+     "anchor": "主标题与副标题字组",
+     "position": "见实例C组同图标题区",
+     "features": "方正厚重的粗体主标题（类粗宋/方黑）配红色竖印章；正文用宋体两行诗句；英文宽字距衬线；底部斜线分隔的大字距品牌语",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文取同系宋体/黑体的清楚骨架，保留笔势气质，去掉飞白和长拖尾"
+    }
+   ],
+   "type_families": [
+    "粗黑几何",
+    "衬线人文"
+   ],
+   "context_tags": [
+    "敬老",
+    "重阳",
+    "传统节日",
+    "思亲",
+    "人文"
+   ],
+   "observed_palette": "靛蓝主字；朱红印章；白到浅青底",
+   "body_simplification": "正文取同系宋体/黑体的清楚骨架，保留笔势气质，去掉飞白和长拖尾",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；横版与老年题材优先参考",
+   "canvas_px": [
+    2000,
+    1122
+   ],
+   "sha256": "d42e09d26351ffc5d3e09b14da074f77f48b217f54230a8c273e51089995cf96",
+   "viewed": "本对话附件已查看",
+   "rights": "用户提供的视觉研究参考；不复用样例文案、印章文字、品牌或水印，字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal",
+     "side-caption",
+     "vertical"
+    ],
+    "semantic_device_observed": "红色印章贴主标题右上；左右竖排小字侧组",
+    "source_sha256": "d42e09d26351ffc5d3e09b14da074f77f48b217f54230a8c273e51089995cf96",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image",
+    "caveat": "组合参考不代表可照搬样例文字、印章内容或实际字体许可。"
+   }
+  },
+  {
+   "id": "TG60",
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C03_重阳竖排书法居中菊花.jpg",
+   "source": "用户2026-10-14提供的横版敬老/重阳海报（与实例C组C03同一文件）",
+   "display_name": "竖排浓墨书法与衬线日期",
+   "source_asset_type": "完整海报中的字例",
+   "features": "两字竖排浓墨行草，笔画夸张延展、末笔带红圈；旁配小号竖排宋体副标题与大号衬线数字日期",
+   "glyph_samples": [
+    {
+     "anchor": "主标题与副标题字组",
+     "position": "见实例C组同图标题区",
+     "features": "两字竖排浓墨行草，笔画夸张延展、末笔带红圈；旁配小号竖排宋体副标题与大号衬线数字日期",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文取同系宋体/黑体的清楚骨架，保留笔势气质，去掉飞白和长拖尾"
+    }
+   ],
+   "type_families": [
+    "书写书法",
+    "动态书写"
+   ],
+   "context_tags": [
+    "敬老",
+    "重阳",
+    "传统节日",
+    "书法",
+    "生活关怀"
+   ],
+   "observed_palette": "浓黑墨字；朱红点缀；暖米底",
+   "body_simplification": "正文取同系宋体/黑体的清楚骨架，保留笔势气质，去掉飞白和长拖尾",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；横版与老年题材优先参考",
+   "canvas_px": [
+    2000,
+    1125
+   ],
+   "sha256": "0932b316b6aa25b10e7dd77fa0eec975a0aef918d3f4ba4dde37f40ad1d540c0",
+   "viewed": "本对话附件已查看",
+   "rights": "用户提供的视觉研究参考；不复用样例文案、印章文字、品牌或水印，字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "vertical",
+     "side-caption"
+    ],
+    "semantic_device_observed": "末笔红色圆圈收笔、小红印章、日期上方细横线",
+    "source_sha256": "0932b316b6aa25b10e7dd77fa0eec975a0aef918d3f4ba4dde37f40ad1d540c0",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image",
+    "caveat": "组合参考不代表可照搬样例文字、印章内容或实际字体许可。"
+   }
+  },
+  {
+   "id": "TG61",
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C04_九九重阳金色工笔山水.jpg",
+   "source": "用户2026-10-14提供的横版敬老/重阳海报（与实例C组C04同一文件）",
+   "display_name": "粗笔书法两行与拼音浅底",
+   "source_asset_type": "完整海报中的字例",
+   "features": "粗壮干笔书法两行错位堆叠，第二行横画外伸；身后浅色超大拼音衬线字做底纹层；括号包裹的宽字距副标题",
+   "glyph_samples": [
+    {
+     "anchor": "主标题与副标题字组",
+     "position": "见实例C组同图标题区",
+     "features": "粗壮干笔书法两行错位堆叠，第二行横画外伸；身后浅色超大拼音衬线字做底纹层；括号包裹的宽字距副标题",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文取同系宋体/黑体的清楚骨架，保留笔势气质，去掉飞白和长拖尾"
+    }
+   ],
+   "type_families": [
+    "粗书写",
+    "书写书法"
+   ],
+   "context_tags": [
+    "敬老",
+    "重阳",
+    "传统节日",
+    "国风",
+    "节庆"
+   ],
+   "observed_palette": "黑墨字；浅金拼音；朱红印章；金黄底",
+   "body_simplification": "正文取同系宋体/黑体的清楚骨架，保留笔势气质，去掉飞白和长拖尾",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；横版与老年题材优先参考",
+   "canvas_px": [
+    1882,
+    906
+   ],
+   "sha256": "7f20254a400dfb538c595eb914403b4eebed2603c988c50761284fcadc5e6728",
+   "viewed": "本对话附件已查看",
+   "rights": "用户提供的视觉研究参考；不复用样例文案、印章文字、品牌或水印，字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "stacked",
+     "staggered",
+     "horizontal"
+    ],
+    "semantic_device_observed": "身后浅色拼音大字层叠、方形红印章、括号副标题",
+    "source_sha256": "7f20254a400dfb538c595eb914403b4eebed2603c988c50761284fcadc5e6728",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image",
+    "caveat": "组合参考不代表可照搬样例文字、印章内容或实际字体许可。"
+   }
+  },
+  {
+   "id": "TG62",
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C05_重阳佳节水彩剪影.jpg",
+   "source": "用户2026-10-14提供的横版敬老/重阳海报（与实例C组C05同一文件）",
+   "display_name": "大书法配细宋体大小字对比",
+   "source_asset_type": "完整海报中的字例",
+   "features": "两字大号浓墨书法，竖画长拖尾；旁配细宋体小两字形成大小对比；英文人文无衬线带下划线；两行宋体正文",
+   "glyph_samples": [
+    {
+     "anchor": "主标题与副标题字组",
+     "position": "见实例C组同图标题区",
+     "features": "两字大号浓墨书法，竖画长拖尾；旁配细宋体小两字形成大小对比；英文人文无衬线带下划线；两行宋体正文",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文取同系宋体/黑体的清楚骨架，保留笔势气质，去掉飞白和长拖尾"
+    }
+   ],
+   "type_families": [
+    "书写书法",
+    "衬线人文"
+   ],
+   "context_tags": [
+    "敬老",
+    "重阳",
+    "传统节日",
+    "陪伴",
+    "人文"
+   ],
+   "observed_palette": "黑墨字；朱红印章；橙黄水彩底",
+   "body_simplification": "正文取同系宋体/黑体的清楚骨架，保留笔势气质，去掉飞白和长拖尾",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；横版与老年题材优先参考",
+   "canvas_px": [
+    2000,
+    1125
+   ],
+   "sha256": "44f8543fa9bacdca65fcaaae417a6cd744a51b28785aaa8e7e04c4ae4ee14ddd",
+   "viewed": "本对话附件已查看",
+   "rights": "用户提供的视觉研究参考；不复用样例文案、印章文字、品牌或水印，字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal",
+     "staggered",
+     "side-caption"
+    ],
+    "semantic_device_observed": "竖画长拖尾向下串到正文、小红印章",
+    "source_sha256": "44f8543fa9bacdca65fcaaae417a6cd744a51b28785aaa8e7e04c4ae4ee14ddd",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image",
+    "caveat": "组合参考不代表可照搬样例文字、印章内容或实际字体许可。"
+   }
+  },
+  {
+   "id": "TG63",
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C06_重阳节水彩静物竖排书法.jpg",
+   "source": "用户2026-10-14提供的横版敬老/重阳海报（与实例C组C06同一文件）",
+   "display_name": "右侧竖排飞白书法与斜线信息组",
+   "source_asset_type": "完整海报中的字例",
+   "features": "三字竖排深蓝黑飞白书法，起笔重收笔轻；中间插金色衬线英文两行；右下黑体副标题、斜线与日期左齐成组",
+   "glyph_samples": [
+    {
+     "anchor": "主标题与副标题字组",
+     "position": "见实例C组同图标题区",
+     "features": "三字竖排深蓝黑飞白书法，起笔重收笔轻；中间插金色衬线英文两行；右下黑体副标题、斜线与日期左齐成组",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文取同系宋体/黑体的清楚骨架，保留笔势气质，去掉飞白和长拖尾"
+    }
+   ],
+   "type_families": [
+    "书写书法",
+    "动态书写"
+   ],
+   "context_tags": [
+    "敬老",
+    "重阳",
+    "传统节日",
+    "饮食",
+    "生活关怀"
+   ],
+   "observed_palette": "深蓝黑墨；金色英文；暖黄水彩底",
+   "body_simplification": "正文取同系宋体/黑体的清楚骨架，保留笔势气质，去掉飞白和长拖尾",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；横版与老年题材优先参考",
+   "canvas_px": [
+    2000,
+    1125
+   ],
+   "sha256": "a3b3d72e27e08c2136fcf45b7c95f5b11676117ef1faa1009e2623afc18c505e",
+   "viewed": "本对话附件已查看",
+   "rights": "用户提供的视觉研究参考；不复用样例文案、印章文字、品牌或水印，字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "vertical",
+     "side-caption"
+    ],
+    "semantic_device_observed": "飞白笔势、小红印章、斜线分隔符",
+    "source_sha256": "a3b3d72e27e08c2136fcf45b7c95f5b11676117ef1faa1009e2623afc18c505e",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image",
+    "caveat": "组合参考不代表可照搬样例文字、印章内容或实际字体许可。"
+   }
+  },
+  {
+   "id": "TG64",
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C07_时光会老扁平插画胶囊标签.jpg",
+   "source": "用户2026-10-14提供的横版敬老/重阳海报（与实例C组C07同一文件）",
+   "display_name": "红橙毛笔主标题与胶囊标签",
+   "source_asset_type": "完整海报中的字例",
+   "features": "红橙渐变毛笔字八字横排两组、字间留宽；上方粗黑体年份栏用斜线分隔；下方三个深红胶囊标签白字并列",
+   "glyph_samples": [
+    {
+     "anchor": "主标题与副标题字组",
+     "position": "见实例C组同图标题区",
+     "features": "红橙渐变毛笔字八字横排两组、字间留宽；上方粗黑体年份栏用斜线分隔；下方三个深红胶囊标签白字并列",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文取同系宋体/黑体的清楚骨架，保留笔势气质，去掉飞白和长拖尾"
+    }
+   ],
+   "type_families": [
+    "粗书写",
+    "趣味粗字"
+   ],
+   "context_tags": [
+    "敬老",
+    "重阳",
+    "陪伴",
+    "孝亲",
+    "活动邀约"
+   ],
+   "observed_palette": "朱红与橙；深红胶囊；暖橙底",
+   "body_simplification": "正文取同系宋体/黑体的清楚骨架，保留笔势气质，去掉飞白和长拖尾",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；横版与老年题材优先参考",
+   "canvas_px": [
+    2000,
+    999
+   ],
+   "sha256": "a174ac100813e023d5c293e411bc65b161c27a096284edc1f02664af35cec7e2",
+   "viewed": "本对话附件已查看",
+   "rights": "用户提供的视觉研究参考；不复用样例文案、印章文字、品牌或水印，字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "horizontal",
+     "grid"
+    ],
+    "semantic_device_observed": "斜线分隔、胶囊标签、引号强调关键字",
+    "source_sha256": "a174ac100813e023d5c293e411bc65b161c27a096284edc1f02664af35cec7e2",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image",
+    "caveat": "组合参考不代表可照搬样例文字、印章内容或实际字体许可。"
+   }
+  },
+  {
+   "id": "TG65",
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C08_重阳竖排书法居中红日.jpg",
+   "source": "用户2026-10-14提供的横版敬老/重阳海报（与实例C组C08同一文件）",
+   "display_name": "竖排行书红日衬底与英文侧组",
+   "source_asset_type": "完整海报中的字例",
+   "features": "两字竖排细劲行书，首笔长横外挑、末笔长弧收；左侧竖排衬线英文与小红印章；整组压在红日上",
+   "glyph_samples": [
+    {
+     "anchor": "主标题与副标题字组",
+     "position": "见实例C组同图标题区",
+     "features": "两字竖排细劲行书，首笔长横外挑、末笔长弧收；左侧竖排衬线英文与小红印章；整组压在红日上",
+     "eligible_roles": [
+      "主题字候选",
+      "小标题适配",
+      "正文简化派生"
+     ],
+     "body_simplification": "正文取同系宋体/黑体的清楚骨架，保留笔势气质，去掉飞白和长拖尾"
+    }
+   ],
+   "type_families": [
+    "书写书法",
+    "动态书写"
+   ],
+   "context_tags": [
+    "敬老",
+    "重阳",
+    "传统节日",
+    "书法",
+    "陪伴"
+   ],
+   "observed_palette": "黑墨字；朱红日；暖米底",
+   "body_simplification": "正文取同系宋体/黑体的清楚骨架，保留笔势气质，去掉飞白和长拖尾",
+   "uses": [
+    "主题艺术字生成",
+    "正文艺术字生成",
+    "信息组小标题生成",
+    "日期号码字形参考"
+   ],
+   "body_reference_mode": "生成前选具体字例并简化派生；横版与老年题材优先参考",
+   "canvas_px": [
+    2000,
+    1122
+   ],
+   "sha256": "845336de4353cd70b7cc3691d2e0895ec31bae780cace555307c029ba98ee4b4",
+   "viewed": "本对话附件已查看",
+   "rights": "用户提供的视觉研究参考；不复用样例文案、印章文字、品牌或水印，字体许可未核验",
+   "type_layout": {
+    "modes": [
+     "vertical",
+     "side-caption"
+    ],
+    "semantic_device_observed": "长横外挑与末笔长弧、红日圆作字后衬、竖排英文",
+    "source_sha256": "845336de4353cd70b7cc3691d2e0895ec31bae780cace555307c029ba98ee4b4",
+    "reviewed_at": "2026-10-14",
+    "method": "actual_image",
+    "caveat": "组合参考不代表可照搬样例文字、印章内容或实际字体许可。"
+   }
+  }
+ ],
+ "scope": "用户优先字体视觉参考库；主题字、正文及小标题先选具体字例，再结合底图、语境、主题与配色融合生成；不是可安装字体或透明素材库",
+ "updated": "2026-10-14",
+ "file_count": 65,
+ "new_intake": {
+  "new_distinct_files": 54,
+  "attachment_occurrences": 55,
+  "duplicate_attachment_id": "TG39",
+  "duplicate_attachment_positions": [
+   36,
+   37
+  ],
+  "duplicate_original_file": "d247715316fefd1ed7870716278468c3.jpg",
+  "new_file_hash_duplicates": [],
+  "new_decoded_pixel_duplicates": []
+ },
+ "source_license_claim": "部分原图写高级黑体、免费商用等标签；字体名称、完整字库和真实许可未独立核验",
+ "selection_policy": "优先实际查图；每个文字用途记录一个或几个具体字例、融合特征与底图/语境/配色/主题适配；已有选择沿用，不增加确认关卡",
+ "catalog_preview": {
+  "source_count": 65,
+  "paths": [
+   "assets/type-atlas/type-atlas-1.jpg",
+   "assets/type-atlas/type-atlas-2.jpg",
+   "assets/type-atlas/type-atlas-3.jpg",
+   "assets/type-atlas/type-atlas-4.jpg",
+   "assets/type-atlas/type-atlas-5.jpg",
+   "assets/type-atlas/type-atlas-6.jpg",
+   "assets/type-atlas/type-atlas-7.jpg",
+   "assets/type-atlas/type-atlas-8.jpg"
+  ],
+  "note": "全库缩略巡览，选择后打开原图字例；UI黑边裁剪仅影响此维护预览，不改源图。"
+ },
+ "layout_review": {
+  "count": 65,
+  "method": "actual_image_atlas",
+  "date": "2026-10-14",
+  "note": "根代理实际巡览7份57图缩略总览；笔形沿用既有实际观察记录，新增组合方式及可见语义辅助。"
+ }
+}

@@ -1,0 +1,5 @@
+{
+  "source": "Codex skill-creator/scripts/quick_validate.py (local snapshot; provenance only, not a runtime path)",
+  "source_sha256": "ee6dba90f44d37171c5a6edb8095979c54919ff6822c1a907afca2e78c48738c",
+  "adaptation": "prepend bundled vendor to sys.path; default target is enclosing skill; support UTF-8 BOM; reject empty/whitespace name and description; reject unfinished description and instruction placeholders outside code fences. Source hash records the original snapshot, not the locally adapted file."
+}

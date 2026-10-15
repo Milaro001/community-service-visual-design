@@ -1,0 +1,1713 @@
+{
+ "source_count": 195,
+ "source_counts": {
+  "layout": 23,
+  "posters": 123,
+  "typography": 4,
+  "wireframes": 45
+ },
+ "sources": [
+  {
+   "id": "P01",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P01_商业海报与票券构图.png",
+   "sha256": "142053df45b10ad585d6dfbbb06dc6a675a21aad857b96c452c54f4ceccc276d",
+   "display_id": "P01"
+  },
+  {
+   "id": "P02",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P02_编辑式与留白构图.png",
+   "sha256": "26af532666047b408299baeed330370bdd79896019c53a09b61d878532c58f87",
+   "display_id": "P02"
+  },
+  {
+   "id": "P03",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P03_九宫格网格位置变化.png",
+   "sha256": "072c43a19b1fb6c098c7c341d7d4ac6a8948eb2ecd6adb8dbc7ba53c105cfce5",
+   "display_id": "P03"
+  },
+  {
+   "id": "P04",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P04_中英组合与横竖留白.png",
+   "sha256": "53cd1d428f137e11bf5cb567a7132b12591d73d8571dc47518eeb9738e2a842e",
+   "display_id": "P04"
+  },
+  {
+   "id": "P05",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P05_黑底双版与分栏网格.jpg",
+   "sha256": "650f7842064386a420695438f704c7e9386ca310aefe19981c35b66ef9a9b620",
+   "display_id": "P05"
+  },
+  {
+   "id": "P06",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P06_编辑式编号与图文模块.jpg",
+   "sha256": "64ffc738b5eeb0c6ccfa8c342abaebdaa0cebd4bf56493982b5615f9553596f2",
+   "display_id": "P06"
+  },
+  {
+   "id": "P07",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P07_衬线横竖四版.jpg",
+   "sha256": "cf5705276d1ca8c60a86a13464ab747d6a63d8aa3945d0844e91290327f3e954",
+   "display_id": "P07"
+  },
+  {
+   "id": "P08",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P08_无衬线九宫格标题位置.jpg",
+   "sha256": "81264a544e00e8e0a21b79b2dab84ff7a694d30c7bf7cc566bcd6ca99d4ee0dc",
+   "display_id": "P08"
+  },
+  {
+   "id": "P09",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P09_衬线阅读会与底部字段.jpg",
+   "sha256": "0fb05c54258ce0801ad904e3ea17ed635cd02784b721326d53f18a2059779a4c",
+   "display_id": "P09"
+  },
+  {
+   "id": "P10",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P10_粗字活动与横向服务区.jpg",
+   "sha256": "1d325d05723fc712deda3ce32a0947d3f29f4ccdd946cd99e9797b3e8f0f6d9d",
+   "display_id": "P10"
+  },
+  {
+   "id": "P11",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P11_错位大字与几何主视觉.jpg",
+   "sha256": "ca37d00163c436edf2c9ad2f466059a5385a5b5a92f45ea95eb3c558032caa8c",
+   "display_id": "P11"
+  },
+  {
+   "id": "P12",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P12_图文叠合与模块图文.jpg",
+   "sha256": "b589160ff09ac4115ed778bf01a2b91067ae3d8fc145e79acc85d7a2c9aaefa3",
+   "display_id": "P12"
+  },
+  {
+   "id": "P13",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P13_双版网格教学.jpg",
+   "sha256": "0df9cbfc5478cffa9cc907656ef960dd8d0588251e4bfd31740240e686f96dd3",
+   "display_id": "P13"
+  },
+  {
+   "id": "P14",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P14_衬线中英九宫格组合.jpg",
+   "sha256": "68e74f4e1e234728b552e6f927f4d642ad57bdf502d68934ee205419a7d3d2c7",
+   "display_id": "P14"
+  },
+  {
+   "id": "P15",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P15_展览十六格主体预留.jpg",
+   "sha256": "39a73058e4d827c2f37ecf35fe8f37714bd768dbd3e9d45b66c3474857de2c24",
+   "display_id": "P15"
+  },
+  {
+   "id": "P16",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P16_九类图文构图关系.jpg",
+   "sha256": "9e98423ca39de149db043bea6c9c08449993f16117509d112562d50ab6405870",
+   "display_id": "P16"
+  },
+  {
+   "id": "P17",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P17_九类主体与负空间.jpg",
+   "sha256": "9f658c1d9ed6237f2104af78d98f79936d39570f7bbc28cad51a7f1db6d7e3c9",
+   "display_id": "P17"
+  },
+  {
+   "id": "P18",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P18_双版网格教学补充.jpg",
+   "sha256": "54ea9ac9d0abfb9bde0644d501c6a86bc4f89d1715047ba3e425fb62d027e275",
+   "display_id": "P18"
+  },
+  {
+   "id": "P19",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P19_青野九宫格与网格轴线.jpg",
+   "sha256": "943eff629d7d5cfec5ff07f4aa37f1e9b9564faf59f5a108b342a5ec56682aef",
+   "display_id": "P19"
+  },
+  {
+   "id": "P20",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P20_衬线横竖四版补充.jpg",
+   "sha256": "d7d7e63e7479a2ab9aa1747b52ceb60155de4118a186cfc24911851b56d333c2",
+   "display_id": "P20"
+  },
+  {
+   "id": "P21",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P21_青野侧题与双项活动.jpg",
+   "sha256": "a4f2bc760cb0f5206f72a57db33f84819fa682019dc226588861d4d15ebe2c51",
+   "display_id": "P21"
+  },
+  {
+   "id": "P22",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P22_青野书法与底部三列.jpg",
+   "sha256": "423e38a5c282b8a26549957334103459fb05a6577b1485ab4a3c81bdb1fd0e4e",
+   "display_id": "P22"
+  },
+  {
+   "id": "P23",
+   "library": "layout",
+   "path": "assets/layout-priority-references/P23_青野分段与横线分组.jpg",
+   "sha256": "ca8bb2aae9148468f8a3924d8b371d0b4f7fdb5b06428625cb8ee16ff86fffcd",
+   "display_id": "P23"
+  },
+  {
+   "id": "A-R01_D01",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R01_D01.png",
+   "sha256": "7eff59d8e109e2dc4509952856854a8da0d99063856cdacb3a732303f018c8f1",
+   "display_id": "A-R01_D01"
+  },
+  {
+   "id": "A-R02_D01",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R02_D01.png",
+   "sha256": "b0bde58e197d2e4d0367dd29206aa44f87e7708bd0b53727ee8f9cb9faa5bd4b",
+   "display_id": "A-R02_D01"
+  },
+  {
+   "id": "A-R03_D01",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R03_D01.png",
+   "sha256": "4c0501bb4f97cedcd57bb18c4001b0ee924578dbe8273e03315aed4ac91d89ac",
+   "display_id": "A-R03_D01"
+  },
+  {
+   "id": "A-R04_D02",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R04_D02.png",
+   "sha256": "eed234663749daecc3face8b982412301690fcebe6f1f4e46cb3e491273b5d3d",
+   "display_id": "A-R04_D02"
+  },
+  {
+   "id": "A-R05_D02",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R05_D02.png",
+   "sha256": "dae00f07009a044ff4cc868f961530c34e757651c4f508a650b56dcfadb34b80",
+   "display_id": "A-R05_D02"
+  },
+  {
+   "id": "A-R06_D02",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R06_D02.png",
+   "sha256": "d07ae083896c0709f76e680e7c39d572c4e5ee7b5e367aef25cf2e7e6006cb2b",
+   "display_id": "A-R06_D02"
+  },
+  {
+   "id": "A-R07_D06",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R07_D06.png",
+   "sha256": "775e935e75e54cd7238e784b4751c8bb0dca473b82afe5cd58abfc2609cf8833",
+   "display_id": "A-R07_D06"
+  },
+  {
+   "id": "A-R08_D06",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R08_D06.png",
+   "sha256": "dea54011949095d12bdd70dbdf9b73a1737e7f0997872b66856351d2e2ea980a",
+   "display_id": "A-R08_D06"
+  },
+  {
+   "id": "A-R09_D06",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R09_D06.png",
+   "sha256": "ecc467e34768515ba25ed2687748d18abb1a07377b43723e3617f5b0d8ff1669",
+   "display_id": "A-R09_D06"
+  },
+  {
+   "id": "A-R10_D03",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R10_D03.png",
+   "sha256": "658df5409b416ca1baaa0199f46b361191f1a3cc5c1abcf695d0f4cfead7ff08",
+   "display_id": "A-R10_D03"
+  },
+  {
+   "id": "A-R11_D03",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R11_D03.png",
+   "sha256": "21192dadf7242f68ceb3072220d6b9e86d6bf747ff713d50adbd7f99f3c52206",
+   "display_id": "A-R11_D03"
+  },
+  {
+   "id": "A-R12_D03",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R12_D03.png",
+   "sha256": "2d9348912d28e487a567cfa696a1984b1ff20bbeaab407793ed1551f62e7db4f",
+   "display_id": "A-R12_D03"
+  },
+  {
+   "id": "A-R13_D04",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R13_D04.png",
+   "sha256": "4cfea6dcadb9623062b9ebb8252741bf0f632f3dc30c7f18117f7d06941dcbd9",
+   "display_id": "A-R13_D04"
+  },
+  {
+   "id": "A-R14_D04",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R14_D04.png",
+   "sha256": "12e38ca727936fe1fc4ed8fef7994ae1d1e6b47483b165fa5f4ad3acdbde3ee3",
+   "display_id": "A-R14_D04"
+  },
+  {
+   "id": "A-R15_D04",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R15_D04.png",
+   "sha256": "c7b33b5125f42df375e5ba755f5db30933e8045090a4d6b1e82e3a1209e40369",
+   "display_id": "A-R15_D04"
+  },
+  {
+   "id": "A-R19_D07",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R19_D07.png",
+   "sha256": "77e415e15ed1c2e0ace110fade24ac289c88eff7ce8da9391998ae8bfcad76fb",
+   "display_id": "A-R19_D07"
+  },
+  {
+   "id": "A-R20_D07",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R20_D07.png",
+   "sha256": "1223f670c696505c8fedd845fc0c7e670b30bea56e3445fba5a5bc38dc950133",
+   "display_id": "A-R20_D07"
+  },
+  {
+   "id": "A-R21_D07",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R21_D07.png",
+   "sha256": "9249be3195fedc1fd9f42b68e7e5cb9913f0070e0e6f28c6a34bd0b9451f4e9b",
+   "display_id": "A-R21_D07"
+  },
+  {
+   "id": "A-R22_D08",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R22_D08.png",
+   "sha256": "2f3fe70c91f52a815911e2e1436006ad3458ec9802f04c7ae417ad314c756da3",
+   "display_id": "A-R22_D08"
+  },
+  {
+   "id": "A-R23_D08",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R23_D08.png",
+   "sha256": "4ba68b359771c4d2698a6e41b4bdd6666c7393547a22777e2497faa6dc8951c7",
+   "display_id": "A-R23_D08"
+  },
+  {
+   "id": "A-R24_D08",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R24_D08.png",
+   "sha256": "1cc532ab786b0697a7233d3c0d8bead1d44119f406302977f9bfd243ecf3cb14",
+   "display_id": "A-R24_D08"
+  },
+  {
+   "id": "A-R25_D15",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R25_D15.png",
+   "sha256": "f94418fbefe6e57c606e87f6e0542e763cb2d3517d96507bc5bf715de3212f92",
+   "display_id": "A-R25_D15"
+  },
+  {
+   "id": "A-R26_D15",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R26_D15.png",
+   "sha256": "90c05c187fcce7076071f14a2ccaa772b5b1462b9cd23914f6fb2af6f01b7fb2",
+   "display_id": "A-R26_D15"
+  },
+  {
+   "id": "A-R27_D15",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R27_D15.png",
+   "sha256": "a59cbcb5c0e25e104c16372a0922f9f5939c59ab7041d572a68008851dc38ff6",
+   "display_id": "A-R27_D15"
+  },
+  {
+   "id": "A-R28_D09",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R28_D09.png",
+   "sha256": "0f3c80ac5aba1f6274c96d6b59c212b03021967121178733728d728f231460c3",
+   "display_id": "A-R28_D09"
+  },
+  {
+   "id": "A-R30_D09",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R30_D09.png",
+   "sha256": "6a2f851218fb07e2f93f8e2fe104c045984ce9d209db0c4ee8c195c33cdc30a5",
+   "display_id": "A-R30_D09"
+  },
+  {
+   "id": "A-R34_D13",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R34_D13.png",
+   "sha256": "db3ba624041f94b8814b1137df8776b6930e0e9ec9038c1844ffc0808581d3f4",
+   "display_id": "A-R34_D13"
+  },
+  {
+   "id": "A-R35_D13",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R35_D13.png",
+   "sha256": "5c7269b412d4defe11fd53ca744103e37fab94abb146184b3a17748c2a972a30",
+   "display_id": "A-R35_D13"
+  },
+  {
+   "id": "A-R36_D13",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R36_D13.png",
+   "sha256": "186666db737eaa73b25d939e79d789c1481cb0bd38a02476021c37c512e81d49",
+   "display_id": "A-R36_D13"
+  },
+  {
+   "id": "A-R42_D12",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R42_D12.png",
+   "sha256": "d7286cc076f6bd76a84afdc2891e60cef0d14eb9d97655c09dcd12952eb54d03",
+   "display_id": "A-R42_D12"
+  },
+  {
+   "id": "B-01_政务办事与证照-01_6783538985",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/01_政务办事与证照/01_6783538985.jpg",
+   "sha256": "0e5ce41b39ff187c86ce49562fbdf6bf6291eb08e993b09a082d9b7a97f5fb7b",
+   "display_id": "B-01-01"
+  },
+  {
+   "id": "B-01_政务办事与证照-02_7137965144",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/01_政务办事与证照/02_7137965144.jpg",
+   "sha256": "4dc3027bdd23a0d4e7a93454bbbf614edf493c5003219c4bf4951cdb39a99f92",
+   "display_id": "B-01-02"
+  },
+  {
+   "id": "B-01_政务办事与证照-03_5509514116",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/01_政务办事与证照/03_5509514116.jpg",
+   "sha256": "825f1126cd94bc730c9d438a00afae3fad7bc99ec96e83d2effe8369af0201ec",
+   "display_id": "B-01-03"
+  },
+  {
+   "id": "B-02_社会保障与民政救助-01_6277822634",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/02_社会保障与民政救助/01_6277822634.jpg",
+   "sha256": "0c623c07e9ed46cb2c3152c361c2e229ae4af6f140b99c57e2bf88a297075680",
+   "display_id": "B-02-01"
+  },
+  {
+   "id": "B-02_社会保障与民政救助-02_3599934158",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/02_社会保障与民政救助/02_3599934158.jpg",
+   "sha256": "10dd144e4e1f4613086c8243ec7a4694321e5d4f802dd931540b546c7d60a2d0",
+   "display_id": "B-02-02"
+  },
+  {
+   "id": "B-02_社会保障与民政救助-03_7102931032",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/02_社会保障与民政救助/03_7102931032.jpg",
+   "sha256": "1e325b5a4e049e41c8d70da1f8655604575eb65aa55e34779d26313e3efc5a6c",
+   "display_id": "B-02-03"
+  },
+  {
+   "id": "B-03_就业与社保-01_5185284432",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/03_就业与社保/01_5185284432.jpg",
+   "sha256": "7fb0fcbcc1044e5395f7bf1236648f711a4106858f6f96973396c051f0b61c68",
+   "display_id": "B-03-01"
+  },
+  {
+   "id": "B-03_就业与社保-02_7076002062",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/03_就业与社保/02_7076002062.jpg",
+   "sha256": "56bdb4b4cc6466ef46265819a0aa94a402726bb27fef8a3a17136a859f9d8fbb",
+   "display_id": "B-03-02"
+  },
+  {
+   "id": "B-03_就业与社保-03_4646103442",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/03_就业与社保/03_4646103442.jpg",
+   "sha256": "9f3ce94887dbbafe9c02b3143a3e5f7263b445f1a0b4379927c3764e6bb6f6be",
+   "display_id": "B-03-03"
+  },
+  {
+   "id": "B-04_养老与为老服务-01_6328972470",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/04_养老与为老服务/01_6328972470.jpg",
+   "sha256": "a4b9bda75418fb511975fe0ea6449779bc6f1f772b2f986fb3ed278c50234329",
+   "display_id": "B-04-01"
+  },
+  {
+   "id": "B-04_养老与为老服务-02_7285739523",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/04_养老与为老服务/02_7285739523.jpg",
+   "sha256": "214b7ea9bd92369f6a467a97bc6a706372dbb9f70c5aa6e73e4114951de9c430",
+   "display_id": "B-04-02"
+  },
+  {
+   "id": "B-04_养老与为老服务-03_6347990124",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/04_养老与为老服务/03_6347990124.jpg",
+   "sha256": "b43fa1808e2662593a82d8869238dcf6c81e82233b7080abd27affc69b0e8b36",
+   "display_id": "B-04-03"
+  },
+  {
+   "id": "B-05_医疗卫生与健康-01_7059586632",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/05_医疗卫生与健康/01_7059586632.jpg",
+   "sha256": "a28161190fb07a6fc2e67dfc84f998c3a31a4572c702416d9a70161c8f231f42",
+   "display_id": "B-05-01"
+  },
+  {
+   "id": "B-05_医疗卫生与健康-02_7005645615",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/05_医疗卫生与健康/02_7005645615.jpg",
+   "sha256": "cb7167db0f45066d0041dcb1e18b8f4229f18c24886f3fc8e76af486714d54f9",
+   "display_id": "B-05-02"
+  },
+  {
+   "id": "B-05_医疗卫生与健康-03_3856696799",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/05_医疗卫生与健康/03_3856696799.jpg",
+   "sha256": "3c9909c1a2029b2039121b907bcb0cdd5fda026550390b0594c886f8d0954dd5",
+   "display_id": "B-05-03"
+  },
+  {
+   "id": "B-06_育儿与青少年-01_7120565810",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/06_育儿与青少年/01_7120565810.jpg",
+   "sha256": "0f3d7bb6f1ec958b56fdb5a0599ebc6a49b92e6d413110191d1d3bc582ad1a3e",
+   "display_id": "B-06-01"
+  },
+  {
+   "id": "B-06_育儿与青少年-02_5843575671",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/06_育儿与青少年/02_5843575671.jpg",
+   "sha256": "2846ad17b386372789dd88c58e2ba86fb347db502e53fe924c8d8e50e7f61bf2",
+   "display_id": "B-06-02"
+  },
+  {
+   "id": "B-06_育儿与青少年-03_6727742056",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/06_育儿与青少年/03_6727742056.jpg",
+   "sha256": "988787e0018d92a5aec593fa4c4b48159a6ca17bae323ad4511350914c81f6cd",
+   "display_id": "B-06-03"
+  },
+  {
+   "id": "B-07_住房与物业-01_4966699971",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/07_住房与物业/01_4966699971.jpg",
+   "sha256": "0af1bb2452136b627aff8979a4798cee3ea83efc9a24ceeba7678b919e95e754",
+   "display_id": "B-07-01"
+  },
+  {
+   "id": "B-07_住房与物业-02_5772056093",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/07_住房与物业/02_5772056093.jpg",
+   "sha256": "70129ed82efc3d1bdde28781b485809e7948dae6e3433da723fda24c29293824",
+   "display_id": "B-07-02"
+  },
+  {
+   "id": "B-07_住房与物业-03_3948128996",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/07_住房与物业/03_3948128996.jpg",
+   "sha256": "63952e4f2213afb502e3335cbd103d8ca338e5b48fca157d1e347c54d023a47c",
+   "display_id": "B-07-03"
+  },
+  {
+   "id": "B-08_环境与环卫-01_3959088749",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/08_环境与环卫/01_3959088749.jpg",
+   "sha256": "1e48557412193270934390fadef7aa76b0f6ea9a92980fc6dd61b655648a2afd",
+   "display_id": "B-08-01"
+  },
+  {
+   "id": "B-08_环境与环卫-02_7195233098",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/08_环境与环卫/02_7195233098.jpg",
+   "sha256": "44091d8d3201691dc2d6bd0fedbba7a489c7185d144546ac533dab259018c758",
+   "display_id": "B-08-02"
+  },
+  {
+   "id": "B-08_环境与环卫-03_5367091707",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/08_环境与环卫/03_5367091707.jpg",
+   "sha256": "7421b762abaef23682473bc808d94104d6164a0eda9bb26304f23a83f89cfc9f",
+   "display_id": "B-08-03"
+  },
+  {
+   "id": "B-09_商业与便民生活-01_6862136729",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/09_商业与便民生活/01_6862136729.jpg",
+   "sha256": "48285ac262eb1f0ee953e2f4592a6a2d60f11b4d0063aa5360464faee9cf2d3b",
+   "display_id": "B-09-01"
+  },
+  {
+   "id": "B-09_商业与便民生活-02_6800096299",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/09_商业与便民生活/02_6800096299.jpg",
+   "sha256": "802bec61cf472984637a22b1cb7161dbb6f10084638f447c9bb51de866e23717",
+   "display_id": "B-09-02"
+  },
+  {
+   "id": "B-09_商业与便民生活-03_7025842232",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/09_商业与便民生活/03_7025842232.jpg",
+   "sha256": "11a5f18379f9c53e9c7a408fda3a08d907a0dd1eb4eda01999d48b2f254f5f1c",
+   "display_id": "B-09-03"
+  },
+  {
+   "id": "B-10_安全与应急-01_7195231841",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/10_安全与应急/01_7195231841.jpg",
+   "sha256": "f0319acdfd44f652fb8fe48b717f9315c39d7f48451789da889fb56774693d9b",
+   "display_id": "B-10-01"
+  },
+  {
+   "id": "B-10_安全与应急-02_6377712490",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/10_安全与应急/02_6377712490.jpg",
+   "sha256": "c32f186a8cdb65a88566345f6ce0e9155492edde4ad61938ab2194d4c7f769ec",
+   "display_id": "B-10-02"
+  },
+  {
+   "id": "B-10_安全与应急-03_6138722135",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/10_安全与应急/03_6138722135.jpg",
+   "sha256": "cb3cb703fbf98dabe80cc0bb958ec18c093be1169c5d291c04f7ef8ea5a3d632",
+   "display_id": "B-10-03"
+  },
+  {
+   "id": "B-11_法律与调解-01_7117672204",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/11_法律与调解/01_7117672204.jpg",
+   "sha256": "d3ad0e4bd468883841c7c2f8e82439979f67aedff55ed0d71818cbf1fbe0c632",
+   "display_id": "B-11-01"
+  },
+  {
+   "id": "B-11_法律与调解-02_4414932399",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/11_法律与调解/02_4414932399.jpg",
+   "sha256": "6d51bf48ab471c887d8f19090136f9ef5ed10320842267f7b21d30368f032fc0",
+   "display_id": "B-11-02"
+  },
+  {
+   "id": "B-11_法律与调解-03_7067791747",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/11_法律与调解/03_7067791747.jpg",
+   "sha256": "1bcfddafbfa1b20ef9bbb0b90620b92a770b412af618445c341edbdf93b35c32",
+   "display_id": "B-11-03"
+  },
+  {
+   "id": "B-12_邻里自治与公共事务-01_7261157522",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/12_邻里自治与公共事务/01_7261157522.jpg",
+   "sha256": "a316aeaade04ede30b48d4cd1f99c338e0c52d442a39b2ad8c5be206013390bf",
+   "display_id": "B-12-01"
+  },
+  {
+   "id": "B-12_邻里自治与公共事务-02_7283000508",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/12_邻里自治与公共事务/02_7283000508.jpg",
+   "sha256": "f6eb9dd2272c0c9763d4bff90406d9c6a0d4c12d71d1900c6e2864b045439c32",
+   "display_id": "B-12-02"
+  },
+  {
+   "id": "B-12_邻里自治与公共事务-03_5788973174",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/12_邻里自治与公共事务/03_5788973174.jpg",
+   "sha256": "dfa05e3e2d28a1c6f40d4a2ed3f4e06e981a27e6120f72a48c84255e5e56fb80",
+   "display_id": "B-12-03"
+  },
+  {
+   "id": "B-13_文化与体育-01_6359541291",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/13_文化与体育/01_6359541291.jpg",
+   "sha256": "8e22e6d3006b13e87a6def001c08491dd152929c733422c722701441bb0d9397",
+   "display_id": "B-13-01"
+  },
+  {
+   "id": "B-13_文化与体育-02_7208270648",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/13_文化与体育/02_7208270648.jpg",
+   "sha256": "a9701fdd263658e51b8b67b8ec9fb58c56154433a15ade669624b1585a0f86ee",
+   "display_id": "B-13-02"
+  },
+  {
+   "id": "B-13_文化与体育-03_4680164027",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/13_文化与体育/03_4680164027.jpg",
+   "sha256": "48b1dd3cbc6c060a1cb0dd6f5d2a5bf2373eca3e96a6865326b583aa28e85891",
+   "display_id": "B-13-03"
+  },
+  {
+   "id": "B-14_志愿与公益-01_7114364683",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/14_志愿与公益/01_7114364683.jpg",
+   "sha256": "f483268be83e1827d145c8a065f981b498d4d0299e58cdae43476708e7ce08ff",
+   "display_id": "B-14-01"
+  },
+  {
+   "id": "B-14_志愿与公益-02_6673699223",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/14_志愿与公益/02_6673699223.jpg",
+   "sha256": "a27c62bfdf6dc7a5fd7e04a1e2a620297e2a977494d8e1891840e45997db0f63",
+   "display_id": "B-14-02"
+  },
+  {
+   "id": "B-14_志愿与公益-03_7180636030",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/14_志愿与公益/03_7180636030.jpg",
+   "sha256": "737e8d2fa93dc2f47ddd8df24de5085ab8feb1a3c523bd4dc227fa56c4cc4c2a",
+   "display_id": "B-14-03"
+  },
+  {
+   "id": "B-15_特殊群体与专项服务-01_6028673925",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/15_特殊群体与专项服务/01_6028673925.jpg",
+   "sha256": "90785c770314b5c810263e82edd980e2a4f336eb32f1e6e545a80b5ed9f6ebe9",
+   "display_id": "B-15-01"
+  },
+  {
+   "id": "B-15_特殊群体与专项服务-02_4808041765",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/15_特殊群体与专项服务/02_4808041765.jpg",
+   "sha256": "5906cf171b8753433c5b0bc832549514b6e079727e79535d6b676057f502a1fa",
+   "display_id": "B-15-02"
+  },
+  {
+   "id": "B-15_特殊群体与专项服务-03_6233479228",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报B组_原图45张/15_特殊群体与专项服务/03_6233479228.jpg",
+   "sha256": "792866e814d5ebebcc58ac57d43499a0696d47dc785ce90df30b7e4943608232",
+   "display_id": "B-15-03"
+  },
+  {
+   "id": "T01",
+   "library": "typography",
+   "path": "assets/typography-references/T01_中文排版.png",
+   "sha256": "e81e4b98a6fcfe46597d7171c2088cfca1100f00e706284a2beba0d338a6b2d2",
+   "display_id": "T01"
+  },
+  {
+   "id": "T02",
+   "library": "typography",
+   "path": "assets/typography-references/T02_中文排版.png",
+   "sha256": "5291557b5bcbe3a0b83c273769a393759e9cf342b02bfab8fa611a893b9bb1b2",
+   "display_id": "T02"
+  },
+  {
+   "id": "T03",
+   "library": "typography",
+   "path": "assets/typography-references/T03_中文排版.png",
+   "sha256": "0535f29474d4eb256794950372eae146a46b1fe1ff1ba323af1e2fa4f5c5b2f0",
+   "display_id": "T03"
+  },
+  {
+   "id": "T04",
+   "library": "typography",
+   "path": "assets/typography-references/T04_英文艺术字.png",
+   "sha256": "e48e18e431a25f2e2a63b388acf8ffc1236030442b077ffd714d7bef332f77ca",
+   "display_id": "T04"
+  },
+  {
+   "id": "D01_S1_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D01_S1_01.png",
+   "sha256": "98549f0fb7b84066bd0a265472d1255217911203d82d942942fe55255380710e",
+   "display_id": "D01_S1_01"
+  },
+  {
+   "id": "D01_S2_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D01_S2_01.png",
+   "sha256": "cc246a79fe8f5c1aae92918cef4e3ee50a3caedb4414403a6fb4160cb849d5d5",
+   "display_id": "D01_S2_01"
+  },
+  {
+   "id": "D01_S3_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D01_S3_01.png",
+   "sha256": "d4a512023391af5ed5c8298e9dbd2c1ebebf015640d28925cbbb1346cd560541",
+   "display_id": "D01_S3_01"
+  },
+  {
+   "id": "D02_S3_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D02_S3_01.png",
+   "sha256": "2a5cfe16e35ddca7485767ece360e6af6a033c562a98a0f03aaa9d2de167ef34",
+   "display_id": "D02_S3_01"
+  },
+  {
+   "id": "D02_S4_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D02_S4_01.png",
+   "sha256": "a4ef73acd2321f929eb84e8734a981bacf848579d8d96e976190dc1697c1857a",
+   "display_id": "D02_S4_01"
+  },
+  {
+   "id": "D02_S9_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D02_S9_01.png",
+   "sha256": "4a2e4893922ee5de60f376286739fb93de1d1a380ccc0c4c7d4a02ac62c4c8a9",
+   "display_id": "D02_S9_01"
+  },
+  {
+   "id": "D03_S1_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D03_S1_01.png",
+   "sha256": "9a407ee6f9767ea9bc7b759f376feeed5b5faf00d81a7bdb50365fafe4abc939",
+   "display_id": "D03_S1_01"
+  },
+  {
+   "id": "D03_S6_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D03_S6_01.png",
+   "sha256": "844307c122c0445b59eff6312f098bb93e4922bcfc538e610f6c7012c7e319ac",
+   "display_id": "D03_S6_01"
+  },
+  {
+   "id": "D03_S9_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D03_S9_01.png",
+   "sha256": "d8acf1e8ba1163b07469e62c22e9160c543514df6db50cd643448e6d869e3998",
+   "display_id": "D03_S9_01"
+  },
+  {
+   "id": "D04_S1_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D04_S1_01.png",
+   "sha256": "da767bf108e379a76b93f5fd7eeac3340c488c11ffdfc916d61113d72224fccd",
+   "display_id": "D04_S1_01"
+  },
+  {
+   "id": "D04_S3_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D04_S3_01.png",
+   "sha256": "9498b6d47493dc51caf0ed4431635226372d35abb98cd41d4823c3ef3a0b0a03",
+   "display_id": "D04_S3_01"
+  },
+  {
+   "id": "D04_S9_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D04_S9_01.png",
+   "sha256": "98cc129710fc4bb91f868abacce2e8becd61bbac95fd3bdf06bc98162f14785d",
+   "display_id": "D04_S9_01"
+  },
+  {
+   "id": "D05_S2_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D05_S2_01.png",
+   "sha256": "fa57ef949aeaba0b90ea6b28d87410c2fbda5d0e31e8427bce0fd09805b32607",
+   "display_id": "D05_S2_01"
+  },
+  {
+   "id": "D05_S5_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D05_S5_01.png",
+   "sha256": "036e18d2d201c61872367593d81bf12f89a8ddf4449f1ae64fbe3ff82904fac7",
+   "display_id": "D05_S5_01"
+  },
+  {
+   "id": "D05_S6_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D05_S6_01.png",
+   "sha256": "9c94647d921834e546b7dfe718b2e790a6a526a4e99e9a89529a3c5ea6b23446",
+   "display_id": "D05_S6_01"
+  },
+  {
+   "id": "D06_S1_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D06_S1_01.png",
+   "sha256": "dd622fe8b58e94daebe131e31687bd11125607587c474ebc6fa50b37f1f4a985",
+   "display_id": "D06_S1_01"
+  },
+  {
+   "id": "D06_S3_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D06_S3_01.png",
+   "sha256": "c34512ca28f687a5c7e9e46714a28ffdbecf4d8ea2ab27ecd57c2ff87916ba99",
+   "display_id": "D06_S3_01"
+  },
+  {
+   "id": "D06_S4_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D06_S4_01.png",
+   "sha256": "50e465006700d1ab76c1f6d9dd321ab7f34235447b12925540b29e0fe5cd8a29",
+   "display_id": "D06_S4_01"
+  },
+  {
+   "id": "D07_S1_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D07_S1_01.png",
+   "sha256": "8e1695df930c6ebab7af5abcd579e4e58a8d9c9975f1ae758705e8ed5adc4604",
+   "display_id": "D07_S1_01"
+  },
+  {
+   "id": "D07_S2_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D07_S2_01.png",
+   "sha256": "c043be5d2df8d1456bba3502ec75c3036c799ec041db56c52f378d69e61c4595",
+   "display_id": "D07_S2_01"
+  },
+  {
+   "id": "D07_S9_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D07_S9_01.png",
+   "sha256": "f75740148d13473c76bf4b1c46dca0d5f728516176bb15e38402d057cfd31429",
+   "display_id": "D07_S9_01"
+  },
+  {
+   "id": "D08_S3_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D08_S3_01.png",
+   "sha256": "02b18d0759b0eac9b20e87eeac0308d86809cb2e5999a29b256f2451a38882da",
+   "display_id": "D08_S3_01"
+  },
+  {
+   "id": "D08_S4_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D08_S4_01.png",
+   "sha256": "32283af6d48b20e818d9383b6f2a1842e2e178d9e4b9fe0345403381904f4ec0",
+   "display_id": "D08_S4_01"
+  },
+  {
+   "id": "D08_S5_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D08_S5_01.png",
+   "sha256": "1dbf7e4f8e2bdd23660dfa1820136cf0d642dc6d258bfabc5d54447875289332",
+   "display_id": "D08_S5_01"
+  },
+  {
+   "id": "D09_S2_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D09_S2_01.png",
+   "sha256": "97ba82be465ade86661e9e2aec08a06d0cada0dad2938cb5f01f3765018c043f",
+   "display_id": "D09_S2_01"
+  },
+  {
+   "id": "D09_S5_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D09_S5_01.png",
+   "sha256": "981b3fe864c0d74469728198183cfac05daddc535cb6e51056c6396893754444",
+   "display_id": "D09_S5_01"
+  },
+  {
+   "id": "D09_S8_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D09_S8_01.png",
+   "sha256": "bd1d6d383c5a5a58eee54a047941dd201943aed14adc8c9d0210618403fa634a",
+   "display_id": "D09_S8_01"
+  },
+  {
+   "id": "D10_S2_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D10_S2_01.png",
+   "sha256": "b05644a2e529770e6de58101b6ea288a53d8a146f0b3a1dfa5559c108e8e3c0e",
+   "display_id": "D10_S2_01"
+  },
+  {
+   "id": "D10_S3_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D10_S3_01.png",
+   "sha256": "b3a7da11ef8639e2ed491a780a71c691ba3eee2086baf6548e6a8e2a8597cedd",
+   "display_id": "D10_S3_01"
+  },
+  {
+   "id": "D10_S9_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D10_S9_01.png",
+   "sha256": "3296fe5a137b4f456cf897ffb2eb802f91087db7b65cde1802a50715f75a4943",
+   "display_id": "D10_S9_01"
+  },
+  {
+   "id": "D11_S1_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D11_S1_01.png",
+   "sha256": "81f30cbfd9f061cc430ee16f5072b2e787a1c0555527129b94927b7620d38d6a",
+   "display_id": "D11_S1_01"
+  },
+  {
+   "id": "D11_S6_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D11_S6_01.png",
+   "sha256": "c229aba7305f47f6d547bd3aaa2e311707e1aa642ca741b50e8731ac0a880b5e",
+   "display_id": "D11_S6_01"
+  },
+  {
+   "id": "D11_S8_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D11_S8_01.png",
+   "sha256": "e383306c908afb896bbd2c351e78c0818c6bb70a7445c0151e82382a5ff0e624",
+   "display_id": "D11_S8_01"
+  },
+  {
+   "id": "D12_S3_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D12_S3_01.png",
+   "sha256": "7222f616e0ed471c753f1195cee083e1b2ff28ab50d6e4fa1fd4ff833ee4c77a",
+   "display_id": "D12_S3_01"
+  },
+  {
+   "id": "D12_S6_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D12_S6_01.png",
+   "sha256": "9353b7d88a23bfdd0915bad506b50cbd64255597c36fa562062e3a82efd31d7d",
+   "display_id": "D12_S6_01"
+  },
+  {
+   "id": "D12_S9_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D12_S9_01.png",
+   "sha256": "3c054ecc046ff01d207e78ac3322a04bd999b70c10a9075ace02eafeafb26c19",
+   "display_id": "D12_S9_01"
+  },
+  {
+   "id": "D13_S1_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D13_S1_01.png",
+   "sha256": "bc0129e11c3a6f6b77789475d7afba74eb1a9eaeb70758403b94136c554f7e48",
+   "display_id": "D13_S1_01"
+  },
+  {
+   "id": "D13_S3_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D13_S3_01.png",
+   "sha256": "10cdc8c3359290511f6b4f556b3cc18842596b77553413b7166a4c3e4e8965f5",
+   "display_id": "D13_S3_01"
+  },
+  {
+   "id": "D13_S6_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D13_S6_01.png",
+   "sha256": "29a4492521fa4d31c0997e1975ec6c8c02503372c53b0473be4e058a725b3842",
+   "display_id": "D13_S6_01"
+  },
+  {
+   "id": "D14_S2_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D14_S2_01.png",
+   "sha256": "20ffcf13c468184107ae3b9978bf514d66defb6eef38e71e38e37c3055ca8f12",
+   "display_id": "D14_S2_01"
+  },
+  {
+   "id": "D14_S5_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D14_S5_01.png",
+   "sha256": "f397c40eb50fefd2b961708785af73bfcfaa2bdd2fe247405d3ed29aa94647dc",
+   "display_id": "D14_S5_01"
+  },
+  {
+   "id": "D14_S9_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D14_S9_01.png",
+   "sha256": "b36c24cb839325ecdb4d440779b8b23665029e601446d1c4cff18e06619bd418",
+   "display_id": "D14_S9_01"
+  },
+  {
+   "id": "D15_S1_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D15_S1_01.png",
+   "sha256": "3f3c2d14fc10ca06dbbc8041a8830942aad46539b174861513197e708f014380",
+   "display_id": "D15_S1_01"
+  },
+  {
+   "id": "D15_S4_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D15_S4_01.png",
+   "sha256": "91e40d1947544bfcadf2de373f4cd84faef476aad6ebc20da62849243c5416f4",
+   "display_id": "D15_S4_01"
+  },
+  {
+   "id": "D15_S7_01",
+   "library": "wireframes",
+   "path": "assets/wireframes/D15_S7_01.png",
+   "sha256": "b9709e38fedb9b9e4e200f383511366217b9b01cebffadd62fe7332c9c6afa88",
+   "display_id": "D15_S7_01"
+  },
+  {
+   "id": "C-C01_重阳望远红色行书横版",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C01_重阳望远红色行书横版.jpg",
+   "sha256": "487e85a9cfb3721ca6b3a9fe1a6ef437a7ea677a2a2ec71a41227997909cc83d",
+   "display_id": "C-C01_重阳望远红色行书横版"
+  },
+  {
+   "id": "C-C02_重阳节蓝色水墨粗宋横版",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C02_重阳节蓝色水墨粗宋横版.jpg",
+   "sha256": "d42e09d26351ffc5d3e09b14da074f77f48b217f54230a8c273e51089995cf96",
+   "display_id": "C-C02_重阳节蓝色水墨粗宋横版"
+  },
+  {
+   "id": "C-C03_重阳竖排书法居中菊花",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C03_重阳竖排书法居中菊花.jpg",
+   "sha256": "0932b316b6aa25b10e7dd77fa0eec975a0aef918d3f4ba4dde37f40ad1d540c0",
+   "display_id": "C-C03_重阳竖排书法居中菊花"
+  },
+  {
+   "id": "C-C04_九九重阳金色工笔山水",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C04_九九重阳金色工笔山水.jpg",
+   "sha256": "7f20254a400dfb538c595eb914403b4eebed2603c988c50761284fcadc5e6728",
+   "display_id": "C-C04_九九重阳金色工笔山水"
+  },
+  {
+   "id": "C-C05_重阳佳节水彩剪影",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C05_重阳佳节水彩剪影.jpg",
+   "sha256": "44f8543fa9bacdca65fcaaae417a6cd744a51b28785aaa8e7e04c4ae4ee14ddd",
+   "display_id": "C-C05_重阳佳节水彩剪影"
+  },
+  {
+   "id": "C-C06_重阳节水彩静物竖排书法",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C06_重阳节水彩静物竖排书法.jpg",
+   "sha256": "a3b3d72e27e08c2136fcf45b7c95f5b11676117ef1faa1009e2623afc18c505e",
+   "display_id": "C-C06_重阳节水彩静物竖排书法"
+  },
+  {
+   "id": "C-C07_时光会老扁平插画胶囊标签",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C07_时光会老扁平插画胶囊标签.jpg",
+   "sha256": "a174ac100813e023d5c293e411bc65b161c27a096284edc1f02664af35cec7e2",
+   "display_id": "C-C07_时光会老扁平插画胶囊标签"
+  },
+  {
+   "id": "C-C08_重阳竖排书法居中红日",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C08_重阳竖排书法居中红日.jpg",
+   "sha256": "845336de4353cd70b7cc3691d2e0895ec31bae780cace555307c029ba98ee4b4",
+   "display_id": "C-C08_重阳竖排书法居中红日"
+  },
+  {
+   "id": "D-D01_银龄手机课堂手绘暖调",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D01_银龄手机课堂手绘暖调.jpg",
+   "sha256": "f6b4e1a0663142ffbfbfd79df7b868222e46d50808291b3396a84861dcdbf32d",
+   "display_id": "D-D01_银龄手机课堂手绘暖调"
+  },
+  {
+   "id": "D-D02_步步登高手绘卡通重阳",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D02_步步登高手绘卡通重阳.jpg",
+   "sha256": "bc8da8e8b8959d618685a73531106d0cc9941e88d2ef10e1cd3cba53e6c4f455",
+   "display_id": "D-D02_步步登高手绘卡通重阳"
+  },
+  {
+   "id": "D-D03_带着爸妈出行手绘对话框",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D03_带着爸妈出行手绘对话框.jpg",
+   "sha256": "bb9f95ab9cc4672d28a172f830fd555f416e616318c2fc72d15140a9d575e1b0",
+   "display_id": "D-D03_带着爸妈出行手绘对话框"
+  },
+  {
+   "id": "D-D04_爷爷奶奶有多Young手绘描边字",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D04_爷爷奶奶有多Young手绘描边字.jpg",
+   "sha256": "a9ad5bcf60cd8dd5b19f596b4face05f3633896d83c1e4de7fe7edc13d312027",
+   "display_id": "D-D04_爷爷奶奶有多Young手绘描边字"
+  },
+  {
+   "id": "D-D05_双联手绘插画手机界面",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D05_双联手绘插画手机界面.jpg",
+   "sha256": "db0cfe3412c1f1573c2dafa0b86cbf0d3f999bf6310881c2aa50adfc345b6d5f",
+   "display_id": "D-D05_双联手绘插画手机界面"
+  },
+  {
+   "id": "D-D06_重阳水墨大字竖排",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D06_重阳水墨大字竖排.jpg",
+   "sha256": "ae203a6fb25b156b39d2d8e5e623ed2d7b450b21ce6e3167f43ffd0cf749c393",
+   "display_id": "D-D06_重阳水墨大字竖排"
+  },
+  {
+   "id": "D-D07_重阳登高插画菊花框景",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D07_重阳登高插画菊花框景.jpg",
+   "sha256": "2b45ef27c5ace3c8a3e63330e20154efc176ef5d5907b5e99fcaea0579afe2d6",
+   "display_id": "D-D07_重阳登高插画菊花框景"
+  },
+  {
+   "id": "D-D08_健康长寿蓝白线描大数字",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D08_健康长寿蓝白线描大数字.jpg",
+   "sha256": "1d5ba6d9f9fca32f796af16c4dfa06379c6bda1632122a9d8efa0f21463ae6b8",
+   "display_id": "D-D08_健康长寿蓝白线描大数字"
+  },
+  {
+   "id": "D-D09_重阳节红色书法仙鹤",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D09_重阳节红色书法仙鹤.jpg",
+   "sha256": "dbc432f16b4590f443944de02995e4010f7fa663f1ec60bd2c4b25b21672fc4b",
+   "display_id": "D-D09_重阳节红色书法仙鹤"
+  },
+  {
+   "id": "D-D10_拱门框景国潮插画",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D10_拱门框景国潮插画.jpg",
+   "sha256": "ec32d91f5b0f2f36414073f6060cc660e64702f2c9e79d32f776839d89676f08",
+   "display_id": "D-D10_拱门框景国潮插画"
+  },
+  {
+   "id": "D-D11_竖排书法老人一家扁平",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D11_竖排书法老人一家扁平.jpg",
+   "sha256": "b9f2ec7feddaee771d17c78cd661034a83dc5ac5686159177beda014b09303bf",
+   "display_id": "D-D11_竖排书法老人一家扁平"
+  },
+  {
+   "id": "D-D12_线描老街市井复古",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D12_线描老街市井复古.jpg",
+   "sha256": "c6327ac7f215c7a31d9d0953d78c83ed95d33379685655429b73e87a935639cb",
+   "display_id": "D-D12_线描老街市井复古"
+  },
+  {
+   "id": "D-D13_阶梯几何极简",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D13_阶梯几何极简.jpg",
+   "sha256": "f4df612d6ce255acd8ac168a1232d461bd4f2c0b7654712d5df8ac851bf6dfd6",
+   "display_id": "D-D13_阶梯几何极简"
+  },
+  {
+   "id": "D-D14_三维卡通鲸鱼重阳",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D14_三维卡通鲸鱼重阳.jpg",
+   "sha256": "53b5ed0eee13f92bd88eed1c6c7e8059136355baef424ec74c156ebf3b4dbc75",
+   "display_id": "D-D14_三维卡通鲸鱼重阳"
+  },
+  {
+   "id": "D-D15_三维小熊重阳",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D15_三维小熊重阳.jpg",
+   "sha256": "645698690fd444adc826d1a7f460fae153adfd64092c3829e7347ffb76ddfbd5",
+   "display_id": "D-D15_三维小熊重阳"
+  },
+  {
+   "id": "D-D16_群打卡挑战手绘信息",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D16_群打卡挑战手绘信息.jpg",
+   "sha256": "5f943fd02ce16bccc60a2a7de0b5c8e358ac673998cbcfc74b8ba18dbb59eddf",
+   "display_id": "D-D16_群打卡挑战手绘信息"
+  },
+  {
+   "id": "D-D17_呼叫懂法搭子手绘大字",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D17_呼叫懂法搭子手绘大字.jpg",
+   "sha256": "63386de95ea4fb2d20c2ce96d47e32be1041ea7dd2e7395de1057c4a819ed114",
+   "display_id": "D-D17_呼叫懂法搭子手绘大字"
+  },
+  {
+   "id": "D-D18_黄底手写大字涂鸦",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D18_黄底手写大字涂鸦.jpg",
+   "sha256": "9e48ff775f4e3ea8397e327e4e38a5174fcfcd172630378ab88be53e4ae16dea",
+   "display_id": "D-D18_黄底手写大字涂鸦"
+  },
+  {
+   "id": "D-D19_秋景水彩手写标题",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D19_秋景水彩手写标题.jpg",
+   "sha256": "9cfa8fbe69b71b3df8593fcf4d02bb10e9ee433bc003a878d555d59092437003",
+   "display_id": "D-D19_秋景水彩手写标题"
+  },
+  {
+   "id": "D-D20_九九重阳橙块书法",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D20_九九重阳橙块书法.jpg",
+   "sha256": "c1d09ea99403843f2687656d2dfc59e826994b315d9b7a935bd51dfd57acda4f",
+   "display_id": "D-D20_九九重阳橙块书法"
+  },
+  {
+   "id": "E-E01_小家适老化直播课黄黑",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报E组_适老信息8张/E01_小家适老化直播课黄黑.jpg",
+   "sha256": "bce86a22ec9f4de3f4169d36b7e5c6ae1b36f5e6cf3b5ab04830f413caef143f",
+   "display_id": "E-E01_小家适老化直播课黄黑"
+  },
+  {
+   "id": "E-E02_老年居家友好指南横版报刊",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报E组_适老信息8张/E02_老年居家友好指南横版报刊.jpg",
+   "sha256": "f4156ffc7caf0f7e24f9b74fbad8c40c4de238dde0b29f9d6fef99042daa3852",
+   "display_id": "E-E02_老年居家友好指南横版报刊"
+  },
+  {
+   "id": "E-E03_旧时光会走远照片手写字",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报E组_适老信息8张/E03_旧时光会走远照片手写字.jpg",
+   "sha256": "00ec0c7dbba141400d781e5d34bd800a729bdb0051da192113f48445d6f4f044",
+   "display_id": "E-E03_旧时光会走远照片手写字"
+  },
+  {
+   "id": "E-E04_交际圈不会变小照片手写",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报E组_适老信息8张/E04_交际圈不会变小照片手写.jpg",
+   "sha256": "cbe29bba99c4b104e24a472fa95bd2590820cdac8a2cc0571281561ea300d383",
+   "display_id": "E-E04_交际圈不会变小照片手写"
+  },
+  {
+   "id": "E-E05_扶手安装插画步骤",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报E组_适老信息8张/E05_扶手安装插画步骤.jpg",
+   "sha256": "67504c55e109e725b8444a7704b7d0adf0caa0027aa6f18077cd0d519b8781cc",
+   "display_id": "E-E05_扶手安装插画步骤"
+  },
+  {
+   "id": "E-E06_奶奶们的客厅照片按钮字",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报E组_适老信息8张/E06_奶奶们的客厅照片按钮字.jpg",
+   "sha256": "bf13faeb53a9b51c2bc5d5b7c826b9c8f65596a7e0ff817e714e7c78e1444d39",
+   "display_id": "E-E06_奶奶们的客厅照片按钮字"
+  },
+  {
+   "id": "E-E07_适老化孝亲敬长京东",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报E组_适老信息8张/E07_适老化孝亲敬长京东.jpg",
+   "sha256": "e0ec63d368aaccc77025de4fc9b4a00a556aa8b1cb7266ddf933319fe0077cf0",
+   "display_id": "E-E07_适老化孝亲敬长京东"
+  },
+  {
+   "id": "E-E08_人生后半场松下信息块",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报E组_适老信息8张/E08_人生后半场松下信息块.jpg",
+   "sha256": "4468306d69f233574d7701729545b48d9c19594239d0d1f190dfb419e04d9275",
+   "display_id": "E-E08_人生后半场松下信息块"
+  },
+  {
+   "id": "H-H01_孤独症关注日横版KV",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H01_孤独症关注日横版KV.jpg",
+   "sha256": "0865055ac9777f64e23d1b2b4a913a48eaf2ce4d61fde4b2a985bf7304b420cb",
+   "display_id": "H-H01_孤独症关注日横版KV"
+  },
+  {
+   "id": "H-H02_孤独症关注日横版KV倒置",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H02_孤独症关注日横版KV倒置.jpg",
+   "sha256": "5580e7c6b052cf739d32d341ef82c3a6755d848e95dcf0f1052341c5c086a5ea",
+   "display_id": "H-H02_孤独症关注日横版KV倒置"
+  },
+  {
+   "id": "H-H03_奶奶们的客厅横版KV",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H03_奶奶们的客厅横版KV.jpg",
+   "sha256": "7bb6336ffa93b2b165d0a78e4fca958ac4897bd013bc3ffbac34cd0dd8b9908b",
+   "display_id": "H-H03_奶奶们的客厅横版KV"
+  },
+  {
+   "id": "H-H04_攻略地图定位针时间线",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H04_攻略地图定位针时间线.jpg",
+   "sha256": "9f7a5e595999af38d41b3cdb811c72d4935e8582d3296dd2ca8929fd3992e677",
+   "display_id": "H-H04_攻略地图定位针时间线"
+  },
+  {
+   "id": "H-H05_不负所爱春日插画横版",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H05_不负所爱春日插画横版.jpg",
+   "sha256": "7b5364e6d0a5237879e3df7691caa5b9b93559adb29875018fbb9984fb50a7d6",
+   "display_id": "H-H05_不负所爱春日插画横版"
+  },
+  {
+   "id": "H-H06_春光好食节插画横版",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H06_春光好食节插画横版.jpg",
+   "sha256": "ae126eaaecade241053d9aa8558212e5204e8c9ad0c4826e92d497b8c464e4a8",
+   "display_id": "H-H06_春光好食节插画横版"
+  },
+  {
+   "id": "H-H07_热爱至上涂鸦横版",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H07_热爱至上涂鸦横版.jpg",
+   "sha256": "fc7169e60db3e82d8c277625c9868c900462c594e83bd087cddf0682354d6c1e",
+   "display_id": "H-H07_热爱至上涂鸦横版"
+  },
+  {
+   "id": "H-H08_岁悦可期国潮横版",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H08_岁悦可期国潮横版.jpg",
+   "sha256": "ae912cf6c5c713c3cfb7f432bebfcfd6abae05290cfea91ff321591633172504",
+   "display_id": "H-H08_岁悦可期国潮横版"
+  },
+  {
+   "id": "H-H09_浪游一夏插画横版",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H09_浪游一夏插画横版.jpg",
+   "sha256": "5a09328e855d2c5bdeb6cb7995f288075070b983d3f126635c4781b8a483456e",
+   "display_id": "H-H09_浪游一夏插画横版"
+  },
+  {
+   "id": "H-H10_秋日歌会手绘双联横版",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H10_秋日歌会手绘双联横版.jpg",
+   "sha256": "4ea44a05952eaec663535c02c315e1aab887b196288f166d60f05a51bde98077",
+   "display_id": "H-H10_秋日歌会手绘双联横版"
+  },
+  {
+   "id": "H-H11_淘宝自然大秀横版",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H11_淘宝自然大秀横版.jpg",
+   "sha256": "f482f37c6e968ca523f0c2190eaa1b82b127af8e5e46e7c57fd83d7722cfe8ff",
+   "display_id": "H-H11_淘宝自然大秀横版"
+  },
+  {
+   "id": "H-H12_东方浪潮国潮横版",
+   "library": "posters",
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H12_东方浪潮国潮横版.jpg",
+   "sha256": "30ec996c1c8dcd0bc852a5953ac2590ce9064720907ad5b31e590218225bb090",
+   "display_id": "H-H12_东方浪潮国潮横版"
+  }
+ ],
+ "previews": [
+  {
+   "path": "assets/layout-atlas/layout-atlas-01.jpg",
+   "sha256": "ffc9e7badd50c861d5a52fb0b365ee69d45083085cbf2a803bc0b31e5494984e",
+   "source_ids": [
+    "P01",
+    "P02",
+    "P03",
+    "P04",
+    "P05",
+    "P06",
+    "P07",
+    "P08",
+    "P09"
+   ]
+  },
+  {
+   "path": "assets/layout-atlas/layout-atlas-02.jpg",
+   "sha256": "5aac5eacb44a03fc31b36612396444f1e94caf29cdd0c6eb63f29da05f6218e3",
+   "source_ids": [
+    "P10",
+    "P11",
+    "P12",
+    "P13",
+    "P14",
+    "P15",
+    "P16",
+    "P17",
+    "P18"
+   ]
+  },
+  {
+   "path": "assets/layout-atlas/layout-atlas-03.jpg",
+   "sha256": "4aa58599076490b258c255ff1a90d9ac8578128403435be4544cfe97f101ea00",
+   "source_ids": [
+    "P19",
+    "P20",
+    "P21",
+    "P22",
+    "P23",
+    "A-R01_D01",
+    "A-R02_D01",
+    "A-R03_D01",
+    "A-R04_D02"
+   ]
+  },
+  {
+   "path": "assets/layout-atlas/layout-atlas-04.jpg",
+   "sha256": "5ecce960f4b902e2c27bd846300de0bbb3906b2d5a5283359e8938d6b72ce112",
+   "source_ids": [
+    "A-R05_D02",
+    "A-R06_D02",
+    "A-R07_D06",
+    "A-R08_D06",
+    "A-R09_D06",
+    "A-R10_D03",
+    "A-R11_D03",
+    "A-R12_D03",
+    "A-R13_D04"
+   ]
+  },
+  {
+   "path": "assets/layout-atlas/layout-atlas-05.jpg",
+   "sha256": "db859d41526f4d53c72436ded3dc621c5c3023cd4442a9d3bb7683f6c5c29455",
+   "source_ids": [
+    "A-R14_D04",
+    "A-R15_D04",
+    "A-R19_D07",
+    "A-R20_D07",
+    "A-R21_D07",
+    "A-R22_D08",
+    "A-R23_D08",
+    "A-R24_D08",
+    "A-R25_D15"
+   ]
+  },
+  {
+   "path": "assets/layout-atlas/layout-atlas-06.jpg",
+   "sha256": "d73f89ca0f38855d8672504d220be6e8ee3b3363a134373f82ccd9066423d7d3",
+   "source_ids": [
+    "A-R26_D15",
+    "A-R27_D15",
+    "A-R28_D09",
+    "A-R30_D09",
+    "A-R34_D13",
+    "A-R35_D13",
+    "A-R36_D13",
+    "A-R42_D12",
+    "B-01_政务办事与证照-01_6783538985"
+   ]
+  },
+  {
+   "path": "assets/layout-atlas/layout-atlas-07.jpg",
+   "sha256": "4c0f6c3089132d184dd9ce69d7e0b895bf3c4f9fef386c86fde76813cf520320",
+   "source_ids": [
+    "B-01_政务办事与证照-02_7137965144",
+    "B-01_政务办事与证照-03_5509514116",
+    "B-02_社会保障与民政救助-01_6277822634",
+    "B-02_社会保障与民政救助-02_3599934158",
+    "B-02_社会保障与民政救助-03_7102931032",
+    "B-03_就业与社保-01_5185284432",
+    "B-03_就业与社保-02_7076002062",
+    "B-03_就业与社保-03_4646103442",
+    "B-04_养老与为老服务-01_6328972470"
+   ]
+  },
+  {
+   "path": "assets/layout-atlas/layout-atlas-08.jpg",
+   "sha256": "54a2999e975a59dc9d6454f38f8cf31b9949289e9f4bd9fad3dc2b004df94092",
+   "source_ids": [
+    "B-04_养老与为老服务-02_7285739523",
+    "B-04_养老与为老服务-03_6347990124",
+    "B-05_医疗卫生与健康-01_7059586632",
+    "B-05_医疗卫生与健康-02_7005645615",
+    "B-05_医疗卫生与健康-03_3856696799",
+    "B-06_育儿与青少年-01_7120565810",
+    "B-06_育儿与青少年-02_5843575671",
+    "B-06_育儿与青少年-03_6727742056",
+    "B-07_住房与物业-01_4966699971"
+   ]
+  },
+  {
+   "path": "assets/layout-atlas/layout-atlas-09.jpg",
+   "sha256": "974b9d4c83542cbeb111d7033bd5d75b8c17d69823fb15b7e03d09aaaae6ddf8",
+   "source_ids": [
+    "B-07_住房与物业-02_5772056093",
+    "B-07_住房与物业-03_3948128996",
+    "B-08_环境与环卫-01_3959088749",
+    "B-08_环境与环卫-02_7195233098",
+    "B-08_环境与环卫-03_5367091707",
+    "B-09_商业与便民生活-01_6862136729",
+    "B-09_商业与便民生活-02_6800096299",
+    "B-09_商业与便民生活-03_7025842232",
+    "B-10_安全与应急-01_7195231841"
+   ]
+  },
+  {
+   "path": "assets/layout-atlas/layout-atlas-10.jpg",
+   "sha256": "94d95497a8d00ab16c4359fa9bdd625a354b1e15e38fada408003f6ff62d27db",
+   "source_ids": [
+    "B-10_安全与应急-02_6377712490",
+    "B-10_安全与应急-03_6138722135",
+    "B-11_法律与调解-01_7117672204",
+    "B-11_法律与调解-02_4414932399",
+    "B-11_法律与调解-03_7067791747",
+    "B-12_邻里自治与公共事务-01_7261157522",
+    "B-12_邻里自治与公共事务-02_7283000508",
+    "B-12_邻里自治与公共事务-03_5788973174",
+    "B-13_文化与体育-01_6359541291"
+   ]
+  },
+  {
+   "path": "assets/layout-atlas/layout-atlas-11.jpg",
+   "sha256": "b1f24ece2c61509c901e6cbf60ab61ecf332b4497efc37b52eefa3ea50ac5b07",
+   "source_ids": [
+    "B-13_文化与体育-02_7208270648",
+    "B-13_文化与体育-03_4680164027",
+    "B-14_志愿与公益-01_7114364683",
+    "B-14_志愿与公益-02_6673699223",
+    "B-14_志愿与公益-03_7180636030",
+    "B-15_特殊群体与专项服务-01_6028673925",
+    "B-15_特殊群体与专项服务-02_4808041765",
+    "B-15_特殊群体与专项服务-03_6233479228",
+    "T01"
+   ]
+  },
+  {
+   "path": "assets/layout-atlas/layout-atlas-12.jpg",
+   "sha256": "c884d80428bc09a8acc816d22e292053c36ca0267d3e7381ed24ac97a4ff780d",
+   "source_ids": [
+    "T02",
+    "T03",
+    "T04",
+    "D01_S1_01",
+    "D01_S2_01",
+    "D01_S3_01",
+    "D02_S3_01",
+    "D02_S4_01",
+    "D02_S9_01"
+   ]
+  },
+  {
+   "path": "assets/layout-atlas/layout-atlas-13.jpg",
+   "sha256": "dcc1e943ad6f601730f5cfef016b4efdd8eefab6de0525cd5644d5fbb5036446",
+   "source_ids": [
+    "D03_S1_01",
+    "D03_S6_01",
+    "D03_S9_01",
+    "D04_S1_01",
+    "D04_S3_01",
+    "D04_S9_01",
+    "D05_S2_01",
+    "D05_S5_01",
+    "D05_S6_01"
+   ]
+  },
+  {
+   "path": "assets/layout-atlas/layout-atlas-14.jpg",
+   "sha256": "301fa4ea3db632818485162ddb58db0ae2b37a293c061322ebd59969785af914",
+   "source_ids": [
+    "D06_S1_01",
+    "D06_S3_01",
+    "D06_S4_01",
+    "D07_S1_01",
+    "D07_S2_01",
+    "D07_S9_01",
+    "D08_S3_01",
+    "D08_S4_01",
+    "D08_S5_01"
+   ]
+  },
+  {
+   "path": "assets/layout-atlas/layout-atlas-15.jpg",
+   "sha256": "ba5e8ab85aaa654307f25bcc6a55b0aef539976389918311c90426b91ebee7e5",
+   "source_ids": [
+    "D09_S2_01",
+    "D09_S5_01",
+    "D09_S8_01",
+    "D10_S2_01",
+    "D10_S3_01",
+    "D10_S9_01",
+    "D11_S1_01",
+    "D11_S6_01",
+    "D11_S8_01"
+   ]
+  },
+  {
+   "path": "assets/layout-atlas/layout-atlas-16.jpg",
+   "sha256": "967f971895489219fbb2de00fe3cc90b0b4ca0882ba2b65ac846cc45df85bc70",
+   "source_ids": [
+    "D12_S3_01",
+    "D12_S6_01",
+    "D12_S9_01",
+    "D13_S1_01",
+    "D13_S3_01",
+    "D13_S6_01",
+    "D14_S2_01",
+    "D14_S5_01",
+    "D14_S9_01"
+   ]
+  },
+  {
+   "path": "assets/layout-atlas/layout-atlas-17.jpg",
+   "sha256": "061a68bafcd39b3ecd293eee9bb0c3a62430fe5709da3d8b2e2734d8b2ebac14",
+   "source_ids": [
+    "D15_S1_01",
+    "D15_S4_01",
+    "D15_S7_01"
+   ]
+  },
+  {
+   "path": "assets/layout-atlas/layout-atlas-18.jpg",
+   "sha256": "e05db7b50c85aab4530713795690d49df07967e0ffd246c6c5a1d2fa116b7e48",
+   "source_ids": [
+    "C-C01_重阳望远红色行书横版",
+    "C-C02_重阳节蓝色水墨粗宋横版",
+    "C-C03_重阳竖排书法居中菊花",
+    "C-C04_九九重阳金色工笔山水",
+    "C-C05_重阳佳节水彩剪影",
+    "C-C06_重阳节水彩静物竖排书法",
+    "C-C07_时光会老扁平插画胶囊标签",
+    "C-C08_重阳竖排书法居中红日"
+   ]
+  },
+  {
+   "path": "assets/layout-atlas/layout-atlas-19.jpg",
+   "sha256": "66fc3c677a1b667bbfa60efff2123301060735d75b0cee98008d073ea0436134",
+   "source_ids": [
+    "D-D01_银龄手机课堂手绘暖调",
+    "D-D02_步步登高手绘卡通重阳",
+    "D-D03_带着爸妈出行手绘对话框",
+    "D-D04_爷爷奶奶有多Young手绘描边字",
+    "D-D05_双联手绘插画手机界面",
+    "D-D06_重阳水墨大字竖排",
+    "D-D07_重阳登高插画菊花框景",
+    "D-D08_健康长寿蓝白线描大数字",
+    "D-D09_重阳节红色书法仙鹤"
+   ]
+  },
+  {
+   "path": "assets/layout-atlas/layout-atlas-20.jpg",
+   "sha256": "be5bf5688c0cfcf5d44937916aec411e6def0716d0241e871d5e83a03fd486de",
+   "source_ids": [
+    "D-D10_拱门框景国潮插画",
+    "D-D11_竖排书法老人一家扁平",
+    "D-D12_线描老街市井复古",
+    "D-D13_阶梯几何极简",
+    "D-D14_三维卡通鲸鱼重阳",
+    "D-D15_三维小熊重阳",
+    "D-D16_群打卡挑战手绘信息",
+    "D-D17_呼叫懂法搭子手绘大字",
+    "D-D18_黄底手写大字涂鸦"
+   ]
+  },
+  {
+   "path": "assets/layout-atlas/layout-atlas-21.jpg",
+   "sha256": "b1b1db97213b93e84ffd044747531ffdef114cee9adc7654b5ba311142e92476",
+   "source_ids": [
+    "D-D19_秋景水彩手写标题",
+    "D-D20_九九重阳橙块书法",
+    "E-E01_小家适老化直播课黄黑",
+    "E-E02_老年居家友好指南横版报刊",
+    "E-E03_旧时光会走远照片手写字",
+    "E-E04_交际圈不会变小照片手写",
+    "E-E05_扶手安装插画步骤",
+    "E-E06_奶奶们的客厅照片按钮字",
+    "E-E07_适老化孝亲敬长京东"
+   ]
+  },
+  {
+   "path": "assets/layout-atlas/layout-atlas-22.jpg",
+   "sha256": "c818d6bb3f04243dd9c51476fbe3ec8195cd4de041789b727c7bef3ec77f079c",
+   "source_ids": [
+    "E-E08_人生后半场松下信息块",
+    "H-H01_孤独症关注日横版KV",
+    "H-H02_孤独症关注日横版KV倒置",
+    "H-H03_奶奶们的客厅横版KV",
+    "H-H04_攻略地图定位针时间线",
+    "H-H05_不负所爱春日插画横版",
+    "H-H06_春光好食节插画横版",
+    "H-H07_热爱至上涂鸦横版",
+    "H-H08_岁悦可期国潮横版"
+   ]
+  },
+  {
+   "path": "assets/layout-atlas/layout-atlas-23.jpg",
+   "sha256": "2b033accce1086e3ec65e6d565c74acf52930f95e5d63e03c99f36767412bd13",
+   "source_ids": [
+    "H-H09_浪游一夏插画横版",
+    "H-H10_秋日歌会手绘双联横版",
+    "H-H11_淘宝自然大秀横版",
+    "H-H12_东方浪潮国潮横版"
+   ]
+  }
+ ],
+ "excluded_overviews": "3份既有总览为重复导航，不计独立排版参考；字体TG57另按24模块。",
+ "note": "每份排版源图完整等比显示，不截断为检索前3张。合集细部须再打开原图或具体子图。"
+}

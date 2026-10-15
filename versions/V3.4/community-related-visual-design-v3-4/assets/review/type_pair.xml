@@ -1,0 +1,10 @@
+<View>
+  <Header value="主题字与正文搭配：满意吗，可以进入排版吗？" />
+  <Text name="review_context" value="$review_context" selectionEnabled="false" />
+  <Image name="overview" value="$overview_image" zoomControl="true" />
+  <Choices name="stage_selection" toName="review_context" value="$selection_options" choice="single" required="true" requiredMessage="请明确是否满意并允许进入排版，或选择修改/暂不进入。" />
+  <Header value="不满意希望从哪个方面修改？" />
+  <TextArea name="changes" toName="review_context" rows="3" editable="true" maxSubmissions="1" placeholder="例如笔形、组合排版、语义特色、配色、大小/间距；请先点Add或Shift+Enter保存意见，再提交。" />
+  <Header value="你喜欢什么（可选）" />
+  <TextArea name="likes" toName="review_context" rows="2" editable="true" maxSubmissions="1" />
+</View>

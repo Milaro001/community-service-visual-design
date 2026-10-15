@@ -1,0 +1,259 @@
+{
+  "version": "3.0",
+  "total": 100,
+  "recommendation_threshold": 85,
+  "purpose": "Internal evidence-based review; not automatic release or a substitute for user choice",
+  "categories": {
+    "composition": {
+      "weight": 20,
+      "floor_rating": 3,
+      "description": "构图、主体保护、重心与阅读顺序"
+    },
+    "hierarchy_and_grouping": {
+      "weight": 20,
+      "floor_rating": 3,
+      "description": "同级一致、组内/组间距、信息检索与强调经济"
+    },
+    "typography_and_legibility": {
+      "weight": 20,
+      "floor_rating": 4,
+      "description": "实际字形、阅读尺寸、完整文案、数字与双语"
+    },
+    "capacity_and_spacing": {
+      "weight": 15,
+      "floor_rating": 3,
+      "description": "真实容量、留白、分栏与标题密度适配"
+    },
+    "background_separation": {
+      "weight": 10,
+      "floor_rating": 4,
+      "description": "优先文字重排与连续留白，周边环境按需减弱，必要时承托；保持主图尺度与实际视觉中心清晰，核查局部对比"
+    },
+    "style_coherence": {
+      "weight": 10,
+      "floor_rating": 3,
+      "description": "正文继承标题气质并简化影响阅读的效果，普通图标呼应正文笔形/分量与底图；主题适配优先，风格多样性不设固定配额"
+    },
+    "brand_fidelity": {
+      "weight": 5,
+      "floor_rating": 3,
+      "description": "仅有真实品牌且有适用规范时评分；否则不适用"
+    }
+  },
+  "rating_anchors": {
+    "1": "严重失败",
+    "2": "存在实质问题",
+    "3": "基本成立但需修订",
+    "4": "清楚协调且证据充分",
+    "5": "精修优秀，仍允许用户审美否决"
+  },
+  "aggregation": "normalized_score = 100 * sum(weight * rating / 5) / sum(applicable_weights); any missing applicable rating => unknown",
+  "hard_checks": {
+    "copy_integrity": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "rendered_glyph_integrity": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "capacity_and_min_readable_size": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "no_text_clipping_or_occlusion": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "safe_area": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "subject_preserved": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "no_unapproved_body_panels": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null,
+      "applicability": "Check current explicit restrictions under module10; contextual body-support shapes are authorized without an extra shape-choice gate."
+    },
+    "stage1_review_current": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "stage2_review_current": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "all_text_has_generation_evidence": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "zero_unapproved_font_fallbacks": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "required_icon_category_coverage": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "icons_present_in_current_render": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "icon_semantics_and_permissions": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "actual_local_text_background_contrast": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "visual_readability_current": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "refined_color_variants_shown": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "refined_color_choice_current": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "title_area_matches_current_user_target": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "whitespace_first_layout_current": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "localized_background_softening_current": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null,
+      "applicability": "Only when peripheral environment attenuation/softening is used; bind its actual region and preserve main-subject scale, contours and visual center under module25. No whole-background opacity reduction or central blur. Otherwise not_applicable with reason."
+    },
+    "emergency_position_uses_readable_whitespace": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "subject_area_matches_locked_user_target": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "complete_dates_on_single_line": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "semantic_headings_independently_generated_and_distinct": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "numbered_overview_shown_before_each_choice": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "step_markers_and_section_separation_current": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "semantic_linebreak_and_whitespace_review_current": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "priority_composition_planned_before_background": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "type_library_match_and_context_fusion_current": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "background_candidate_set_current": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "type_pair_approval_current": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    },
+    "layout_reference_survey_current": {
+      "status": "unknown",
+      "evidence": null,
+      "asset_version": null
+    }
+  },
+  "status_enum": [
+    "pass",
+    "fail",
+    "unknown",
+    "not_applicable"
+  ],
+  "rules": [
+    "Floor ratings apply individually; any applicable floor failure needs revision",
+    "Any hard failure overrides score; unknown is never pass",
+    "Non-applicable requires a reason and is removed from score denominator",
+    "Reviews bind to current artifacts. After changes, rerun only affected checks as defined in module20; unchanged evidence can be reused.",
+    "Screen body minimum contrast 4.5:1; priority text target 7:1; print checks remain separate",
+    "Two internal reviews do not add user approval gates",
+    "Every newly laid master-copy text group in full candidates and delivery must have actual generated art-lettering evidence; internal ordinary-font drafts do not satisfy it",
+    "Required icons must cover all applicable information categories and be visibly placed with traceable permissions or original creation evidence",
+    "Font fallback or missing icons cannot be approved by score; fail/unknown blocks completed-delivery status unless the user explicitly changes that requirement",
+    "Measured contrast, visual readability and user color preference are separate statuses",
+    "Apply module19 refinement choice and explicit color overrides; retain existing decisions instead of reopening A/B selection.",
+    "User reports of dark or hard-to-read text require visible revision even if pixel contrast passes",
+    "No exact background or registered text mask means local contrast unknown; do not invent OCR or full-image certification",
+    "Current user default title target is 25–35% using the tight visible title bounding rectangle / canvas area; record each language separately and honor explicit overrides, never silently relax it",
+    "Inspect actual whitespace including corners and the top information row before placing text; compare readable available regions for emergency labels rather than imposing one fixed corner",
+    "Under module25, prioritize text placement, grouping, columns and whitespace; reduce opacity/detail or gently soften peripheral environmental elements only when needed. Preserve selected main-subject relative size, aspect ratio, complete contours and actual visual center, including subjects near edges. Use module10 support shapes only as needed, not default rectangles; do not blur the center to blend a panel or reduce whole-background opacity.",
+    "A generation prompt is not evidence that requested space was cleared; inspect actual artifacts and change strategy after repeated ineffective edits",
+    "Copying a selected export may be hash-verified; rerendered or resized files need affected checks again; visual selection does not resolve necessary factual gaps. Unprovided optional consultation fields are omitted",
+    "Record two distinct user targets: main subject about 35% and subject plus surrounding scene about 45%, below 50%; only reliable segmentation supports measured pixel ratios. Recheck after edits and exports without silently shrinking the subject",
+    "Keep each complete date, range or date plus time as one horizontal line; labels may occupy the preceding line",
+    "Semantic section headings use independently generated assets and a coordinated emphasis color distinct from body and date numerals",
+    "Every user candidate choice must be preceded by an actual overview with stable left-side numbers; retain already completed choices",
+    "Prefer circled or dotted step markers for existing numbered content, preserve sequence and meaning, and clearly separate semantic headings with spacing plus coordinated color, a short rule or a compact heading frame",
+    "Review semantic wrapping, punctuation, intact numbers and dates, short last lines, line gaps and unused available width after composition and color refinement; supplied text records do not certify rendered glyphs",
+    "A dense single-page size exception authorized for one project does not silently change the default title or body size for future projects",
+    "Use module28 for pre-background composition planning and reuse its subject/text/service mapping in later composition.",
+    "Use module24 for the complete TG survey and semantic/layout matching, module11 for visible title semantics, and module21 for title-derived body plus mandatory current combined-preview approval. Keep matching, generation and render evidence separate.",
+    "New background exploration follows module29 for three differentiated styles, position coverage and overview selection; retain selected assets and explicit overrides. Do not restore legacy five-background or three-body-direction defaults.",
+    "Generation coverage counts newly laid master-copy text groups. Authorized original official marks and normative symbols retain their inseparable embedded lettering unchanged with separate source, permission and fidelity evidence. This never exempts ordinary organization names, labels, numbers or body copy; reference screenshots are not official-mark substitutes.",
+    "Complete the current full layout-library visual survey before selecting structure references. Reuse the same task/version survey; a three-result search, source hash, or preview manifest alone does not prove the images were inspected.",
+    "Module11 title candidates generate accurate lettering together with specific semantic symbols, short lines or extensions. Inspect actual presence and complete-group retention after transparency, cropping, scaling and composition; letter arrangement alone or later body icons do not satisfy title auxiliaries. Keep body decoration restrained and do not use auxiliary bounds to inflate title-glyph area."
+  ]
+}

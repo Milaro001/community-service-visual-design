@@ -1,0 +1,11 @@
+{
+  "local_icon_library": null,
+  "optional": true,
+  "human_review": {
+    "enabled": false,
+    "mode": "label_studio",
+    "runtime_config": null,
+    "memory_root": null
+  },
+  "extra_reference_dir": null
+}

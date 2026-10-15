@@ -1,0 +1,20 @@
+{
+  "name": "社区相关视觉设计 V3.4",
+  "version": "V3.4",
+  "tag": "v3.4",
+  "date": "2026-10-15",
+  "skill_name": "community-related-visual-design-v3-4",
+  "repository": "https://github.com/Milaro001/community-service-visual-design",
+  "archive": "社区相关视觉设计 3.4 版本.zip",
+  "skill_entrypoints": {
+    "zh-CN": "SKILL.md",
+    "en": "en/SKILL.md"
+  },
+  "shared_resources": [
+    "scripts/",
+    "references/",
+    "assets/",
+    "agents/"
+  ],
+  "notes": "One shared resource set only. English SKILL.md links to ../references/; run commands from the skill root. Supporting cards and asset metadata retain their original languages."
+}

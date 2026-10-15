@@ -1,0 +1,287 @@
+[
+ {
+  "id": "S01",
+  "name": "简约扁平",
+  "family": "平面",
+  "pitch": "干净色块和简洁图形，蓝绿橙清爽色调，像政务服务指引，信息最清楚",
+  "keywords": "clean flat vector poster, bold simple shapes, 2–3 tone flat fills, crisp edges, generous white space, Swiss-style grid, modern public-service design",
+  "type": "粗黑体/方黑标题，可局部笔画替换；正文圆黑或黑体气质的手绘字",
+  "palette": [
+   "#F5F7FA",
+   "#1F6FEB",
+   "#12B886",
+   "#FF8A00"
+  ],
+  "suits": [
+   "政务",
+   "通知",
+   "指引",
+   "办事",
+   "垃圾分类",
+   "就业",
+   "社保"
+  ]
+ },
+ {
+  "id": "S02",
+  "name": "手绘暖调插画",
+  "family": "手绘",
+  "pitch": "米色纸底手绘插画，橙＋绿暖色，标题图标数字同一支笔画，亲切有生活感",
+  "keywords": "warm hand-drawn illustrated poster on cream textured paper, gouache and colored-pencil texture, slightly imperfect ink outlines, cozy storybook feeling, all lettering icons numbers and doodles drawn with the same brush",
+  "type": "粗壮马克笔/毛笔手写标题，大小错落；正文圆润手写字",
+  "palette": [
+   "#F6EBD6",
+   "#E8642C",
+   "#5B8C3A",
+   "#F2B233"
+  ],
+  "suits": [
+   "老年",
+   "课堂",
+   "亲子",
+   "邻里",
+   "健康",
+   "志愿",
+   "讲座",
+   "敬老",
+   "重阳",
+   "养老"
+  ]
+ },
+ {
+  "id": "S03",
+  "name": "国潮水彩水墨",
+  "family": "东方",
+  "pitch": "宣纸质感山水，朱红＋黛青＋金，书法标题配印章，郑重有文化感",
+  "keywords": "Chinese watercolor and ink wash poster on rice paper, soft wet edges, layered misty mountains, gold accents, elegant negative space, New Chinese style",
+  "type": "行书/行草或粗宋标题配红印章；正文小楷/宋体气质",
+  "palette": [
+   "#F7EBD9",
+   "#D9452B",
+   "#2F5D50",
+   "#C9A45C"
+  ],
+  "suits": [
+   "重阳",
+   "敬老",
+   "春节",
+   "中秋",
+   "节日",
+   "文化",
+   "非遗"
+  ]
+ },
+ {
+  "id": "S04",
+  "name": "2.5D三维立体",
+  "family": "立体",
+  "pitch": "圆润立体小场景，明亮蓝＋薄荷绿＋暖黄，现代亲和",
+  "keywords": "soft 3D clay render poster, isometric 2.5D miniature community scene, rounded friendly shapes, soft studio lighting, pastel gradients, gentle shadows",
+  "type": "带厚度的立体圆体字；正文圆黑气质，放在圆角浮层卡片",
+  "palette": [
+   "#EAF3FF",
+   "#3B82F6",
+   "#34D399",
+   "#FFB020"
+  ],
+  "suits": [
+   "数字",
+   "智慧社区",
+   "反诈",
+   "防灾",
+   "政务",
+   "科技",
+   "养老",
+   "敬老"
+  ]
+ },
+ {
+  "id": "S05",
+  "name": "复古版画拼贴",
+  "family": "印刷",
+  "pitch": "丝网印刷颗粒和撕纸拼贴，限三色，文艺有手作温度",
+  "keywords": "risograph / screen-print poster, limited 3-color palette, visible paper grain, slight ink misregistration, bold carved shapes, torn-paper collage",
+  "type": "粗衬线/木刻感大字；正文粗宋或等宽气质",
+  "palette": [
+   "#F2EBDD",
+   "#243447",
+   "#C65D48",
+   "#D6A14B"
+  ],
+  "suits": [
+   "读书",
+   "文化",
+   "旧物",
+   "倡议",
+   "环保",
+   "市集"
+  ]
+ },
+ {
+  "id": "S06",
+  "name": "剪纸窗花",
+  "family": "东方",
+  "pitch": "红色剪纸镂空图案层层叠叠，喜庆又有民俗味",
+  "keywords": "layered Chinese paper-cut art poster, red paper cutouts with intricate hollow patterns, layered depth with soft shadows between layers, festive folk style",
+  "type": "粗圆宋或剪纸感镂空标题；正文粗黑手写",
+  "palette": [
+   "#FFF4E6",
+   "#C8102E",
+   "#F2B233",
+   "#2E5E4E"
+  ],
+  "suits": [
+   "春节",
+   "节日",
+   "喜庆",
+   "民俗",
+   "邻里",
+   "敬老"
+  ]
+ },
+ {
+  "id": "S08",
+  "name": "清新水彩",
+  "family": "手绘",
+  "pitch": "通透淡彩水彩，留白多，柔和安静，适合健康和自然题材",
+  "keywords": "light airy watercolor poster, soft transparent washes, lots of white paper showing, gentle botanical elements, calm and fresh",
+  "type": "细线手写或清秀书法标题；正文清秀手写",
+  "palette": [
+   "#FBFBF7",
+   "#5FA8A0",
+   "#F4A6A6",
+   "#E8C468"
+  ],
+  "suits": [
+   "健康",
+   "医疗",
+   "心理",
+   "自然",
+   "环保",
+   "女性",
+   "母婴",
+   "养老",
+   "敬老"
+  ]
+ },
+ {
+  "id": "S10",
+  "name": "复古海报印刷",
+  "family": "印刷",
+  "pitch": "上世纪中叶的宣传画质感，平涂大色块＋旧纸做旧，怀旧又醒目",
+  "keywords": "mid-century vintage propaganda-style poster, flat bold color blocks, aged paper texture, slight print wear, heroic simple compositions, retro typography",
+  "type": "粗壮美术字/老宋体标题；正文美术字气质",
+  "palette": [
+   "#EFE3C8",
+   "#B22222",
+   "#1F3A5F",
+   "#E1A63B"
+  ],
+  "suits": [
+   "倡议",
+   "志愿",
+   "劳动",
+   "爱国卫生",
+   "老年",
+   "怀旧",
+   "运动会",
+   "敬老",
+   "重阳"
+  ]
+ },
+ {
+  "id": "S11",
+  "name": "线描单色",
+  "family": "平面",
+  "pitch": "黑色细线描＋一个跳色，克制高级，像设计杂志",
+  "keywords": "minimal single-weight line drawing poster, black ink outlines on off-white, one bold accent color fill, editorial magazine feel, lots of negative space",
+  "type": "细线手写或几何无衬线标题；正文清爽手写",
+  "palette": [
+   "#F7F5F0",
+   "#111111",
+   "#FF5B2E",
+   "#C9C4B8"
+  ],
+  "suits": [
+   "讲座",
+   "文化",
+   "展览",
+   "法律",
+   "通知",
+   "读书",
+   "重阳",
+   "敬老"
+  ]
+ },
+ {
+  "id": "S12",
+  "name": "几何构成",
+  "family": "平面",
+  "pitch": "圆、方、三角色块叠放构成画面，现代感强、像包豪斯海报",
+  "keywords": "Bauhaus geometric poster, circles semicircles rectangles triangles, overlapping color blocks, positive-negative space, strong composition",
+  "type": "几何粗体字，可与色块咬合；正文几何无衬线气质",
+  "palette": [
+   "#F2EEE3",
+   "#E4572E",
+   "#17BEBB",
+   "#FFC914"
+  ],
+  "suits": [
+   "运动",
+   "文体",
+   "就业",
+   "青年",
+   "活动",
+   "市集"
+  ]
+ },
+ {
+  "id": "S13",
+  "name": "摄影拼贴手写",
+  "family": "混合",
+  "pitch": "真实照片抠图＋手写大字和涂鸦标注，真实可信又活泼",
+  "keywords": "photo collage poster, cut-out photographs with white sticker borders, hand-written big lettering and doodle annotations, tape and torn paper, lively magazine scrapbook",
+  "type": "白色或黑色粗手写字，关键词下划线；正文手写",
+  "palette": [
+   "#F3EDE2",
+   "#2B2B2B",
+   "#FF6B35",
+   "#4D9DE0"
+  ],
+  "suits": [
+   "老年",
+   "邻里",
+   "社区故事",
+   "志愿",
+   "适老化",
+   "表彰",
+   "敬老",
+   "养老"
+  ]
+ },
+ {
+  "id": "S15",
+  "name": "绘本童话",
+  "family": "手绘",
+  "pitch": "厚涂绘本插画，柔光和细节丰富的小场景，温柔有故事感",
+  "keywords": "storybook picture-book illustration poster, soft painterly gouache, warm glowing light, rich small details, gentle whimsical scene",
+  "type": "圆润手写标题带轻微描边；正文绘本手写",
+  "palette": [
+   "#FFF3E0",
+   "#D9734E",
+   "#6A994E",
+   "#F2C14E"
+  ],
+  "suits": [
+   "育儿",
+   "阅读",
+   "节日",
+   "老年",
+   "邻里",
+   "睡前故事",
+   "敬老",
+   "重阳",
+   "养老"
+  ]
+ }
+]

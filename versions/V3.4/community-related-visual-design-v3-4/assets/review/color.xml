@@ -1,0 +1,74 @@
+<View>
+  <Style>.community-review {font-family: -apple-system, BlinkMacSystemFont, sans-serif; max-width:1280px; margin:auto; color:#172b32;} .community-card {border:1px solid #dce5e7;border-radius:12px;padding:16px;background:#fff;} .community-help {color:#62757c;font-size:14px;}</Style>
+  <View className="community-review">
+    <Header value="精修配色与成图评审" size="2" />
+    <Text name="review_context" value="$review_context" selectionEnabled="false" />
+    <Header value="全部候选总览" size="4" />
+    <Image name="overview" value="$overview_image" zoomControl="true" />
+    <View className="community-card">
+      <Header value="本轮采用哪一个方案" size="3" />
+      <Choices name="stage_selection" toName="review_context" value="$selection_options" choice="single" required="true" requiredMessage="请选择采用方案，或选择调整、重做、暂不采用。" />
+      <Header value="两张图的比较结果（可选）" size="4" />
+      <Choices name="pair_preference" toName="review_context" choice="single" required="false" showInline="true">
+        <Choice value="左图A更好" />
+        <Choice value="右图B更好" />
+        <Choice value="差不多" />
+        <Choice value="都不满意" />
+      </Choices>
+    </View>
+    <Header value="逐张查看，可放大检查" size="4" />
+    <View style="display:flex;flex-wrap:wrap;gap:18px;align-items:flex-start">
+      <View className="community-card" style="flex:1 1 340px;min-width:260px;max-width:610px">
+        <Header value="$label_a" size="4" />
+        <Image name="image_a" value="$image_a" zoomControl="true" />
+        <Collapse open="false">
+          <Panel value="详细评分（可选）">
+            <Header value="构图 · 1至5分" size="5" />
+            <Rating name="a_composition" toName="image_a" maxRating="5" icon="star" defaultValue="0" required="false" />
+            <Header value="文字排版 · 1至5分" size="5" />
+            <Rating name="a_typography" toName="image_a" maxRating="5" icon="star" defaultValue="0" required="false" />
+            <Header value="配色 · 1至5分" size="5" />
+            <Rating name="a_color" toName="image_a" maxRating="5" icon="star" defaultValue="0" required="false" />
+            <Header value="信息层级 · 1至5分" size="5" />
+            <Rating name="a_hierarchy" toName="image_a" maxRating="5" icon="star" defaultValue="0" required="false" />
+            <Header value="风格适配 · 1至5分" size="5" />
+            <Rating name="a_style_fit" toName="image_a" maxRating="5" icon="star" defaultValue="0" required="false" />
+          </Panel>
+        </Collapse>
+      </View>
+      <View className="community-card" style="flex:1 1 340px;min-width:260px;max-width:610px">
+        <Header value="$label_b" size="4" />
+        <Image name="image_b" value="$image_b" zoomControl="true" />
+        <Collapse open="false">
+          <Panel value="详细评分（可选）">
+            <Header value="构图 · 1至5分" size="5" />
+            <Rating name="b_composition" toName="image_b" maxRating="5" icon="star" defaultValue="0" required="false" />
+            <Header value="文字排版 · 1至5分" size="5" />
+            <Rating name="b_typography" toName="image_b" maxRating="5" icon="star" defaultValue="0" required="false" />
+            <Header value="配色 · 1至5分" size="5" />
+            <Rating name="b_color" toName="image_b" maxRating="5" icon="star" defaultValue="0" required="false" />
+            <Header value="信息层级 · 1至5分" size="5" />
+            <Rating name="b_hierarchy" toName="image_b" maxRating="5" icon="star" defaultValue="0" required="false" />
+            <Header value="风格适配 · 1至5分" size="5" />
+            <Rating name="b_style_fit" toName="image_b" maxRating="5" icon="star" defaultValue="0" required="false" />
+          </Panel>
+        </Collapse>
+      </View>
+    </View>
+    <View className="community-card" style="margin-top:20px">
+      <Header value="你喜欢什么" size="4" />
+      <TextArea name="likes" toName="review_context" rows="2" editable="true" maxSubmissions="1" placeholder="例如：造型概括明确，留白舒服，字号层级清楚。" />
+      <Header value="哪里需要修改" size="4" />
+      <TextArea name="changes" toName="review_context" rows="3" editable="true" maxSubmissions="1" placeholder="请说明要调整的具体细节。" />
+      <Header value="这条偏好怎样使用" size="4" />
+      <Choices name="persist_preference" toName="review_context" choice="single" required="false">
+        <Choice value="仅本次反馈" />
+        <Choice value="同类任务以后沿用" />
+      </Choices>
+      <View visibleWhen="choice-selected" whenTagName="persist_preference" whenChoiceValue="同类任务以后沿用">
+        <TextArea name="preference_statement" toName="review_context" rows="2" editable="true" maxSubmissions="1" placeholder="选择以后沿用时，写明希望记住的偏好及适用场景。" visibleWhen="choice-selected" whenTagName="persist_preference" whenChoiceValue="同类任务以后沿用" required="true" requiredMessage="请写明以后同类任务要沿用的偏好。" />
+      </View>
+      <Header value="理由填写后先点Add或按Shift加Enter，再提交整条评价。" size="5" style="color:#62757c" />
+    </View>
+  </View>
+</View>

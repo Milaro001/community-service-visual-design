@@ -1,0 +1,1636 @@
+{
+  "priority": "P01–P23共同组成用户指定优先池：底图生成前、构图及排版阶段均先按当前内容与骨架匹配",
+  "files": [
+    {
+      "id": "P01",
+      "path": "assets/layout-priority-references/P01_商业海报与票券构图.png",
+      "source": "用户上传截图，2026-10-12 20.44.46",
+      "role": "优先版式结构参考",
+      "features": "标题堆叠、四角锚点、横竖交错、服务信息底置及横向票券分区",
+      "canvas_px": [
+        766,
+        1040
+      ],
+      "sha256": "142053df45b10ad585d6dfbbb06dc6a675a21aad857b96c452c54f4ceccc276d",
+      "viewed": "本对话已查看附件",
+      "reuse": "仅提取结构，不作为成品素材；原作者/许可未独立核实"
+    },
+    {
+      "id": "P02",
+      "path": "assets/layout-priority-references/P02_编辑式与留白构图.png",
+      "source": "用户上传截图，2026-10-12 20.48.39",
+      "role": "优先版式结构参考",
+      "features": "错落标题、分栏、竖向锚点、日期定位和模块化服务信息",
+      "canvas_px": [
+        1032,
+        1064
+      ],
+      "sha256": "26af532666047b408299baeed330370bdd79896019c53a09b61d878532c58f87",
+      "viewed": "本对话已查看附件",
+      "reuse": "仅提取结构，不作为成品素材；原作者/许可未独立核实"
+    },
+    {
+      "id": "P03",
+      "path": "assets/layout-priority-references/P03_九宫格网格位置变化.png",
+      "source": "用户上传截图，2026-10-12 20.48.27",
+      "role": "优先版式结构参考",
+      "features": "相同文案在九种版式中的上置、居中、下置、侧置与共同网格",
+      "canvas_px": [
+        966,
+        1348
+      ],
+      "sha256": "072c43a19b1fb6c098c7c341d7d4ac6a8948eb2ecd6adb8dbc7ba53c105cfce5",
+      "viewed": "本对话已查看附件",
+      "reuse": "仅提取结构，不作为成品素材；原作者/许可未独立核实"
+    },
+    {
+      "id": "P04",
+      "path": "assets/layout-priority-references/P04_中英组合与横竖留白.png",
+      "source": "用户上传截图，2026-10-12 20.49.10",
+      "role": "优先版式结构参考",
+      "features": "九种中英组合、长短标题错落、侧边说明、角落日期及细线分组",
+      "canvas_px": [
+        994,
+        1302
+      ],
+      "sha256": "53cd1d428f137e11bf5cb567a7132b12591d73d8571dc47518eeb9738e2a842e",
+      "viewed": "本对话已查看附件",
+      "reuse": "仅提取结构，不作为成品素材；原作者/许可未独立核实"
+    },
+    {
+      "id": "P05",
+      "path": "assets/layout-priority-references/P05_黑底双版与分栏网格.jpg",
+      "source": "用户提供图片，2026-10-13，两批附件按顺序登记",
+      "source_file_name": "9eac51d09c6de9db1f9e3c3c86613c72.jpg",
+      "role": "底图构图规划、构图筛选和文字排版的优先结构参考",
+      "features": "大标题与英文层级、窄侧栏和宽主栏、下方时间地点分置",
+      "suitable_content": "短公告、活动招募、横向服务字段",
+      "adaptation": "侧栏小字须放大，网格只作内部对齐，保留主题图空间",
+      "canvas_px": [
+        1280,
+        1707
+      ],
+      "sha256": "650f7842064386a420695438f704c7e9386ca310aefe19981c35b66ef9a9b620",
+      "viewed": "本对话附件逐张已查看；来源尺寸另经文件解码检查",
+      "reuse": "仅提取结构，原文字/品牌/水印/日期不作当前事实；原作者及许可未独立核实",
+      "layout_units": [
+        {
+          "id": "P05-R1C1",
+          "location": "中央展示区左海报",
+          "bounds_normalized_xyxy": [
+            0.09,
+            0.29,
+            0.49,
+            0.71
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P05-R1C2",
+          "location": "中央展示区右海报",
+          "bounds_normalized_xyxy": [
+            0.51,
+            0.29,
+            0.91,
+            0.71
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        }
+      ]
+    },
+    {
+      "id": "P06",
+      "path": "assets/layout-priority-references/P06_编辑式编号与图文模块.jpg",
+      "source": "用户提供图片，2026-10-13，两批附件按顺序登记",
+      "source_file_name": "91dcb49e79b250ffab795cae4e625e8a.jpg",
+      "role": "底图构图规划、构图筛选和文字排版的优先结构参考",
+      "features": "左侧叠排标题、右侧图文模块、编号信息组、大日期块",
+      "suitable_content": "多项活动、节目清单、文化服务",
+      "adaptation": "地址恢复自然横行，正文优先圈号，错落中英文须保留真实阅读顺序",
+      "canvas_px": [
+        1280,
+        1675
+      ],
+      "sha256": "64ffc738b5eeb0c6ccfa8c342abaebdaa0cebd4bf56493982b5615f9553596f2",
+      "viewed": "本对话附件逐张已查看；来源尺寸另经文件解码检查",
+      "reuse": "仅提取结构，原文字/品牌/水印/日期不作当前事实；原作者及许可未独立核实",
+      "layout_units": [
+        {
+          "id": "P06-R1C1",
+          "location": "黑底上的单张灰白海报",
+          "bounds_normalized_xyxy": [
+            0.16,
+            0.13,
+            0.85,
+            0.88
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        }
+      ]
+    },
+    {
+      "id": "P07",
+      "path": "assets/layout-priority-references/P07_衬线横竖四版.jpg",
+      "source": "用户提供图片，2026-10-13，两批附件按顺序登记",
+      "source_file_name": "30ec4cbbd1d42b0e87f9abeaeabb6d63.jpg",
+      "role": "底图构图规划、构图筛选和文字排版的优先结构参考",
+      "features": "2×2：左上错位横题、右上纵题、左下居中、右下上题与右侧日期",
+      "suitable_content": "少量正文的文化宣传、读书活动",
+      "adaptation": "中文列序与日期同行按当前规则，正文不用标题式逐字竖排",
+      "canvas_px": [
+        720,
+        1000
+      ],
+      "sha256": "cf5705276d1ca8c60a86a13464ab747d6a63d8aa3945d0844e91290327f3e954",
+      "viewed": "本对话附件逐张已查看；来源尺寸另经文件解码检查",
+      "reuse": "仅提取结构，原文字/品牌/水印/日期不作当前事实；原作者及许可未独立核实",
+      "layout_units": [
+        {
+          "id": "P07-R1C1",
+          "location": "第1行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.0,
+            0.5,
+            0.5
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P07-R1C2",
+          "location": "第1行第2列",
+          "bounds_normalized_xyxy": [
+            0.5,
+            0.0,
+            1.0,
+            0.5
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P07-R2C1",
+          "location": "第2行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.5,
+            0.5,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P07-R2C2",
+          "location": "第2行第2列",
+          "bounds_normalized_xyxy": [
+            0.5,
+            0.5,
+            1.0,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        }
+      ]
+    },
+    {
+      "id": "P08",
+      "path": "assets/layout-priority-references/P08_无衬线九宫格标题位置.jpg",
+      "source": "用户提供图片，2026-10-13，两批附件按顺序登记",
+      "source_file_name": "7c217ceddb83c070ff0ada5ad54cd1a2.jpg",
+      "role": "底图构图规划、构图筛选和文字排版的优先结构参考",
+      "features": "3×3：上置、居中、右侧纵题、对角关系、沿边分散与下方字段",
+      "suitable_content": "标题位置对比、短标题活动",
+      "adaptation": "拆散的标题恢复清楚阅读路径，关键正文与求助信息不散到四角",
+      "canvas_px": [
+        1206,
+        1763
+      ],
+      "sha256": "81264a544e00e8e0a21b79b2dab84ff7a694d30c7bf7cc566bcd6ca99d4ee0dc",
+      "viewed": "本对话附件逐张已查看；来源尺寸另经文件解码检查",
+      "reuse": "仅提取结构，原文字/品牌/水印/日期不作当前事实；原作者及许可未独立核实",
+      "layout_units": [
+        {
+          "id": "P08-R1C1",
+          "location": "第1行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.0,
+            0.3333,
+            0.3333
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P08-R1C2",
+          "location": "第1行第2列",
+          "bounds_normalized_xyxy": [
+            0.3333,
+            0.0,
+            0.6667,
+            0.3333
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P08-R1C3",
+          "location": "第1行第3列",
+          "bounds_normalized_xyxy": [
+            0.6667,
+            0.0,
+            1.0,
+            0.3333
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P08-R2C1",
+          "location": "第2行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.3333,
+            0.3333,
+            0.6667
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P08-R2C2",
+          "location": "第2行第2列",
+          "bounds_normalized_xyxy": [
+            0.3333,
+            0.3333,
+            0.6667,
+            0.6667
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P08-R2C3",
+          "location": "第2行第3列",
+          "bounds_normalized_xyxy": [
+            0.6667,
+            0.3333,
+            1.0,
+            0.6667
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P08-R3C1",
+          "location": "第3行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.6667,
+            0.3333,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P08-R3C2",
+          "location": "第3行第2列",
+          "bounds_normalized_xyxy": [
+            0.3333,
+            0.6667,
+            0.6667,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P08-R3C3",
+          "location": "第3行第3列",
+          "bounds_normalized_xyxy": [
+            0.6667,
+            0.6667,
+            1.0,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        }
+      ]
+    },
+    {
+      "id": "P09",
+      "path": "assets/layout-priority-references/P09_衬线阅读会与底部字段.jpg",
+      "source": "用户提供图片，2026-10-13，两批附件按顺序登记",
+      "source_file_name": "1ea898722482217dcfccf8f6a61d181f.jpg",
+      "role": "底图构图规划、构图筛选和文字排版的优先结构参考",
+      "features": "3×3：前五例读书会，后四例饮品；细线分组、居中与左上标题、底部并列字段",
+      "suitable_content": "阅读会、讲座、并列服务信息",
+      "adaptation": "商业价格只借分区结构，主标题外圈装饰和原商家文案不继承",
+      "canvas_px": [
+        1206,
+        1555
+      ],
+      "sha256": "0fb05c54258ce0801ad904e3ea17ed635cd02784b721326d53f18a2059779a4c",
+      "viewed": "本对话附件逐张已查看；来源尺寸另经文件解码检查",
+      "reuse": "仅提取结构，原文字/品牌/水印/日期不作当前事实；原作者及许可未独立核实",
+      "layout_units": [
+        {
+          "id": "P09-R1C1",
+          "location": "第1行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.0,
+            0.3333,
+            0.3333
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P09-R1C2",
+          "location": "第1行第2列",
+          "bounds_normalized_xyxy": [
+            0.3333,
+            0.0,
+            0.6667,
+            0.3333
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P09-R1C3",
+          "location": "第1行第3列",
+          "bounds_normalized_xyxy": [
+            0.6667,
+            0.0,
+            1.0,
+            0.3333
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P09-R2C1",
+          "location": "第2行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.3333,
+            0.3333,
+            0.6667
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P09-R2C2",
+          "location": "第2行第2列",
+          "bounds_normalized_xyxy": [
+            0.3333,
+            0.3333,
+            0.6667,
+            0.6667
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P09-R2C3",
+          "location": "第2行第3列",
+          "bounds_normalized_xyxy": [
+            0.6667,
+            0.3333,
+            1.0,
+            0.6667
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P09-R3C1",
+          "location": "第3行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.6667,
+            0.3333,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P09-R3C2",
+          "location": "第3行第2列",
+          "bounds_normalized_xyxy": [
+            0.3333,
+            0.6667,
+            0.6667,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P09-R3C3",
+          "location": "第3行第3列",
+          "bounds_normalized_xyxy": [
+            0.6667,
+            0.6667,
+            1.0,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        }
+      ]
+    },
+    {
+      "id": "P10",
+      "path": "assets/layout-priority-references/P10_粗字活动与横向服务区.jpg",
+      "source": "用户提供图片，2026-10-13，两批附件按顺序登记",
+      "source_file_name": "63f676c77bb0db62c7a3ae4a11ce8885.jpg",
+      "role": "底图构图规划、构图筛选和文字排版的优先结构参考",
+      "features": "3×3：顶部大标题、中央负空间、底部两至四列短信息",
+      "suitable_content": "市集、招募、报名、服务通知",
+      "adaptation": "中央空间协调真实主题图和正文，放大底部必要信息，正文承托按10/25适配主体和连续阅读区",
+      "canvas_px": [
+        1206,
+        1548
+      ],
+      "sha256": "1d325d05723fc712deda3ce32a0947d3f29f4ccdd946cd99e9797b3e8f0f6d9d",
+      "viewed": "本对话附件逐张已查看；来源尺寸另经文件解码检查",
+      "reuse": "仅提取结构，原文字/品牌/水印/日期不作当前事实；原作者及许可未独立核实",
+      "layout_units": [
+        {
+          "id": "P10-R1C1",
+          "location": "第1行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.0,
+            0.3333,
+            0.3333
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P10-R1C2",
+          "location": "第1行第2列",
+          "bounds_normalized_xyxy": [
+            0.3333,
+            0.0,
+            0.6667,
+            0.3333
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P10-R1C3",
+          "location": "第1行第3列",
+          "bounds_normalized_xyxy": [
+            0.6667,
+            0.0,
+            1.0,
+            0.3333
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P10-R2C1",
+          "location": "第2行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.3333,
+            0.3333,
+            0.6667
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P10-R2C2",
+          "location": "第2行第2列",
+          "bounds_normalized_xyxy": [
+            0.3333,
+            0.3333,
+            0.6667,
+            0.6667
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P10-R2C3",
+          "location": "第2行第3列",
+          "bounds_normalized_xyxy": [
+            0.6667,
+            0.3333,
+            1.0,
+            0.6667
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P10-R3C1",
+          "location": "第3行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.6667,
+            0.3333,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P10-R3C2",
+          "location": "第3行第2列",
+          "bounds_normalized_xyxy": [
+            0.3333,
+            0.6667,
+            0.6667,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P10-R3C3",
+          "location": "第3行第3列",
+          "bounds_normalized_xyxy": [
+            0.6667,
+            0.6667,
+            1.0,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        }
+      ]
+    },
+    {
+      "id": "P11",
+      "path": "assets/layout-priority-references/P11_错位大字与几何主视觉.jpg",
+      "source": "用户提供图片，2026-10-13，两批附件按顺序登记",
+      "source_file_name": "61e5d4c8789816ee9337962666851163.jpg",
+      "role": "底图构图规划、构图筛选和文字排版的优先结构参考",
+      "features": "单张：两个大字错位、中央灰色主视觉、右上时间、右下地址、左下机构",
+      "suitable_content": "有主视觉的社区展览、文化活动",
+      "adaptation": "先识别真实纸面范围，灰色外部展示背景不算排版空位；字序与字义完整",
+      "canvas_px": [
+        1280,
+        1810
+      ],
+      "sha256": "ca37d00163c436edf2c9ad2f466059a5385a5b5a92f45ea95eb3c558032caa8c",
+      "viewed": "本对话附件逐张已查看；来源尺寸另经文件解码检查",
+      "reuse": "仅提取结构，原文字/品牌/水印/日期不作当前事实；原作者及许可未独立核实",
+      "layout_units": [
+        {
+          "id": "P11-R1C1",
+          "location": "灰色展示背景内的白色纸面",
+          "bounds_normalized_xyxy": [
+            0.14,
+            0.11,
+            0.83,
+            0.79
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        }
+      ]
+    },
+    {
+      "id": "P12",
+      "path": "assets/layout-priority-references/P12_图文叠合与模块图文.jpg",
+      "source": "用户提供图片，2026-10-13，两批附件按顺序登记",
+      "source_file_name": "eed1f72fc7506b974f5198eda86ec7e1.jpg",
+      "role": "底图构图规划、构图筛选和文字排版的优先结构参考",
+      "features": "两张有效海报：左上高对比图文叠合，右侧浅底模块图文与斜线关系",
+      "suitable_content": "图文主视觉、模块化内容",
+      "adaptation": "仅匹配两张海报区域；下方教程宣传和网页截图不是构图对象，示例内容不迁入",
+      "canvas_px": [
+        1206,
+        1548
+      ],
+      "sha256": "b589160ff09ac4115ed778bf01a2b91067ae3d8fc145e79acc85d7a2c9aaefa3",
+      "viewed": "本对话附件逐张已查看；来源尺寸另经文件解码检查",
+      "reuse": "仅提取结构，原文字/品牌/水印/日期不作当前事实；原作者及许可未独立核实",
+      "layout_units": [
+        {
+          "id": "P12-R1C1",
+          "location": "左上紫黄海报",
+          "bounds_normalized_xyxy": [
+            0.02,
+            0.06,
+            0.49,
+            0.57
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P12-R1C2",
+          "location": "右侧绿色米底海报",
+          "bounds_normalized_xyxy": [
+            0.51,
+            0.2,
+            0.97,
+            0.71
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        }
+      ],
+      "excluded_regions": "下方教程标题、宣传文字、网站截图不作为海报匹配对象"
+    },
+    {
+      "id": "P13",
+      "path": "assets/layout-priority-references/P13_双版网格教学.jpg",
+      "source": "用户提供图片，2026-10-13，两批附件按顺序登记",
+      "source_file_name": "aad36a00e9f614714c4dd23085fe215c.jpg",
+      "role": "底图构图规划、构图筛选和文字排版的优先结构参考",
+      "features": "上排两种成稿，下排对应红网格：左右错位信息、上下标题与底部副题",
+      "suitable_content": "网格对齐、双栏字段、活动信息",
+      "adaptation": "只有两种独立版式；主标题禁框，教学网格不入成图",
+      "canvas_px": [
+        1440,
+        1926
+      ],
+      "sha256": "0df9cbfc5478cffa9cc907656ef960dd8d0588251e4bfd31740240e686f96dd3",
+      "viewed": "本对话附件逐张已查看；来源尺寸另经文件解码检查",
+      "reuse": "仅提取结构，原文字/品牌/水印/日期不作当前事实；原作者及许可未独立核实",
+      "layout_units": [
+        {
+          "id": "P13-R1C1",
+          "location": "上排左侧成稿",
+          "bounds_normalized_xyxy": [
+            0,
+            0,
+            0.5,
+            0.5
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P13-R1C2",
+          "location": "上排右侧成稿",
+          "bounds_normalized_xyxy": [
+            0.5,
+            0,
+            1,
+            0.5
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        }
+      ],
+      "excluded_regions": "下排是上排两版的网格讲解，不计为额外独立模板"
+    },
+    {
+      "id": "P14",
+      "path": "assets/layout-priority-references/P14_衬线中英九宫格组合.jpg",
+      "source": "用户提供图片，2026-10-13，两批附件按顺序登记",
+      "source_file_name": "414550633ab1febb81a7b2a092daddc0.jpg",
+      "role": "底图构图规划、构图筛选和文字排版的优先结构参考",
+      "features": "3×3：上题、右侧纵题、中心题、下题、错位题与英文装饰",
+      "suitable_content": "文化活动、标题组合、分散布局",
+      "adaptation": "不照搬INSPIRA/T ION式拆词、微小正文和日期碎行",
+      "canvas_px": [
+        1206,
+        1608
+      ],
+      "sha256": "68e74f4e1e234728b552e6f927f4d642ad57bdf502d68934ee205419a7d3d2c7",
+      "viewed": "本对话附件逐张已查看；来源尺寸另经文件解码检查",
+      "reuse": "仅提取结构，原文字/品牌/水印/日期不作当前事实；原作者及许可未独立核实",
+      "layout_units": [
+        {
+          "id": "P14-R1C1",
+          "location": "第1行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.0,
+            0.3333,
+            0.3333
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P14-R1C2",
+          "location": "第1行第2列",
+          "bounds_normalized_xyxy": [
+            0.3333,
+            0.0,
+            0.6667,
+            0.3333
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P14-R1C3",
+          "location": "第1行第3列",
+          "bounds_normalized_xyxy": [
+            0.6667,
+            0.0,
+            1.0,
+            0.3333
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P14-R2C1",
+          "location": "第2行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.3333,
+            0.3333,
+            0.6667
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P14-R2C2",
+          "location": "第2行第2列",
+          "bounds_normalized_xyxy": [
+            0.3333,
+            0.3333,
+            0.6667,
+            0.6667
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P14-R2C3",
+          "location": "第2行第3列",
+          "bounds_normalized_xyxy": [
+            0.6667,
+            0.3333,
+            1.0,
+            0.6667
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P14-R3C1",
+          "location": "第3行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.6667,
+            0.3333,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P14-R3C2",
+          "location": "第3行第2列",
+          "bounds_normalized_xyxy": [
+            0.3333,
+            0.6667,
+            0.6667,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P14-R3C3",
+          "location": "第3行第3列",
+          "bounds_normalized_xyxy": [
+            0.6667,
+            0.6667,
+            1.0,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        }
+      ]
+    },
+    {
+      "id": "P15",
+      "path": "assets/layout-priority-references/P15_展览十六格主体预留.jpg",
+      "source": "用户提供图片，2026-10-13，两批附件按顺序登记",
+      "source_file_name": "ac60f0097ca55e0f6c770752bf4bb22e.jpg",
+      "role": "底图构图规划、构图筛选和文字排版的优先结构参考",
+      "features": "4×4：围边、上图下题、上下标题带、分栏、侧边纵题、中心纵题、大图加信息带",
+      "suitable_content": "底图主体位置、文字空间、活动布局",
+      "adaptation": "叉线矩形是图像占位；示意叉线和英文拆词不入成图，按母本恢复完整日期",
+      "canvas_px": [
+        1169,
+        1536
+      ],
+      "sha256": "39a73058e4d827c2f37ecf35fe8f37714bd768dbd3e9d45b66c3474857de2c24",
+      "viewed": "本对话附件逐张已查看；来源尺寸另经文件解码检查",
+      "reuse": "仅提取结构，原文字/品牌/水印/日期不作当前事实；原作者及许可未独立核实",
+      "layout_units": [
+        {
+          "id": "P15-R1C1",
+          "location": "第1行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.0,
+            0.25,
+            0.25
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P15-R1C2",
+          "location": "第1行第2列",
+          "bounds_normalized_xyxy": [
+            0.25,
+            0.0,
+            0.5,
+            0.25
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P15-R1C3",
+          "location": "第1行第3列",
+          "bounds_normalized_xyxy": [
+            0.5,
+            0.0,
+            0.75,
+            0.25
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P15-R1C4",
+          "location": "第1行第4列",
+          "bounds_normalized_xyxy": [
+            0.75,
+            0.0,
+            1.0,
+            0.25
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P15-R2C1",
+          "location": "第2行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.25,
+            0.25,
+            0.5
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P15-R2C2",
+          "location": "第2行第2列",
+          "bounds_normalized_xyxy": [
+            0.25,
+            0.25,
+            0.5,
+            0.5
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P15-R2C3",
+          "location": "第2行第3列",
+          "bounds_normalized_xyxy": [
+            0.5,
+            0.25,
+            0.75,
+            0.5
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P15-R2C4",
+          "location": "第2行第4列",
+          "bounds_normalized_xyxy": [
+            0.75,
+            0.25,
+            1.0,
+            0.5
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P15-R3C1",
+          "location": "第3行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.5,
+            0.25,
+            0.75
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P15-R3C2",
+          "location": "第3行第2列",
+          "bounds_normalized_xyxy": [
+            0.25,
+            0.5,
+            0.5,
+            0.75
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P15-R3C3",
+          "location": "第3行第3列",
+          "bounds_normalized_xyxy": [
+            0.5,
+            0.5,
+            0.75,
+            0.75
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P15-R3C4",
+          "location": "第3行第4列",
+          "bounds_normalized_xyxy": [
+            0.75,
+            0.5,
+            1.0,
+            0.75
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P15-R4C1",
+          "location": "第4行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.75,
+            0.25,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P15-R4C2",
+          "location": "第4行第2列",
+          "bounds_normalized_xyxy": [
+            0.25,
+            0.75,
+            0.5,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P15-R4C3",
+          "location": "第4行第3列",
+          "bounds_normalized_xyxy": [
+            0.5,
+            0.75,
+            0.75,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P15-R4C4",
+          "location": "第4行第4列",
+          "bounds_normalized_xyxy": [
+            0.75,
+            0.75,
+            1.0,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        }
+      ]
+    },
+    {
+      "id": "P16",
+      "path": "assets/layout-priority-references/P16_九类图文构图关系.jpg",
+      "source": "用户提供图片，2026-10-13，两批附件按顺序登记",
+      "source_file_name": "9545f494c86d9e35bcf967d86af20f5a.jpg",
+      "role": "底图构图规划、构图筛选和文字排版的优先结构参考",
+      "features": "3×3：上下、左右、对称；对角、曲线、散点；三分、复合、中心",
+      "suitable_content": "底图主次关系、主体位置、连续文字区",
+      "adaptation": "借几何关系，示意纸纹/叉线/教程文字不自动成为成品；保持唯一主视觉和阅读路径",
+      "canvas_px": [
+        1169,
+        1521
+      ],
+      "sha256": "9e98423ca39de149db043bea6c9c08449993f16117509d112562d50ab6405870",
+      "viewed": "本对话附件逐张已查看；来源尺寸另经文件解码检查",
+      "reuse": "仅提取结构，原文字/品牌/水印/日期不作当前事实；原作者及许可未独立核实",
+      "layout_units": [
+        {
+          "id": "P16-R1C1",
+          "location": "第1行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.0,
+            0.3333,
+            0.3333
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P16-R1C2",
+          "location": "第1行第2列",
+          "bounds_normalized_xyxy": [
+            0.3333,
+            0.0,
+            0.6667,
+            0.3333
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P16-R1C3",
+          "location": "第1行第3列",
+          "bounds_normalized_xyxy": [
+            0.6667,
+            0.0,
+            1.0,
+            0.3333
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P16-R2C1",
+          "location": "第2行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.3333,
+            0.3333,
+            0.6667
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P16-R2C2",
+          "location": "第2行第2列",
+          "bounds_normalized_xyxy": [
+            0.3333,
+            0.3333,
+            0.6667,
+            0.6667
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P16-R2C3",
+          "location": "第2行第3列",
+          "bounds_normalized_xyxy": [
+            0.6667,
+            0.3333,
+            1.0,
+            0.6667
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P16-R3C1",
+          "location": "第3行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.6667,
+            0.3333,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P16-R3C2",
+          "location": "第3行第2列",
+          "bounds_normalized_xyxy": [
+            0.3333,
+            0.6667,
+            0.6667,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P16-R3C3",
+          "location": "第3行第3列",
+          "bounds_normalized_xyxy": [
+            0.6667,
+            0.6667,
+            1.0,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        }
+      ]
+    },
+    {
+      "id": "P17",
+      "path": "assets/layout-priority-references/P17_九类主体与负空间.jpg",
+      "source": "用户提供图片，2026-10-13，两批附件按顺序登记",
+      "source_file_name": "0aa8741dca35cb8d716915bf2189ce07.jpg",
+      "role": "底图构图规划、构图筛选和文字排版的优先结构参考",
+      "features": "3×3：居中、对角线、散点；三角、九宫格、包围；曲线、分割、四角",
+      "suitable_content": "主体焦点、图文平衡、负空间比较",
+      "adaptation": "灰形是主体占位，正式底图需真实主题物；紧急信息保持完整组，不按四角拆散",
+      "canvas_px": [
+        1168,
+        1650
+      ],
+      "sha256": "9f658c1d9ed6237f2104af78d98f79936d39570f7bbc28cad51a7f1db6d7e3c9",
+      "viewed": "本对话附件逐张已查看；来源尺寸另经文件解码检查",
+      "reuse": "仅提取结构，原文字/品牌/水印/日期不作当前事实；原作者及许可未独立核实",
+      "layout_units": [
+        {
+          "id": "P17-R1C1",
+          "location": "第1行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.0,
+            0.3333,
+            0.3333
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P17-R1C2",
+          "location": "第1行第2列",
+          "bounds_normalized_xyxy": [
+            0.3333,
+            0.0,
+            0.6667,
+            0.3333
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P17-R1C3",
+          "location": "第1行第3列",
+          "bounds_normalized_xyxy": [
+            0.6667,
+            0.0,
+            1.0,
+            0.3333
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P17-R2C1",
+          "location": "第2行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.3333,
+            0.3333,
+            0.6667
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P17-R2C2",
+          "location": "第2行第2列",
+          "bounds_normalized_xyxy": [
+            0.3333,
+            0.3333,
+            0.6667,
+            0.6667
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P17-R2C3",
+          "location": "第2行第3列",
+          "bounds_normalized_xyxy": [
+            0.6667,
+            0.3333,
+            1.0,
+            0.6667
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P17-R3C1",
+          "location": "第3行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.6667,
+            0.3333,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P17-R3C2",
+          "location": "第3行第2列",
+          "bounds_normalized_xyxy": [
+            0.3333,
+            0.6667,
+            0.6667,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P17-R3C3",
+          "location": "第3行第3列",
+          "bounds_normalized_xyxy": [
+            0.6667,
+            0.6667,
+            1.0,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        }
+      ]
+    },
+    {
+      "id": "P18",
+      "path": "assets/layout-priority-references/P18_双版网格教学补充.jpg",
+      "source": "用户提供图片，2026-10-13，两批附件按顺序登记",
+      "source_file_name": "549bfba468f8bd4066658df562ac6ee7.jpg",
+      "role": "底图构图规划、构图筛选和文字排版的优先结构参考",
+      "features": "与P13同一版式族；上排两种成稿，下排为对应红色网格",
+      "suitable_content": "网格与错位信息关系",
+      "adaptation": "同族不重复计算独立模板，去除主标题框与教学网格",
+      "canvas_px": [
+        1132,
+        1495
+      ],
+      "sha256": "54ea9ac9d0abfb9bde0644d501c6a86bc4f89d1715047ba3e425fb62d027e275",
+      "viewed": "本对话附件逐张已查看；来源尺寸另经文件解码检查",
+      "reuse": "仅提取结构，原文字/品牌/水印/日期不作当前事实；原作者及许可未独立核实",
+      "layout_units": [
+        {
+          "id": "P18-R1C1",
+          "location": "上排左侧成稿",
+          "bounds_normalized_xyxy": [
+            0,
+            0,
+            0.5,
+            0.5
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P18-R1C2",
+          "location": "上排右侧成稿",
+          "bounds_normalized_xyxy": [
+            0.5,
+            0,
+            1,
+            0.5
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        }
+      ],
+      "excluded_regions": "下排是上排两版的网格讲解，不计为额外独立模板",
+      "same_layout_family_as": "P13",
+      "distinct_layout_count_increment": 0
+    },
+    {
+      "id": "P19",
+      "path": "assets/layout-priority-references/P19_青野九宫格与网格轴线.jpg",
+      "source": "用户提供图片，2026-10-13，两批附件按顺序登记",
+      "source_file_name": "8cfb7d25fa283563363f27a9a5ce4c0c.jpg",
+      "role": "底图构图规划、构图筛选和文字排版的优先结构参考",
+      "features": "3×3：上右、上方、中心、侧边竖题、两块错位大字、下方标题",
+      "suitable_content": "标题锚点、网格、日期与实用字段布局",
+      "adaptation": "青色网格不入图，不照搬英文拆词、日期碎行和极小正文",
+      "canvas_px": [
+        1168,
+        1480
+      ],
+      "sha256": "943eff629d7d5cfec5ff07f4aa37f1e9b9564faf59f5a108b342a5ec56682aef",
+      "viewed": "本对话附件逐张已查看；来源尺寸另经文件解码检查",
+      "reuse": "仅提取结构，原文字/品牌/水印/日期不作当前事实；原作者及许可未独立核实",
+      "layout_units": [
+        {
+          "id": "P19-R1C1",
+          "location": "第1行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.0,
+            0.3333,
+            0.3333
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P19-R1C2",
+          "location": "第1行第2列",
+          "bounds_normalized_xyxy": [
+            0.3333,
+            0.0,
+            0.6667,
+            0.3333
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P19-R1C3",
+          "location": "第1行第3列",
+          "bounds_normalized_xyxy": [
+            0.6667,
+            0.0,
+            1.0,
+            0.3333
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P19-R2C1",
+          "location": "第2行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.3333,
+            0.3333,
+            0.6667
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P19-R2C2",
+          "location": "第2行第2列",
+          "bounds_normalized_xyxy": [
+            0.3333,
+            0.3333,
+            0.6667,
+            0.6667
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P19-R2C3",
+          "location": "第2行第3列",
+          "bounds_normalized_xyxy": [
+            0.6667,
+            0.3333,
+            1.0,
+            0.6667
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P19-R3C1",
+          "location": "第3行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.6667,
+            0.3333,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P19-R3C2",
+          "location": "第3行第2列",
+          "bounds_normalized_xyxy": [
+            0.3333,
+            0.6667,
+            0.6667,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P19-R3C3",
+          "location": "第3行第3列",
+          "bounds_normalized_xyxy": [
+            0.6667,
+            0.6667,
+            1.0,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        }
+      ]
+    },
+    {
+      "id": "P20",
+      "path": "assets/layout-priority-references/P20_衬线横竖四版补充.jpg",
+      "source": "用户提供图片，2026-10-13，两批附件按顺序登记",
+      "source_file_name": "298cf0f1e0fe8f54fd1e602b24f1ac6a.jpg",
+      "role": "底图构图规划、构图筛选和文字排版的优先结构参考",
+      "features": "与P07同一2×2版式族，来源图尺寸更大",
+      "suitable_content": "较清楚的四种标题位置分析",
+      "adaptation": "保留两份来源，不当作新增四种模板；日期、列序与正文按现行规则",
+      "canvas_px": [
+        1169,
+        1702
+      ],
+      "sha256": "d7d7e63e7479a2ab9aa1747b52ceb60155de4118a186cfc24911851b56d333c2",
+      "viewed": "本对话附件逐张已查看；来源尺寸另经文件解码检查",
+      "reuse": "仅提取结构，原文字/品牌/水印/日期不作当前事实；原作者及许可未独立核实",
+      "layout_units": [
+        {
+          "id": "P20-R1C1",
+          "location": "第1行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.0,
+            0.5,
+            0.5
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P20-R1C2",
+          "location": "第1行第2列",
+          "bounds_normalized_xyxy": [
+            0.5,
+            0.0,
+            1.0,
+            0.5
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P20-R2C1",
+          "location": "第2行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.5,
+            0.5,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P20-R2C2",
+          "location": "第2行第2列",
+          "bounds_normalized_xyxy": [
+            0.5,
+            0.5,
+            1.0,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        }
+      ],
+      "same_layout_family_as": "P07",
+      "distinct_layout_count_increment": 0
+    },
+    {
+      "id": "P21",
+      "path": "assets/layout-priority-references/P21_青野侧题与双项活动.jpg",
+      "source": "用户提供图片，2026-10-13，两批附件按顺序登记",
+      "source_file_name": "16f78c13dea28523e83a56fc0f19c2e5.jpg",
+      "role": "底图构图规划、构图筛选和文字排版的优先结构参考",
+      "features": "2×2：右竖题左两项、上左两行标题底双栏、左贯穿竖题右详情、四角大字中间字段",
+      "suitable_content": "两项服务、活动、侧标题构图",
+      "adaptation": "正文不缩小，四角拆字只作展示实验；恢复完整标题并防边缘裁切",
+      "canvas_px": [
+        1169,
+        1531
+      ],
+      "sha256": "a4f2bc760cb0f5206f72a57db33f84819fa682019dc226588861d4d15ebe2c51",
+      "viewed": "本对话附件逐张已查看；来源尺寸另经文件解码检查",
+      "reuse": "仅提取结构，原文字/品牌/水印/日期不作当前事实；原作者及许可未独立核实",
+      "layout_units": [
+        {
+          "id": "P21-R1C1",
+          "location": "第1行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.0,
+            0.5,
+            0.5
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P21-R1C2",
+          "location": "第1行第2列",
+          "bounds_normalized_xyxy": [
+            0.5,
+            0.0,
+            1.0,
+            0.5
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P21-R2C1",
+          "location": "第2行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.5,
+            0.5,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P21-R2C2",
+          "location": "第2行第2列",
+          "bounds_normalized_xyxy": [
+            0.5,
+            0.5,
+            1.0,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        }
+      ]
+    },
+    {
+      "id": "P22",
+      "path": "assets/layout-priority-references/P22_青野书法与底部三列.jpg",
+      "source": "用户提供图片，2026-10-13，两批附件按顺序登记",
+      "source_file_name": "430ae03fea76c7dd13e7c81df254f039.jpg",
+      "role": "底图构图规划、构图筛选和文字排版的优先结构参考",
+      "features": "2×2：左右错位书法、右竖题底三项、上横题中央日期底三列、上左手写右方机构",
+      "suitable_content": "书法主标题、并列服务字段、时间地点横排",
+      "adaptation": "价格与原机构不迁入，书法装饰少于可读性要求，正文与地址自然横排",
+      "canvas_px": [
+        1168,
+        1544
+      ],
+      "sha256": "423e38a5c282b8a26549957334103459fb05a6577b1485ab4a3c81bdb1fd0e4e",
+      "viewed": "本对话附件逐张已查看；来源尺寸另经文件解码检查",
+      "reuse": "仅提取结构，原文字/品牌/水印/日期不作当前事实；原作者及许可未独立核实",
+      "layout_units": [
+        {
+          "id": "P22-R1C1",
+          "location": "第1行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.0,
+            0.5,
+            0.5
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P22-R1C2",
+          "location": "第1行第2列",
+          "bounds_normalized_xyxy": [
+            0.5,
+            0.0,
+            1.0,
+            0.5
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P22-R2C1",
+          "location": "第2行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.5,
+            0.5,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P22-R2C2",
+          "location": "第2行第2列",
+          "bounds_normalized_xyxy": [
+            0.5,
+            0.5,
+            1.0,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        }
+      ]
+    },
+    {
+      "id": "P23",
+      "path": "assets/layout-priority-references/P23_青野分段与横线分组.jpg",
+      "source": "用户提供图片，2026-10-13，两批附件按顺序登记",
+      "source_file_name": "fb664405f0d3956edc2f9b36eff78c0f.jpg",
+      "role": "底图构图规划、构图筛选和文字排版的优先结构参考",
+      "features": "2×2：左竖题右两段、左上题右分段横线、圈字主标题底双模块、上横题与局部时间块",
+      "suitable_content": "分段行动、双项内容、小标题分隔、紧凑实用字段",
+      "adaptation": "圈字主标题仍禁围框，圈号用于条目；日期完整，正文形状承托按10适配完整信息组",
+      "canvas_px": [
+        1169,
+        1543
+      ],
+      "sha256": "ca8bb2aae9148468f8a3924d8b371d0b4f7fdb5b06428625cb8ee16ff86fffcd",
+      "viewed": "本对话附件逐张已查看；来源尺寸另经文件解码检查",
+      "reuse": "仅提取结构，原文字/品牌/水印/日期不作当前事实；原作者及许可未独立核实",
+      "layout_units": [
+        {
+          "id": "P23-R1C1",
+          "location": "第1行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.0,
+            0.5,
+            0.5
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P23-R1C2",
+          "location": "第1行第2列",
+          "bounds_normalized_xyxy": [
+            0.5,
+            0.0,
+            1.0,
+            0.5
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P23-R2C1",
+          "location": "第2行第1列",
+          "bounds_normalized_xyxy": [
+            0.0,
+            0.5,
+            0.5,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        },
+        {
+          "id": "P23-R2C2",
+          "location": "第2行第2列",
+          "bounds_normalized_xyxy": [
+            0.5,
+            0.5,
+            1.0,
+            1.0
+          ],
+          "bounds_evidence": "粗略检索区域，不是精确裁切或字形测量"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-10-13",
+  "matching_rule": "同级优先，选择适用的具体海报区域；不强行逐图套用，也不把同族文件重复计算为不同结构",
+  "stage_coverage": [
+    "N4-before-background-generation",
+    "N5b-composition",
+    "N5b-typography",
+    "refinement-regression"
+  ]
+}

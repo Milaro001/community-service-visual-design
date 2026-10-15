@@ -1,0 +1,6635 @@
+{
+ "source": "用户提供的实例海报A/B两组、C组横版敬老8张及原库总览；D/E/H组为2026-10-15网络收集（来源见各条source_page）与用户提供的D01",
+ "poster_file_count": 138,
+ "overview_file_count": 3,
+ "total_image_file_count": 141,
+ "collection_counts": {
+  "A": 30,
+  "B": 45,
+  "C": 8,
+  "D": 20,
+  "E": 8,
+  "H": 12
+ },
+ "copyright": "原作者或发布者，仅供用户参考研究；不得当作正式输出素材",
+ "classification_note": "领域按名称映射为社区服务适配标签；A/B为文件组别，不是本次逐图审美或许可评级",
+ "files": [
+  {
+   "path": "assets/reference-posters/00_总览_实例海报.png",
+   "group": "00_总览_实例海报.png",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    2081,
+    1135
+   ],
+   "file_sha256": "0e541f3bcbd0cb8ba0d121c895d88fa07633e53715fcf1cfed5fd86d9dbd734f",
+   "collection": "overview",
+   "asset_role": "总览",
+   "id": "overview-00_总览_实例海报"
+  },
+  {
+   "path": "assets/reference-posters/00_总览_实例海报90张.png",
+   "group": "00_总览_实例海报90张.png",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1364,
+    1451
+   ],
+   "file_sha256": "247cbe5f3d5a1d0ad6d8803d857c41d8ccff1fc9d4fa64bf249feb6d744ea1f1",
+   "collection": "overview",
+   "asset_role": "总览",
+   "id": "overview-00_总览_实例海报90张"
+  },
+  {
+   "path": "assets/reference-posters/00_总览_构图线框.png",
+   "group": "00_总览_构图线框.png",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    2430
+   ],
+   "file_sha256": "8e5d82395d9269a381a53e1b8d6f632670c338cf5a9d2d1dc6fca14b56270e43",
+   "collection": "overview",
+   "asset_role": "总览",
+   "id": "overview-00_总览_构图线框"
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R01_D01.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1872,
+    5125
+   ],
+   "file_sha256": "7eff59d8e109e2dc4509952856854a8da0d99063856cdacb3a732303f018c8f1",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R01_D01",
+   "domain_id": "D01",
+   "domain_name": "政务办事与证照",
+   "canonical_id": "A-R01_D01",
+   "alias_ids": [
+    "A-R01_D01",
+    "A-R16_D05",
+    "A-R31_D10"
+   ],
+   "observed_structure": {
+    "text_density": "high",
+    "body_columns": null,
+    "title_anchor": "mixed",
+    "subject_positions": [
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "modular"
+    ],
+    "text_zones": [
+     "center"
+    ],
+    "features": [
+     "长图",
+     "步骤",
+     "表格",
+     "问答",
+     "界面截图",
+     "地图",
+     "二维码"
+    ],
+    "caveats": [
+     "纵向文章截屏，包含表格、操作截图和分段讲解；不作为一张单海报的固定栏数或标题位置模板。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "7eff59d8e109e2dc4509952856854a8da0d99063856cdacb3a732303f018c8f1",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R02_D01.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    630,
+    890
+   ],
+   "file_sha256": "b0bde58e197d2e4d0367dd29206aa44f87e7708bd0b53727ee8f9cb9faa5bd4b",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R02_D01",
+   "domain_id": "D01",
+   "domain_name": "政务办事与证照",
+   "canonical_id": "A-R02_D01",
+   "alias_ids": [
+    "A-R02_D01",
+    "A-R17_D05",
+    "A-R32_D10"
+   ],
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "features": [
+     "插画",
+     "建筑",
+     "二维码",
+     "大标题"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "b0bde58e197d2e4d0367dd29206aa44f87e7708bd0b53727ee8f9cb9faa5bd4b",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R03_D01.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1904,
+    1347
+   ],
+   "file_sha256": "4c0501bb4f97cedcd57bb18c4001b0ee924578dbe8273e03315aed4ac91d89ac",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R03_D01",
+   "domain_id": "D01",
+   "domain_name": "政务办事与证照",
+   "canonical_id": "A-R03_D01",
+   "alias_ids": [
+    "A-R03_D01",
+    "A-R18_D05",
+    "A-R33_D10"
+   ],
+   "observed_structure": {
+    "text_density": "high",
+    "body_columns": 3,
+    "title_anchor": "vertical-left",
+    "subject_positions": [
+     "bottom"
+    ],
+    "reading_route": [
+     "left-to-right",
+     "top-to-bottom",
+     "modular"
+    ],
+    "text_zones": [
+     "throughout"
+    ],
+    "features": [
+     "分栏",
+     "折页",
+     "条目",
+     "图文分区"
+    ],
+    "caveats": [
+     "一张横向折页展开图，左侧为封面，右侧为三个正文栏；不是三个独立海报。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "4c0501bb4f97cedcd57bb18c4001b0ee924578dbe8273e03315aed4ac91d89ac",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R04_D02.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1242,
+    2088
+   ],
+   "file_sha256": "eed234663749daecc3face8b982412301690fcebe6f1f4e46cb3e491273b5d3d",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R04_D02",
+   "domain_id": "D02",
+   "domain_name": "社会保障与民政救助",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 5,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "right",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "left-to-right",
+     "modular"
+    ],
+    "text_zones": [
+     "top",
+     "left",
+     "bottom"
+    ],
+    "features": [
+     "警示",
+     "条目",
+     "分栏",
+     "图标",
+     "号码",
+     "二维码",
+     "插画"
+    ],
+    "caveats": [
+     "body_columns=5对应底部五项防暑提示；中部另有单独警示说明块。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "eed234663749daecc3face8b982412301690fcebe6f1f4e46cb3e491273b5d3d",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R05_D02.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    848,
+    1000
+   ],
+   "file_sha256": "dae00f07009a044ff4cc868f961530c34e757651c4f508a650b56dcfadb34b80",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R05_D02",
+   "domain_id": "D02",
+   "domain_name": "社会保障与民政救助",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-right",
+    "subject_positions": [
+     "left",
+     "center",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "right"
+    ],
+    "features": [
+     "插画",
+     "人物",
+     "大标题"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "dae00f07009a044ff4cc868f961530c34e757651c4f508a650b56dcfadb34b80",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R06_D02.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    840,
+    460
+   ],
+   "file_sha256": "d07ae083896c0709f76e680e7c39d572c4e5ee7b5e367aef25cf2e7e6006cb2b",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R06_D02",
+   "domain_id": "D02",
+   "domain_name": "社会保障与民政救助",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 2,
+    "title_anchor": "middle-left",
+    "subject_positions": [
+     "right"
+    ],
+    "reading_route": [
+     "left-to-right"
+    ],
+    "text_zones": [
+     "left"
+    ],
+    "features": [
+     "照片",
+     "人物",
+     "分栏",
+     "短标签"
+    ],
+    "caveats": [
+     "body_columns=2对应左下四个服务标签的两列排列。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "d07ae083896c0709f76e680e7c39d572c4e5ee7b5e367aef25cf2e7e6006cb2b",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R07_D06.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1587,
+    2245
+   ],
+   "file_sha256": "775e935e75e54cd7238e784b4751c8bb0dca473b82afe5cd58abfc2609cf8833",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R07_D06",
+   "domain_id": "D06",
+   "domain_name": "就业与社保",
+   "canonical_id": "A-R07_D06",
+   "alias_ids": [
+    "A-R07_D06",
+    "A-R37_D11"
+   ],
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 1,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "distributed",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "center"
+    ],
+    "features": [
+     "插画",
+     "人物群像",
+     "分隔线",
+     "短段落"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "775e935e75e54cd7238e784b4751c8bb0dca473b82afe5cd58abfc2609cf8833",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R08_D06.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1100,
+    1467
+   ],
+   "file_sha256": "dea54011949095d12bdd70dbdf9b73a1737e7f0997872b66856351d2e2ea980a",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R08_D06",
+   "domain_id": "D06",
+   "domain_name": "就业与社保",
+   "canonical_id": "A-R08_D06",
+   "alias_ids": [
+    "A-R08_D06",
+    "A-R38_D11"
+   ],
+   "observed_structure": {
+    "text_density": "high",
+    "body_columns": 3,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "left-to-right",
+     "modular"
+    ],
+    "text_zones": [
+     "throughout"
+    ],
+    "features": [
+     "警示",
+     "网格",
+     "分栏",
+     "图文条目",
+     "图标",
+     "对比"
+    ],
+    "caveats": [
+     "正文以三列图文条目排列；最上方另有两个预警级别对比块。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "dea54011949095d12bdd70dbdf9b73a1737e7f0997872b66856351d2e2ea980a",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R09_D06.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    2160,
+    3840
+   ],
+   "file_sha256": "ecc467e34768515ba25ed2687748d18abb1a07377b43723e3617f5b0d8ff1669",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R09_D06",
+   "domain_id": "D06",
+   "domain_name": "就业与社保",
+   "canonical_id": "A-R09_D06",
+   "alias_ids": [
+    "A-R09_D06",
+    "A-R39_D11"
+   ],
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 3,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "left-to-right",
+     "modular"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "features": [
+     "警示",
+     "分栏",
+     "图标",
+     "插画",
+     "短提示"
+    ],
+    "caveats": [
+     "body_columns=3对应下方三项安全提示。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "ecc467e34768515ba25ed2687748d18abb1a07377b43723e3617f5b0d8ff1669",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R10_D03.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    768,
+    1024
+   ],
+   "file_sha256": "658df5409b416ca1baaa0199f46b361191f1a3cc5c1abcf695d0f4cfead7ff08",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R10_D03",
+   "domain_id": "D03",
+   "domain_name": "养老与为老服务",
+   "canonical_id": "A-R10_D03",
+   "alias_ids": [
+    "A-R10_D03",
+    "A-R40_D12"
+   ],
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "bottom"
+    ],
+    "features": [
+     "编号",
+     "清单",
+     "条目",
+     "号码",
+     "插画"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "658df5409b416ca1baaa0199f46b361191f1a3cc5c1abcf695d0f4cfead7ff08",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R11_D03.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    800,
+    1065
+   ],
+   "file_sha256": "21192dadf7242f68ceb3072220d6b9e86d6bf747ff713d50adbd7f99f3c52206",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R11_D03",
+   "domain_id": "D03",
+   "domain_name": "养老与为老服务",
+   "canonical_id": "A-R11_D03",
+   "alias_ids": [
+    "A-R11_D03",
+    "A-R41_D12"
+   ],
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "throughout"
+    ],
+    "features": [
+     "警示",
+     "大标题",
+     "条目",
+     "号码"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "21192dadf7242f68ceb3072220d6b9e86d6bf747ff713d50adbd7f99f3c52206",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R12_D03.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1440,
+    2560
+   ],
+   "file_sha256": "2d9348912d28e487a567cfa696a1984b1ff20bbeaab407793ed1551f62e7db4f",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R12_D03",
+   "domain_id": "D03",
+   "domain_name": "养老与为老服务",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "right",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "left",
+     "bottom"
+    ],
+    "features": [
+     "警示",
+     "图标",
+     "条目",
+     "插画",
+     "数字强调"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "2d9348912d28e487a567cfa696a1984b1ff20bbeaab407793ed1551f62e7db4f",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R13_D04.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    644
+   ],
+   "file_sha256": "4cfea6dcadb9623062b9ebb8252741bf0f632f3dc30c7f18117f7d06941dcbd9",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R13_D04",
+   "domain_id": "D04",
+   "domain_name": "医疗卫生与健康",
+   "canonical_id": "A-R13_D04",
+   "alias_ids": [
+    "A-R13_D04",
+    "A-R43_D14"
+   ],
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 1,
+    "title_anchor": "vertical-left",
+    "subject_positions": [
+     "center",
+     "distributed"
+    ],
+    "reading_route": [
+     "vertical",
+     "top-to-bottom",
+     "left-to-right"
+    ],
+    "text_zones": [
+     "left",
+     "top"
+    ],
+    "features": [
+     "竖排标题",
+     "日期",
+     "插画",
+     "场景"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "4cfea6dcadb9623062b9ebb8252741bf0f632f3dc30c7f18117f7d06941dcbd9",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R14_D04.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    683,
+    1024
+   ],
+   "file_sha256": "12e38ca727936fe1fc4ed8fef7994ae1d1e6b47483b165fa5f4ad3acdbde3ee3",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R14_D04",
+   "domain_id": "D04",
+   "domain_name": "医疗卫生与健康",
+   "canonical_id": "A-R14_D04",
+   "alias_ids": [
+    "A-R14_D04",
+    "A-R29_D09",
+    "A-R44_D14"
+   ],
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 1,
+    "title_anchor": "middle-center",
+    "subject_positions": [
+     "center",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "center"
+    ],
+    "features": [
+     "日期",
+     "对话框",
+     "插画",
+     "人物"
+    ],
+    "caveats": [
+     "主要标题位于中部对话框；顶部右侧另有较小纪念日标题与日期。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "12e38ca727936fe1fc4ed8fef7994ae1d1e6b47483b165fa5f4ad3acdbde3ee3",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R15_D04.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    550,
+    815
+   ],
+   "file_sha256": "c7b33b5125f42df375e5ba755f5db30933e8045090a4d6b1e82e3a1209e40369",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R15_D04",
+   "domain_id": "D04",
+   "domain_name": "医疗卫生与健康",
+   "canonical_id": "A-R15_D04",
+   "alias_ids": [
+    "A-R15_D04",
+    "A-R45_D14"
+   ],
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 7,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center",
+     "distributed",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "modular"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "bottom"
+    ],
+    "features": [
+     "日期",
+     "区间",
+     "图标",
+     "功能条目",
+     "二维码",
+     "插画"
+    ],
+    "caveats": [
+     "body_columns=7只对应底部七个功能图标及标签；中部功能气泡为散点分布。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "c7b33b5125f42df375e5ba755f5db30933e8045090a4d6b1e82e3a1209e40369",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R01_D01.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1872,
+    5125
+   ],
+   "file_sha256": "7eff59d8e109e2dc4509952856854a8da0d99063856cdacb3a732303f018c8f1",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R16_D05",
+   "domain_id": "D05",
+   "domain_name": "育儿与青少年",
+   "canonical_id": "A-R01_D01",
+   "alias_ids": [
+    "A-R01_D01",
+    "A-R16_D05",
+    "A-R31_D10"
+   ],
+   "deduplicated_from": "assets/reference-posters/实例海报A组_R编号45张/R16_D05.png",
+   "observed_structure": {
+    "text_density": "high",
+    "body_columns": null,
+    "title_anchor": "mixed",
+    "subject_positions": [
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "modular"
+    ],
+    "text_zones": [
+     "center"
+    ],
+    "features": [
+     "长图",
+     "步骤",
+     "表格",
+     "问答",
+     "界面截图",
+     "地图",
+     "二维码"
+    ],
+    "caveats": [
+     "纵向文章截屏，包含表格、操作截图和分段讲解；不作为一张单海报的固定栏数或标题位置模板。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "7eff59d8e109e2dc4509952856854a8da0d99063856cdacb3a732303f018c8f1",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R02_D01.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    630,
+    890
+   ],
+   "file_sha256": "b0bde58e197d2e4d0367dd29206aa44f87e7708bd0b53727ee8f9cb9faa5bd4b",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R17_D05",
+   "domain_id": "D05",
+   "domain_name": "育儿与青少年",
+   "canonical_id": "A-R02_D01",
+   "alias_ids": [
+    "A-R02_D01",
+    "A-R17_D05",
+    "A-R32_D10"
+   ],
+   "deduplicated_from": "assets/reference-posters/实例海报A组_R编号45张/R17_D05.png",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "features": [
+     "插画",
+     "建筑",
+     "二维码",
+     "大标题"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "b0bde58e197d2e4d0367dd29206aa44f87e7708bd0b53727ee8f9cb9faa5bd4b",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R03_D01.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1904,
+    1347
+   ],
+   "file_sha256": "4c0501bb4f97cedcd57bb18c4001b0ee924578dbe8273e03315aed4ac91d89ac",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R18_D05",
+   "domain_id": "D05",
+   "domain_name": "育儿与青少年",
+   "canonical_id": "A-R03_D01",
+   "alias_ids": [
+    "A-R03_D01",
+    "A-R18_D05",
+    "A-R33_D10"
+   ],
+   "deduplicated_from": "assets/reference-posters/实例海报A组_R编号45张/R18_D05.png",
+   "observed_structure": {
+    "text_density": "high",
+    "body_columns": 3,
+    "title_anchor": "vertical-left",
+    "subject_positions": [
+     "bottom"
+    ],
+    "reading_route": [
+     "left-to-right",
+     "top-to-bottom",
+     "modular"
+    ],
+    "text_zones": [
+     "throughout"
+    ],
+    "features": [
+     "分栏",
+     "折页",
+     "条目",
+     "图文分区"
+    ],
+    "caveats": [
+     "一张横向折页展开图，左侧为封面，右侧为三个正文栏；不是三个独立海报。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "4c0501bb4f97cedcd57bb18c4001b0ee924578dbe8273e03315aed4ac91d89ac",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R19_D07.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1242,
+    2688
+   ],
+   "file_sha256": "77e415e15ed1c2e0ace110fade24ac289c88eff7ce8da9391998ae8bfcad76fb",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R19_D07",
+   "domain_id": "D07",
+   "domain_name": "住房与物业",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "left",
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "features": [
+     "警示",
+     "条目",
+     "二维码",
+     "照片",
+     "温度计"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "77e415e15ed1c2e0ace110fade24ac289c88eff7ce8da9391998ae8bfcad76fb",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R20_D07.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    800,
+    1252
+   ],
+   "file_sha256": "1223f670c696505c8fedd845fc0c7e670b30bea56e3445fba5a5bc38dc950133",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R20_D07",
+   "domain_id": "D07",
+   "domain_name": "住房与物业",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 2,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "bottom",
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "left-to-right"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "bottom"
+    ],
+    "features": [
+     "日期",
+     "时间",
+     "区间",
+     "地点",
+     "日程",
+     "分栏",
+     "几何装饰"
+    ],
+    "caveats": [
+     "两列为日期与对应时间/活动说明，并非两组互不相关正文。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "1223f670c696505c8fedd845fc0c7e670b30bea56e3445fba5a5bc38dc950133",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R21_D07.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    512,
+    1024
+   ],
+   "file_sha256": "9249be3195fedc1fd9f42b68e7e5cb9913f0070e0e6f28c6a34bd0b9451f4e9b",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R21_D07",
+   "domain_id": "D07",
+   "domain_name": "住房与物业",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 4,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "left-to-right"
+    ],
+    "text_zones": [
+     "top",
+     "center"
+    ],
+    "features": [
+     "警示",
+     "短提示",
+     "分栏",
+     "插画",
+     "温度计"
+    ],
+    "caveats": [
+     "body_columns=4对应中部横向四个圆形提示块；其下另有短说明。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "9249be3195fedc1fd9f42b68e7e5cb9913f0070e0e6f28c6a34bd0b9451f4e9b",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R22_D08.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    600,
+    908
+   ],
+   "file_sha256": "2f3fe70c91f52a815911e2e1436006ad3458ec9802f04c7ae417ad314c756da3",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R22_D08",
+   "domain_id": "D08",
+   "domain_name": "环境与环卫",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "bottom-center",
+    "subject_positions": [
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "features": [
+     "日期",
+     "图标",
+     "插画",
+     "大标题"
+    ],
+    "caveats": [
+     "主标题在插画下方；顶部左侧有小型活动日期文字。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "2f3fe70c91f52a815911e2e1436006ad3458ec9802f04c7ae417ad314c756da3",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R23_D08.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1242,
+    2688
+   ],
+   "file_sha256": "4ba68b359771c4d2698a6e41b4bdd6666c7393547a22777e2497faa6dc8951c7",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R23_D08",
+   "domain_id": "D08",
+   "domain_name": "环境与环卫",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "left",
+     "bottom"
+    ],
+    "features": [
+     "条目",
+     "日期",
+     "时间",
+     "地点",
+     "二维码",
+     "插画"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "4ba68b359771c4d2698a6e41b4bdd6666c7393547a22777e2497faa6dc8951c7",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R24_D08.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1280,
+    720
+   ],
+   "file_sha256": "1cc532ab786b0697a7233d3c0d8bead1d44119f406302977f9bfd243ecf3cb14",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R24_D08",
+   "domain_id": "D08",
+   "domain_name": "环境与环卫",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 1,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "right",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "center"
+    ],
+    "features": [
+     "横版",
+     "插画",
+     "人物",
+     "短段落",
+     "分隔线"
+    ],
+    "caveats": [
+     "正文小字仅用于观察位置与密度，未进行逐字核验。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "1cc532ab786b0697a7233d3c0d8bead1d44119f406302977f9bfd243ecf3cb14",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R25_D15.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    900,
+    1600
+   ],
+   "file_sha256": "f94418fbefe6e57c606e87f6e0542e763cb2d3517d96507bc5bf715de3212f92",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R25_D15",
+   "domain_id": "D15",
+   "domain_name": "商业与便民生活",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 1,
+    "title_anchor": "bottom-left",
+    "subject_positions": [
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "bottom"
+    ],
+    "features": [
+     "照片",
+     "人物",
+     "短段落"
+    ],
+    "caveats": [
+     "主标题位于画面下半部左侧；补充文案分布在标题下方及右下区域。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "f94418fbefe6e57c606e87f6e0542e763cb2d3517d96507bc5bf715de3212f92",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R26_D15.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1242,
+    2688
+   ],
+   "file_sha256": "90c05c187fcce7076071f14a2ccaa772b5b1462b9cd23914f6fb2af6f01b7fb2",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R26_D15",
+   "domain_id": "D15",
+   "domain_name": "商业与便民生活",
+   "observed_structure": {
+    "text_density": "high",
+    "body_columns": 1,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "right",
+     "top"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "throughout"
+    ],
+    "features": [
+     "通知",
+     "段落",
+     "日期",
+     "时间",
+     "号码",
+     "地点",
+     "二维码",
+     "插画"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "90c05c187fcce7076071f14a2ccaa772b5b1462b9cd23914f6fb2af6f01b7fb2",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R27_D15.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1170,
+    2080
+   ],
+   "file_sha256": "a59cbcb5c0e25e104c16372a0922f9f5939c59ab7041d572a68008851dc38ff6",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R27_D15",
+   "domain_id": "D15",
+   "domain_name": "商业与便民生活",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "left-to-right"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "bottom"
+    ],
+    "features": [
+     "警示",
+     "数字强调",
+     "温度计",
+     "插画",
+     "短提示"
+    ],
+    "caveats": [
+     "body_columns=1对应中上部连续说明；底部另有三个横排短提示标签。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "a59cbcb5c0e25e104c16372a0922f9f5939c59ab7041d572a68008851dc38ff6",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R28_D09.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    390,
+    529
+   ],
+   "file_sha256": "0f3c80ac5aba1f6274c96d6b59c212b03021967121178733728d728f231460c3",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R28_D09",
+   "domain_id": "D09",
+   "domain_name": "安全与应急",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 2,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "right"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "left-to-right",
+     "modular"
+    ],
+    "text_zones": [
+     "top",
+     "left",
+     "bottom"
+    ],
+    "features": [
+     "分栏",
+     "网格",
+     "图标",
+     "条目",
+     "照片",
+     "人物"
+    ],
+    "caveats": [
+     "正文是左侧两列三行服务项目卡片，右侧为人物。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "0f3c80ac5aba1f6274c96d6b59c212b03021967121178733728d728f231460c3",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R14_D04.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    683,
+    1024
+   ],
+   "file_sha256": "12e38ca727936fe1fc4ed8fef7994ae1d1e6b47483b165fa5f4ad3acdbde3ee3",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R29_D09",
+   "domain_id": "D09",
+   "domain_name": "安全与应急",
+   "canonical_id": "A-R14_D04",
+   "alias_ids": [
+    "A-R14_D04",
+    "A-R29_D09",
+    "A-R44_D14"
+   ],
+   "deduplicated_from": "assets/reference-posters/实例海报A组_R编号45张/R29_D09.png",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 1,
+    "title_anchor": "middle-center",
+    "subject_positions": [
+     "center",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "center"
+    ],
+    "features": [
+     "日期",
+     "对话框",
+     "插画",
+     "人物"
+    ],
+    "caveats": [
+     "主要标题位于中部对话框；顶部右侧另有较小纪念日标题与日期。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "12e38ca727936fe1fc4ed8fef7994ae1d1e6b47483b165fa5f4ad3acdbde3ee3",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R30_D09.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1920,
+    1080
+   ],
+   "file_sha256": "6a2f851218fb07e2f93f8e2fe104c045984ce9d209db0c4ee8c195c33cdc30a5",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R30_D09",
+   "domain_id": "D09",
+   "domain_name": "安全与应急",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "distributed",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "left-to-right"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "right"
+    ],
+    "features": [
+     "横版",
+     "插画",
+     "人物群像"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "6a2f851218fb07e2f93f8e2fe104c045984ce9d209db0c4ee8c195c33cdc30a5",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R01_D01.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1872,
+    5125
+   ],
+   "file_sha256": "7eff59d8e109e2dc4509952856854a8da0d99063856cdacb3a732303f018c8f1",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R31_D10",
+   "domain_id": "D10",
+   "domain_name": "法律与调解",
+   "canonical_id": "A-R01_D01",
+   "alias_ids": [
+    "A-R01_D01",
+    "A-R16_D05",
+    "A-R31_D10"
+   ],
+   "deduplicated_from": "assets/reference-posters/实例海报A组_R编号45张/R31_D10.png",
+   "observed_structure": {
+    "text_density": "high",
+    "body_columns": null,
+    "title_anchor": "mixed",
+    "subject_positions": [
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "modular"
+    ],
+    "text_zones": [
+     "center"
+    ],
+    "features": [
+     "长图",
+     "步骤",
+     "表格",
+     "问答",
+     "界面截图",
+     "地图",
+     "二维码"
+    ],
+    "caveats": [
+     "纵向文章截屏，包含表格、操作截图和分段讲解；不作为一张单海报的固定栏数或标题位置模板。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "7eff59d8e109e2dc4509952856854a8da0d99063856cdacb3a732303f018c8f1",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R02_D01.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    630,
+    890
+   ],
+   "file_sha256": "b0bde58e197d2e4d0367dd29206aa44f87e7708bd0b53727ee8f9cb9faa5bd4b",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R32_D10",
+   "domain_id": "D10",
+   "domain_name": "法律与调解",
+   "canonical_id": "A-R02_D01",
+   "alias_ids": [
+    "A-R02_D01",
+    "A-R17_D05",
+    "A-R32_D10"
+   ],
+   "deduplicated_from": "assets/reference-posters/实例海报A组_R编号45张/R32_D10.png",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "features": [
+     "插画",
+     "建筑",
+     "二维码",
+     "大标题"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "b0bde58e197d2e4d0367dd29206aa44f87e7708bd0b53727ee8f9cb9faa5bd4b",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R03_D01.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1904,
+    1347
+   ],
+   "file_sha256": "4c0501bb4f97cedcd57bb18c4001b0ee924578dbe8273e03315aed4ac91d89ac",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R33_D10",
+   "domain_id": "D10",
+   "domain_name": "法律与调解",
+   "canonical_id": "A-R03_D01",
+   "alias_ids": [
+    "A-R03_D01",
+    "A-R18_D05",
+    "A-R33_D10"
+   ],
+   "deduplicated_from": "assets/reference-posters/实例海报A组_R编号45张/R33_D10.png",
+   "observed_structure": {
+    "text_density": "high",
+    "body_columns": 3,
+    "title_anchor": "vertical-left",
+    "subject_positions": [
+     "bottom"
+    ],
+    "reading_route": [
+     "left-to-right",
+     "top-to-bottom",
+     "modular"
+    ],
+    "text_zones": [
+     "throughout"
+    ],
+    "features": [
+     "分栏",
+     "折页",
+     "条目",
+     "图文分区"
+    ],
+    "caveats": [
+     "一张横向折页展开图，左侧为封面，右侧为三个正文栏；不是三个独立海报。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "4c0501bb4f97cedcd57bb18c4001b0ee924578dbe8273e03315aed4ac91d89ac",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R34_D13.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    700,
+    985
+   ],
+   "file_sha256": "db3ba624041f94b8814b1137df8776b6930e0e9ec9038c1844ffc0808581d3f4",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R34_D13",
+   "domain_id": "D13",
+   "domain_name": "邻里自治与公共事务",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 3,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "left-to-right",
+     "modular"
+    ],
+    "text_zones": [
+     "throughout"
+    ],
+    "features": [
+     "分栏",
+     "网格",
+     "图标",
+     "条目",
+     "展示样机"
+    ],
+    "caveats": [
+     "正文是三列四行服务项目网格；原图有展示样机背景和水印，不能作为成品素材。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "db3ba624041f94b8814b1137df8776b6930e0e9ec9038c1844ffc0808581d3f4",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R35_D13.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1280,
+    1281
+   ],
+   "file_sha256": "5c7269b412d4defe11fd53ca744103e37fab94abb146184b3a17748c2a972a30",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R35_D13",
+   "domain_id": "D13",
+   "domain_name": "邻里自治与公共事务",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "right",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "center"
+    ],
+    "features": [
+     "编号",
+     "清单",
+     "条目",
+     "警示",
+     "插画"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "5c7269b412d4defe11fd53ca744103e37fab94abb146184b3a17748c2a972a30",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R36_D13.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    559,
+    795
+   ],
+   "file_sha256": "186666db737eaa73b25d939e79d789c1481cb0bd38a02476021c37c512e81d49",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R36_D13",
+   "domain_id": "D13",
+   "domain_name": "邻里自治与公共事务",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "middle-center",
+    "subject_positions": [
+     "center",
+     "top",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "bottom"
+    ],
+    "features": [
+     "艺术字",
+     "中英组合",
+     "插画",
+     "人物"
+    ],
+    "caveats": [
+     "上下是同一海报的影院场景与轮椅人物构图；底部小型署名不计为主正文栏。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "186666db737eaa73b25d939e79d789c1481cb0bd38a02476021c37c512e81d49",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R07_D06.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1587,
+    2245
+   ],
+   "file_sha256": "775e935e75e54cd7238e784b4751c8bb0dca473b82afe5cd58abfc2609cf8833",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R37_D11",
+   "domain_id": "D11",
+   "domain_name": "文化与体育",
+   "canonical_id": "A-R07_D06",
+   "alias_ids": [
+    "A-R07_D06",
+    "A-R37_D11"
+   ],
+   "deduplicated_from": "assets/reference-posters/实例海报A组_R编号45张/R37_D11.png",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 1,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "distributed",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "center"
+    ],
+    "features": [
+     "插画",
+     "人物群像",
+     "分隔线",
+     "短段落"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "775e935e75e54cd7238e784b4751c8bb0dca473b82afe5cd58abfc2609cf8833",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R08_D06.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1100,
+    1467
+   ],
+   "file_sha256": "dea54011949095d12bdd70dbdf9b73a1737e7f0997872b66856351d2e2ea980a",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R38_D11",
+   "domain_id": "D11",
+   "domain_name": "文化与体育",
+   "canonical_id": "A-R08_D06",
+   "alias_ids": [
+    "A-R08_D06",
+    "A-R38_D11"
+   ],
+   "deduplicated_from": "assets/reference-posters/实例海报A组_R编号45张/R38_D11.png",
+   "observed_structure": {
+    "text_density": "high",
+    "body_columns": 3,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "left-to-right",
+     "modular"
+    ],
+    "text_zones": [
+     "throughout"
+    ],
+    "features": [
+     "警示",
+     "网格",
+     "分栏",
+     "图文条目",
+     "图标",
+     "对比"
+    ],
+    "caveats": [
+     "正文以三列图文条目排列；最上方另有两个预警级别对比块。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "dea54011949095d12bdd70dbdf9b73a1737e7f0997872b66856351d2e2ea980a",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R09_D06.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    2160,
+    3840
+   ],
+   "file_sha256": "ecc467e34768515ba25ed2687748d18abb1a07377b43723e3617f5b0d8ff1669",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R39_D11",
+   "domain_id": "D11",
+   "domain_name": "文化与体育",
+   "canonical_id": "A-R09_D06",
+   "alias_ids": [
+    "A-R09_D06",
+    "A-R39_D11"
+   ],
+   "deduplicated_from": "assets/reference-posters/实例海报A组_R编号45张/R39_D11.png",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 3,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "left-to-right",
+     "modular"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "features": [
+     "警示",
+     "分栏",
+     "图标",
+     "插画",
+     "短提示"
+    ],
+    "caveats": [
+     "body_columns=3对应下方三项安全提示。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "ecc467e34768515ba25ed2687748d18abb1a07377b43723e3617f5b0d8ff1669",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R10_D03.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    768,
+    1024
+   ],
+   "file_sha256": "658df5409b416ca1baaa0199f46b361191f1a3cc5c1abcf695d0f4cfead7ff08",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R40_D12",
+   "domain_id": "D12",
+   "domain_name": "志愿与公益",
+   "canonical_id": "A-R10_D03",
+   "alias_ids": [
+    "A-R10_D03",
+    "A-R40_D12"
+   ],
+   "deduplicated_from": "assets/reference-posters/实例海报A组_R编号45张/R40_D12.png",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "bottom"
+    ],
+    "features": [
+     "编号",
+     "清单",
+     "条目",
+     "号码",
+     "插画"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "658df5409b416ca1baaa0199f46b361191f1a3cc5c1abcf695d0f4cfead7ff08",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R11_D03.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    800,
+    1065
+   ],
+   "file_sha256": "21192dadf7242f68ceb3072220d6b9e86d6bf747ff713d50adbd7f99f3c52206",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R41_D12",
+   "domain_id": "D12",
+   "domain_name": "志愿与公益",
+   "canonical_id": "A-R11_D03",
+   "alias_ids": [
+    "A-R11_D03",
+    "A-R41_D12"
+   ],
+   "deduplicated_from": "assets/reference-posters/实例海报A组_R编号45张/R41_D12.png",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "throughout"
+    ],
+    "features": [
+     "警示",
+     "大标题",
+     "条目",
+     "号码"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "21192dadf7242f68ceb3072220d6b9e86d6bf747ff713d50adbd7f99f3c52206",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R42_D12.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    2048,
+    3639
+   ],
+   "file_sha256": "d7286cc076f6bd76a84afdc2891e60cef0d14eb9d97655c09dcd12952eb54d03",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R42_D12",
+   "domain_id": "D12",
+   "domain_name": "志愿与公益",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "features": [
+     "插画",
+     "人物",
+     "多行标题"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "d7286cc076f6bd76a84afdc2891e60cef0d14eb9d97655c09dcd12952eb54d03",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R13_D04.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    644
+   ],
+   "file_sha256": "4cfea6dcadb9623062b9ebb8252741bf0f632f3dc30c7f18117f7d06941dcbd9",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R43_D14",
+   "domain_id": "D14",
+   "domain_name": "特殊群体与专项服务",
+   "canonical_id": "A-R13_D04",
+   "alias_ids": [
+    "A-R13_D04",
+    "A-R43_D14"
+   ],
+   "deduplicated_from": "assets/reference-posters/实例海报A组_R编号45张/R43_D14.png",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 1,
+    "title_anchor": "vertical-left",
+    "subject_positions": [
+     "center",
+     "distributed"
+    ],
+    "reading_route": [
+     "vertical",
+     "top-to-bottom",
+     "left-to-right"
+    ],
+    "text_zones": [
+     "left",
+     "top"
+    ],
+    "features": [
+     "竖排标题",
+     "日期",
+     "插画",
+     "场景"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "4cfea6dcadb9623062b9ebb8252741bf0f632f3dc30c7f18117f7d06941dcbd9",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R14_D04.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    683,
+    1024
+   ],
+   "file_sha256": "12e38ca727936fe1fc4ed8fef7994ae1d1e6b47483b165fa5f4ad3acdbde3ee3",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R44_D14",
+   "domain_id": "D14",
+   "domain_name": "特殊群体与专项服务",
+   "canonical_id": "A-R14_D04",
+   "alias_ids": [
+    "A-R14_D04",
+    "A-R29_D09",
+    "A-R44_D14"
+   ],
+   "deduplicated_from": "assets/reference-posters/实例海报A组_R编号45张/R44_D14.png",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 1,
+    "title_anchor": "middle-center",
+    "subject_positions": [
+     "center",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "center"
+    ],
+    "features": [
+     "日期",
+     "对话框",
+     "插画",
+     "人物"
+    ],
+    "caveats": [
+     "主要标题位于中部对话框；顶部右侧另有较小纪念日标题与日期。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "12e38ca727936fe1fc4ed8fef7994ae1d1e6b47483b165fa5f4ad3acdbde3ee3",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报A组_R编号45张/R15_D04.png",
+   "group": "实例海报A组_R编号45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    550,
+    815
+   ],
+   "file_sha256": "c7b33b5125f42df375e5ba755f5db30933e8045090a4d6b1e82e3a1209e40369",
+   "collection": "A",
+   "asset_role": "实例海报",
+   "id": "A-R45_D14",
+   "domain_id": "D14",
+   "domain_name": "特殊群体与专项服务",
+   "canonical_id": "A-R15_D04",
+   "alias_ids": [
+    "A-R15_D04",
+    "A-R45_D14"
+   ],
+   "deduplicated_from": "assets/reference-posters/实例海报A组_R编号45张/R45_D14.png",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 7,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center",
+     "distributed",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "modular"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "bottom"
+    ],
+    "features": [
+     "日期",
+     "区间",
+     "图标",
+     "功能条目",
+     "二维码",
+     "插画"
+    ],
+    "caveats": [
+     "body_columns=7只对应底部七个功能图标及标签；中部功能气泡为散点分布。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "c7b33b5125f42df375e5ba755f5db30933e8045090a4d6b1e82e3a1209e40369",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/01_政务办事与证照/01_6783538985.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    1620
+   ],
+   "file_sha256": "0e5ce41b39ff187c86ce49562fbdf6bf6291eb08e993b09a082d9b7a97f5fb7b",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-01_政务办事与证照-01_6783538985",
+   "domain_id": "D01",
+   "domain_name": "政务办事与证照",
+   "observed_structure": {
+    "text_density": "high",
+    "body_columns": 1,
+    "title_anchor": "middle-center",
+    "subject_positions": [
+     "center",
+     "right",
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "modular"
+    ],
+    "text_zones": [
+     "left",
+     "center",
+     "throughout"
+    ],
+    "features": [
+     "单列清单",
+     "模块化场景",
+     "中心圆形标题",
+     "地图形构成",
+     "图文分区"
+    ],
+    "caveats": [
+     "左侧清单与右侧多场景构图并存；小字号只判定结构，未作字形可读性验收。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "0e5ce41b39ff187c86ce49562fbdf6bf6291eb08e993b09a082d9b7a97f5fb7b",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/01_政务办事与证照/02_7137965144.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1200,
+    1698
+   ],
+   "file_sha256": "4dc3027bdd23a0d4e7a93454bbbf614edf493c5003219c4bf4951cdb39a99f92",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-01_政务办事与证照-02_7137965144",
+   "domain_id": "D01",
+   "domain_name": "政务办事与证照",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "bottom",
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "bottom"
+    ],
+    "features": [
+     "上下分区",
+     "封面式布局",
+     "建筑插画",
+     "波浪色块"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "4dc3027bdd23a0d4e7a93454bbbf614edf493c5003219c4bf4951cdb39a99f92",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/01_政务办事与证照/03_5509514116.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    900,
+    1600
+   ],
+   "file_sha256": "825f1126cd94bc730c9d438a00afae3fad7bc99ec96e83d2effe8369af0201ec",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-01_政务办事与证照-03_5509514116",
+   "domain_id": "D01",
+   "domain_name": "政务办事与证照",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "features": [
+     "摄影",
+     "单列正文",
+     "边框正文",
+     "上下分区"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "825f1126cd94bc730c9d438a00afae3fad7bc99ec96e83d2effe8369af0201ec",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/02_社会保障与民政救助/01_6277822634.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    2335
+   ],
+   "file_sha256": "0c623c07e9ed46cb2c3152c361c2e229ae4af6f140b99c57e2bf88a297075680",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-02_社会保障与民政救助-01_6277822634",
+   "domain_id": "D02",
+   "domain_name": "社会保障与民政救助",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "left",
+     "bottom"
+    ],
+    "features": [
+     "人物摄影",
+     "拼贴",
+     "二维码",
+     "上下分区"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "0c623c07e9ed46cb2c3152c361c2e229ae4af6f140b99c57e2bf88a297075680",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/02_社会保障与民政救助/02_3599934158.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    4594
+   ],
+   "file_sha256": "10dd144e4e1f4613086c8243ec7a4694321e5d4f802dd931540b546c7d60a2d0",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-02_社会保障与民政救助-02_3599934158",
+   "domain_id": "D02",
+   "domain_name": "社会保障与民政救助",
+   "observed_structure": {
+    "text_density": "high",
+    "body_columns": 1,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "modular"
+    ],
+    "text_zones": [
+     "throughout"
+    ],
+    "features": [
+     "长图",
+     "多段正文",
+     "图文卡片",
+     "图片网格",
+     "编号",
+     "分隔"
+    ],
+    "caveats": [
+     "这是统一长图中的连续内容卡片；图片网格列数不等于正文列数，长图小字号未作字形验收。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "10dd144e4e1f4613086c8243ec7a4694321e5d4f802dd931540b546c7d60a2d0",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/02_社会保障与民政救助/03_7102931032.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1200,
+    2597
+   ],
+   "file_sha256": "1e325b5a4e049e41c8d70da1f8655604575eb65aa55e34779d26313e3efc5a6c",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-02_社会保障与民政救助-03_7102931032",
+   "domain_id": "D02",
+   "domain_name": "社会保障与民政救助",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "bottom",
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "bottom"
+    ],
+    "features": [
+     "单列正文",
+     "条目",
+     "插画",
+     "二维码",
+     "上下分区"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "1e325b5a4e049e41c8d70da1f8655604575eb65aa55e34779d26313e3efc5a6c",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/03_就业与社保/01_5185284432.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    1757
+   ],
+   "file_sha256": "7fb0fcbcc1044e5395f7bf1236648f711a4106858f6f96973396c051f0b61c68",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-03_就业与社保-01_5185284432",
+   "domain_id": "D06",
+   "domain_name": "就业与社保",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "modular"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "bottom"
+    ],
+    "features": [
+     "标签气泡",
+     "手机插画",
+     "二维码",
+     "数字强调",
+     "上下分区"
+    ],
+    "caveats": [
+     "正文为分散短标签，无连续正文列。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "7fb0fcbcc1044e5395f7bf1236648f711a4106858f6f96973396c051f0b61c68",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/03_就业与社保/02_7076002062.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1200,
+    2133
+   ],
+   "file_sha256": "56bdb4b4cc6466ef46265819a0aa94a402726bb27fef8a3a17136a859f9d8fbb",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-03_就业与社保-02_7076002062",
+   "domain_id": "D06",
+   "domain_name": "就业与社保",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "bottom"
+    ],
+    "features": [
+     "招募",
+     "岗位条目",
+     "号码",
+     "二维码",
+     "平面色块",
+     "单列内容"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "56bdb4b4cc6466ef46265819a0aa94a402726bb27fef8a3a17136a859f9d8fbb",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/03_就业与社保/03_4646103442.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1200,
+    2200
+   ],
+   "file_sha256": "9f3ce94887dbbafe9c02b3143a3e5f7263b445f1a0b4379927c3764e6bb6f6be",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-03_就业与社保-03_4646103442",
+   "domain_id": "D06",
+   "domain_name": "就业与社保",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "left",
+     "right",
+     "bottom"
+    ],
+    "features": [
+     "人物摄影",
+     "标语分行",
+     "对话气泡",
+     "大留白"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "9f3ce94887dbbafe9c02b3143a3e5f7263b445f1a0b4379927c3764e6bb6f6be",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/04_养老与为老服务/01_6328972470.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    924,
+    2000
+   ],
+   "file_sha256": "a4b9bda75418fb511975fe0ea6449779bc6f1f772b2f986fb3ed278c50234329",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-04_养老与为老服务-01_6328972470",
+   "domain_id": "D03",
+   "domain_name": "养老与为老服务",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "bottom",
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "vertical"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "bottom"
+    ],
+    "features": [
+     "竖排标题",
+     "日期",
+     "号码",
+     "二维码",
+     "风景插画",
+     "底部信息区"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "a4b9bda75418fb511975fe0ea6449779bc6f1f772b2f986fb3ed278c50234329",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/04_养老与为老服务/02_7285739523.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    854,
+    1842
+   ],
+   "file_sha256": "214b7ea9bd92369f6a467a97bc6a706372dbb9f70c5aa6e73e4114951de9c430",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-04_养老与为老服务-02_7285739523",
+   "domain_id": "D03",
+   "domain_name": "养老与为老服务",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 1,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "bottom",
+     "center",
+     "right"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "right"
+    ],
+    "features": [
+     "书法标题",
+     "人物插画",
+     "上下分区"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "214b7ea9bd92369f6a467a97bc6a706372dbb9f70c5aa6e73e4114951de9c430",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/04_养老与为老服务/03_6347990124.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1200,
+    1600
+   ],
+   "file_sha256": "b43fa1808e2662593a82d8869238dcf6c81e82233b7080abd27affc69b0e8b36",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-04_养老与为老服务-03_6347990124",
+   "domain_id": "D03",
+   "domain_name": "养老与为老服务",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "mixed",
+    "subject_positions": [
+     "center",
+     "distributed"
+    ],
+    "reading_route": [
+     "modular"
+    ],
+    "text_zones": [
+     "top",
+     "left",
+     "right",
+     "bottom"
+    ],
+    "features": [
+     "分散标题",
+     "数字",
+     "日期",
+     "时钟构成",
+     "人物插画"
+    ],
+    "caveats": [
+     "标题分别位于顶部左右，图中各短文案为分散标签。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "b43fa1808e2662593a82d8869238dcf6c81e82233b7080abd27affc69b0e8b36",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/05_医疗卫生与健康/01_7059586632.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1200,
+    2597
+   ],
+   "file_sha256": "a28161190fb07a6fc2e67dfc84f998c3a31a4572c702416d9a70161c8f231f42",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-05_医疗卫生与健康-01_7059586632",
+   "domain_id": "D04",
+   "domain_name": "医疗卫生与健康",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "bottom",
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "bottom"
+    ],
+    "features": [
+     "条目",
+     "日期",
+     "地址",
+     "二维码",
+     "分隔线",
+     "图标"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "a28161190fb07a6fc2e67dfc84f998c3a31a4572c702416d9a70161c8f231f42",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/05_医疗卫生与健康/02_7005645615.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    611,
+    800
+   ],
+   "file_sha256": "cb7167db0f45066d0041dcb1e18b8f4229f18c24886f3fc8e76af486714d54f9",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-05_医疗卫生与健康-02_7005645615",
+   "domain_id": "D04",
+   "domain_name": "医疗卫生与健康",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center",
+     "distributed"
+    ],
+    "reading_route": [
+     "modular"
+    ],
+    "text_zones": [
+     "throughout"
+    ],
+    "features": [
+     "编号",
+     "模块化",
+     "手写字",
+     "插画",
+     "环绕布局"
+    ],
+    "caveats": [
+     "这是单张信息图；短标签按模块分布，无连续正文列。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "cb7167db0f45066d0041dcb1e18b8f4229f18c24886f3fc8e76af486714d54f9",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/05_医疗卫生与健康/03_3856696799.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    750,
+    940
+   ],
+   "file_sha256": "3c9909c1a2029b2039121b907bcb0cdd5fda026550390b0594c886f8d0954dd5",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-05_医疗卫生与健康-03_3856696799",
+   "domain_id": "D04",
+   "domain_name": "医疗卫生与健康",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top"
+    ],
+    "features": [
+     "大标题",
+     "人物插画",
+     "上下分区"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "3c9909c1a2029b2039121b907bcb0cdd5fda026550390b0594c886f8d0954dd5",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/06_育儿与青少年/01_7120565810.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1200,
+    2133
+   ],
+   "file_sha256": "0f3d7bb6f1ec958b56fdb5a0599ebc6a49b92e6d413110191d1d3bc582ad1a3e",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-06_育儿与青少年-01_7120565810",
+   "domain_id": "D05",
+   "domain_name": "育儿与青少年",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center",
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "features": [
+     "条目",
+     "号码",
+     "二维码",
+     "图文分区",
+     "单列内容"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "0f3d7bb6f1ec958b56fdb5a0599ebc6a49b92e6d413110191d1d3bc582ad1a3e",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/06_育儿与青少年/02_5843575671.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1200,
+    1604
+   ],
+   "file_sha256": "2846ad17b386372789dd88c58e2ba86fb347db502e53fe924c8d8e50e7f61bf2",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-06_育儿与青少年-02_5843575671",
+   "domain_id": "D05",
+   "domain_name": "育儿与青少年",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": null,
+    "title_anchor": "mixed",
+    "subject_positions": [
+     "distributed"
+    ],
+    "reading_route": [
+     "modular"
+    ],
+    "text_zones": [
+     "throughout"
+    ],
+    "features": [
+     "展示页",
+     "平面几何",
+     "剪纸色块",
+     "中心标题",
+     "模块化"
+    ],
+    "caveats": [
+     "文件为带设计署名与外框的海报展示页，不能把外框文字与内页海报合成确定布局；内页中心标题与分散几何图形可见。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "2846ad17b386372789dd88c58e2ba86fb347db502e53fe924c8d8e50e7f61bf2",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/06_育儿与青少年/03_6727742056.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1200,
+    1604
+   ],
+   "file_sha256": "988787e0018d92a5aec593fa4c4b48159a6ca17bae323ad4511350914c81f6cd",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-06_育儿与青少年-03_6727742056",
+   "domain_id": "D05",
+   "domain_name": "育儿与青少年",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": null,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center",
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "modular"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "right",
+     "bottom"
+    ],
+    "features": [
+     "摄影",
+     "图文卡片",
+     "拼贴",
+     "上下分区"
+    ],
+    "caveats": [
+     "正文按两块交错图文卡片分散，没有一致的连续正文列。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "988787e0018d92a5aec593fa4c4b48159a6ca17bae323ad4511350914c81f6cd",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/07_住房与物业/01_4966699971.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1200,
+    2414
+   ],
+   "file_sha256": "0af1bb2452136b627aff8979a4798cee3ea83efc9a24ceeba7678b919e95e754",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-07_住房与物业-01_4966699971",
+   "domain_id": "D07",
+   "domain_name": "住房与物业",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "features": [
+     "建筑插画",
+     "大字造型",
+     "上下分区"
+    ],
+    "caveats": [
+     "底部内容原图模糊，只记录可见结构。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "0af1bb2452136b627aff8979a4798cee3ea83efc9a24ceeba7678b919e95e754",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/07_住房与物业/02_5772056093.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    800,
+    1739
+   ],
+   "file_sha256": "70129ed82efc3d1bdde28781b485809e7948dae6e3433da723fda24c29293824",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-07_住房与物业-02_5772056093",
+   "domain_id": "D07",
+   "domain_name": "住房与物业",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 1,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "features": [
+     "上下分区",
+     "建筑插画",
+     "短正文"
+    ],
+    "caveats": [
+     "页眉与底部原图存在模糊遮挡，不据其推断文字内容。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "70129ed82efc3d1bdde28781b485809e7948dae6e3433da723fda24c29293824",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/07_住房与物业/03_3948128996.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    600,
+    1301
+   ],
+   "file_sha256": "63952e4f2213afb502e3335cbd103d8ca338e5b48fca157d1e347c54d023a47c",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-07_住房与物业-03_3948128996",
+   "domain_id": "D07",
+   "domain_name": "住房与物业",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "bottom-center",
+    "subject_positions": [
+     "center",
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "modular"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "features": [
+     "多场景插画",
+     "底部标题",
+     "二维码",
+     "图文分区"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "63952e4f2213afb502e3335cbd103d8ca338e5b48fca157d1e347c54d023a47c",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/08_环境与环卫/01_3959088749.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    1921
+   ],
+   "file_sha256": "1e48557412193270934390fadef7aa76b0f6ea9a92980fc6dd61b655648a2afd",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-08_环境与环卫-01_3959088749",
+   "domain_id": "D08",
+   "domain_name": "环境与环卫",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "bottom",
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "features": [
+     "上下分区",
+     "地球造型",
+     "二维码",
+     "大留白"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "1e48557412193270934390fadef7aa76b0f6ea9a92980fc6dd61b655648a2afd",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/08_环境与环卫/02_7195233098.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    1440
+   ],
+   "file_sha256": "44091d8d3201691dc2d6bd0fedbba7a489c7185d144546ac533dab259018c758",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-08_环境与环卫-02_7195233098",
+   "domain_id": "D08",
+   "domain_name": "环境与环卫",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "left",
+     "right",
+     "bottom"
+    ],
+    "features": [
+     "日期",
+     "号码",
+     "手绘插画",
+     "底部信息区",
+     "单列正文"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "44091d8d3201691dc2d6bd0fedbba7a489c7185d144546ac533dab259018c758",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/08_环境与环卫/03_5367091707.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    460,
+    996
+   ],
+   "file_sha256": "7421b762abaef23682473bc808d94104d6164a0eda9bb26304f23a83f89cfc9f",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-08_环境与环卫-03_5367091707",
+   "domain_id": "D08",
+   "domain_name": "环境与环卫",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 1,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "center",
+     "right",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "left",
+     "bottom"
+    ],
+    "features": [
+     "英文标题",
+     "层叠几何",
+     "日期",
+     "大留白",
+     "平面构成"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "7421b762abaef23682473bc808d94104d6164a0eda9bb26304f23a83f89cfc9f",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/09_商业与便民生活/01_6862136729.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1000,
+    2167
+   ],
+   "file_sha256": "48285ac262eb1f0ee953e2f4592a6a2d60f11b4d0063aa5360464faee9cf2d3b",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-09_商业与便民生活-01_6862136729",
+   "domain_id": "D15",
+   "domain_name": "商业与便民生活",
+   "observed_structure": {
+    "text_density": "high",
+    "body_columns": 1,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "left",
+     "bottom"
+    ],
+    "features": [
+     "条目",
+     "日期",
+     "时间",
+     "地址",
+     "单列清单",
+     "多场景插画"
+    ],
+    "caveats": [
+     "页眉及底部原图存在模糊遮挡，只记录版面位置。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "48285ac262eb1f0ee953e2f4592a6a2d60f11b4d0063aa5360464faee9cf2d3b",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/09_商业与便民生活/02_6800096299.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    1525
+   ],
+   "file_sha256": "802bec61cf472984637a22b1cb7161dbb6f10084638f447c9bb51de866e23717",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-09_商业与便民生活-02_6800096299",
+   "domain_id": "D15",
+   "domain_name": "商业与便民生活",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "modular"
+    ],
+    "text_zones": [
+     "top",
+     "left",
+     "right",
+     "throughout"
+    ],
+    "features": [
+     "日期",
+     "时间",
+     "地址",
+     "线描",
+     "拼贴",
+     "平面几何"
+    ],
+    "caveats": [
+     "短文案以分散标签出现，无连续正文列。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "802bec61cf472984637a22b1cb7161dbb6f10084638f447c9bb51de866e23717",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/09_商业与便民生活/03_7025842232.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    750,
+    1334
+   ],
+   "file_sha256": "11a5f18379f9c53e9c7a408fda3a08d907a0dd1eb4eda01999d48b2f254f5f1c",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-09_商业与便民生活-03_7025842232",
+   "domain_id": "D15",
+   "domain_name": "商业与便民生活",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "bottom"
+    ],
+    "features": [
+     "人物摄影",
+     "抠图拼贴",
+     "号码",
+     "二维码",
+     "上下分区"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "11a5f18379f9c53e9c7a408fda3a08d907a0dd1eb4eda01999d48b2f254f5f1c",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/10_安全与应急/01_7195231841.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1200,
+    1800
+   ],
+   "file_sha256": "f0319acdfd44f652fb8fe48b717f9315c39d7f48451789da889fb56774693d9b",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-10_安全与应急-01_7195231841",
+   "domain_id": "D09",
+   "domain_name": "安全与应急",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center",
+     "bottom",
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top"
+    ],
+    "features": [
+     "盾牌构成",
+     "条目并列",
+     "人物插画",
+     "图标",
+     "上下分区"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "f0319acdfd44f652fb8fe48b717f9315c39d7f48451789da889fb56774693d9b",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/10_安全与应急/02_6377712490.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    1920
+   ],
+   "file_sha256": "c32f186a8cdb65a88566345f6ce0e9155492edde4ad61938ab2194d4c7f769ec",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-10_安全与应急-02_6377712490",
+   "domain_id": "D09",
+   "domain_name": "安全与应急",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "bottom-center",
+    "subject_positions": [
+     "center",
+     "top"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "center",
+     "bottom"
+    ],
+    "features": [
+     "底部标题",
+     "数字",
+     "人物剪影",
+     "盾牌构成",
+     "上下分区"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "c32f186a8cdb65a88566345f6ce0e9155492edde4ad61938ab2194d4c7f769ec",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/10_安全与应急/03_6138722135.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1200,
+    515
+   ],
+   "file_sha256": "cb3cb703fbf98dabe80cc0bb958ec18c093be1169c5d291c04f7ef8ea5a3d632",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-10_安全与应急-03_6138722135",
+   "domain_id": "D09",
+   "domain_name": "安全与应急",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "middle-right",
+    "subject_positions": [
+     "left"
+    ],
+    "reading_route": [
+     "left-to-right"
+    ],
+    "text_zones": [
+     "right"
+    ],
+    "features": [
+     "横幅",
+     "左右分区",
+     "日期",
+     "建筑插画"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "cb3cb703fbf98dabe80cc0bb958ec18c093be1169c5d291c04f7ef8ea5a3d632",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/11_法律与调解/01_7117672204.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1200,
+    2386
+   ],
+   "file_sha256": "d3ad0e4bd468883841c7c2f8e82439979f67aedff55ed0d71818cbf1fbe0c632",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-11_法律与调解-01_7117672204",
+   "domain_id": "D10",
+   "domain_name": "法律与调解",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "bottom-center",
+    "subject_positions": [
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "modular"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "bottom"
+    ],
+    "features": [
+     "气泡短句",
+     "法槌造型",
+     "书本造型",
+     "底部标题",
+     "上下分区"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "d3ad0e4bd468883841c7c2f8e82439979f67aedff55ed0d71818cbf1fbe0c632",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/11_法律与调解/02_4414932399.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1200,
+    2600
+   ],
+   "file_sha256": "6d51bf48ab471c887d8f19090136f9ef5ed10320842267f7b21d30368f032fc0",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-11_法律与调解-02_4414932399",
+   "domain_id": "D10",
+   "domain_name": "法律与调解",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top"
+    ],
+    "features": [
+     "人物插画",
+     "上下分区",
+     "图标"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "6d51bf48ab471c887d8f19090136f9ef5ed10320842267f7b21d30368f032fc0",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/11_法律与调解/03_7067791747.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    800,
+    1731
+   ],
+   "file_sha256": "1bcfddafbfa1b20ef9bbb0b90620b92a770b412af618445c341edbdf93b35c32",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-11_法律与调解-03_7067791747",
+   "domain_id": "D10",
+   "domain_name": "法律与调解",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "vertical-left",
+    "subject_positions": [
+     "bottom",
+     "center"
+    ],
+    "reading_route": [
+     "vertical",
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "left",
+     "top",
+     "bottom",
+     "right"
+    ],
+    "features": [
+     "竖排标题",
+     "日期",
+     "书本造型",
+     "法槌造型",
+     "大留白"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "1bcfddafbfa1b20ef9bbb0b90620b92a770b412af618445c341edbdf93b35c32",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/12_邻里自治与公共事务/01_7261157522.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    640,
+    853
+   ],
+   "file_sha256": "a316aeaade04ede30b48d4cd1f99c338e0c52d442a39b2ad8c5be206013390bf",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-12_邻里自治与公共事务-01_7261157522",
+   "domain_id": "D13",
+   "domain_name": "邻里自治与公共事务",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "bottom",
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "modular"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "bottom"
+    ],
+    "features": [
+     "日期",
+     "手绘地图",
+     "导览",
+     "分散标签",
+     "平面色块"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "a316aeaade04ede30b48d4cd1f99c338e0c52d442a39b2ad8c5be206013390bf",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/12_邻里自治与公共事务/02_7283000508.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1200,
+    1800
+   ],
+   "file_sha256": "f6eb9dd2272c0c9763d4bff90406d9c6a0d4c12d71d1900c6e2864b045439c32",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-12_邻里自治与公共事务-02_7283000508",
+   "domain_id": "D13",
+   "domain_name": "邻里自治与公共事务",
+   "observed_structure": {
+    "text_density": "high",
+    "body_columns": 3,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "left-to-right",
+     "modular"
+    ],
+    "text_zones": [
+     "throughout"
+    ],
+    "features": [
+     "三栏",
+     "流程",
+     "条目",
+     "图文卡片",
+     "并列图标",
+     "分区标题"
+    ],
+    "caveats": [
+     "主信息区为三栏；底部另有五个并列图文卡片，body_columns记录主区列数。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "f6eb9dd2272c0c9763d4bff90406d9c6a0d4c12d71d1900c6e2864b045439c32",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/12_邻里自治与公共事务/03_5788973174.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1200,
+    1600
+   ],
+   "file_sha256": "dfa05e3e2d28a1c6f40d4a2ed3f4e06e981a27e6120f72a48c84255e5e56fb80",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-12_邻里自治与公共事务-03_5788973174",
+   "domain_id": "D13",
+   "domain_name": "邻里自治与公共事务",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": null,
+    "title_anchor": "mixed",
+    "subject_positions": [
+     "center",
+     "distributed"
+    ],
+    "reading_route": [
+     "modular",
+     "vertical"
+    ],
+    "text_zones": [
+     "throughout"
+    ],
+    "features": [
+     "展示页",
+     "摄影拼贴",
+     "竖排文字",
+     "斜向拼贴"
+    ],
+    "caveats": [
+     "文件为带外框及底部署名的海报展示页；内页顶部标题、右侧竖排与左侧短句并存，不将署名区合成确定布局。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "dfa05e3e2d28a1c6f40d4a2ed3f4e06e981a27e6120f72a48c84255e5e56fb80",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/13_文化与体育/01_6359541291.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    999,
+    1499
+   ],
+   "file_sha256": "8e22e6d3006b13e87a6def001c08491dd152929c733422c722701441bb0d9397",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-13_文化与体育-01_6359541291",
+   "domain_id": "D11",
+   "domain_name": "文化与体育",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "middle-center",
+    "subject_positions": [
+     "bottom",
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "bottom"
+    ],
+    "features": [
+     "数字",
+     "建筑插画",
+     "人物剪影",
+     "上下分区"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "8e22e6d3006b13e87a6def001c08491dd152929c733422c722701441bb0d9397",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/13_文化与体育/02_7208270648.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    1440
+   ],
+   "file_sha256": "a9701fdd263658e51b8b67b8ec9fb58c56154433a15ade669624b1585a0f86ee",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-13_文化与体育-02_7208270648",
+   "domain_id": "D11",
+   "domain_name": "文化与体育",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 0,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "center",
+     "distributed"
+    ],
+    "reading_route": [
+     "modular"
+    ],
+    "text_zones": [
+     "throughout"
+    ],
+    "features": [
+     "日期",
+     "手绘",
+     "平面几何",
+     "模块化",
+     "分散标签"
+    ],
+    "caveats": [
+     "信息以模块短标签出现，无连续正文列。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "a9701fdd263658e51b8b67b8ec9fb58c56154433a15ade669624b1585a0f86ee",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/13_文化与体育/03_4680164027.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    1440
+   ],
+   "file_sha256": "48b1dd3cbc6c060a1cb0dd6f5d2a5bf2373eca3e96a6865326b583aa28e85891",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-13_文化与体育-03_4680164027",
+   "domain_id": "D11",
+   "domain_name": "文化与体育",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 2,
+    "title_anchor": "mixed",
+    "subject_positions": [
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "left-to-right"
+    ],
+    "text_zones": [
+     "top",
+     "left",
+     "right",
+     "bottom"
+    ],
+    "features": [
+     "日期",
+     "城市列表",
+     "插画",
+     "左右分区"
+    ],
+    "caveats": [
+     "下部左右各有独立信息块；body_columns按这两个文字区记录。",
+     "中文主标题偏左，英文副题偏右并跨行，非单一共同居中轴；正文主要在下部左右信息区。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "48b1dd3cbc6c060a1cb0dd6f5d2a5bf2373eca3e96a6865326b583aa28e85891",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/14_志愿与公益/01_7114364683.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    1440
+   ],
+   "file_sha256": "f483268be83e1827d145c8a065f981b498d4d0299e58cdae43476708e7ce08ff",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-14_志愿与公益-01_7114364683",
+   "domain_id": "D12",
+   "domain_name": "志愿与公益",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 0,
+    "title_anchor": "middle-center",
+    "subject_positions": [
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "bottom"
+    ],
+    "features": [
+     "招募",
+     "时间轴",
+     "日期",
+     "几何色块",
+     "标语分区"
+    ],
+    "caveats": [
+     "正文为标语与时间节点，无连续正文列。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "f483268be83e1827d145c8a065f981b498d4d0299e58cdae43476708e7ce08ff",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/14_志愿与公益/02_6673699223.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    1439
+   ],
+   "file_sha256": "a27c62bfdf6dc7a5fd7e04a1e2a620297e2a977494d8e1891840e45997db0f63",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-14_志愿与公益-02_6673699223",
+   "domain_id": "D12",
+   "domain_name": "志愿与公益",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 2,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "none"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "modular"
+    ],
+    "text_zones": [
+     "throughout"
+    ],
+    "features": [
+     "招募",
+     "岗位",
+     "时间",
+     "模块化",
+     "平面色块",
+     "两列"
+    ],
+    "caveats": [
+     "角色说明分为两列模块；气泡与小符号为装饰，无单一主体物。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "a27c62bfdf6dc7a5fd7e04a1e2a620297e2a977494d8e1891840e45997db0f63",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/14_志愿与公益/03_7180636030.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1200,
+    2133
+   ],
+   "file_sha256": "737e8d2fa93dc2f47ddd8df24de5085ab8feb1a3c523bd4dc227fa56c4cc4c2a",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-14_志愿与公益-03_7180636030",
+   "domain_id": "D12",
+   "domain_name": "志愿与公益",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "bottom",
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "features": [
+     "插画",
+     "并列图标",
+     "上下分区",
+     "书法标题"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "737e8d2fa93dc2f47ddd8df24de5085ab8feb1a3c523bd4dc227fa56c4cc4c2a",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/15_特殊群体与专项服务/01_6028673925.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1200,
+    2178
+   ],
+   "file_sha256": "90785c770314b5c810263e82edd980e2a4f336eb32f1e6e545a80b5ed9f6ebe9",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-15_特殊群体与专项服务-01_6028673925",
+   "domain_id": "D14",
+   "domain_name": "特殊群体与专项服务",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "bottom"
+    ],
+    "features": [
+     "数字",
+     "价格",
+     "条目",
+     "底部行动区",
+     "上下分区"
+    ],
+    "caveats": [
+     "中部为短条目，底部为价格与行动提示，无连续正文列。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "90785c770314b5c810263e82edd980e2a4f336eb32f1e6e545a80b5ed9f6ebe9",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/15_特殊群体与专项服务/02_4808041765.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    750,
+    1334
+   ],
+   "file_sha256": "5906cf171b8753433c5b0bc832549514b6e079727e79535d6b676057f502a1fa",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-15_特殊群体与专项服务-02_4808041765",
+   "domain_id": "D14",
+   "domain_name": "特殊群体与专项服务",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "bottom",
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "modular"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "bottom"
+    ],
+    "features": [
+     "文字拼贴",
+     "三角构成",
+     "日期",
+     "大留白",
+     "人物剪影"
+    ],
+    "caveats": [
+     "上部含大量重复背景字，仅记录文字构成而非正文可读性。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "5906cf171b8753433c5b0bc832549514b6e079727e79535d6b676057f502a1fa",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报B组_原图45张/15_特殊群体与专项服务/03_6233479228.jpg",
+   "group": "实例海报B组_原图45张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1125,
+    2000
+   ],
+   "file_sha256": "792866e814d5ebebcc58ac57d43499a0696d47dc785ce90df30b7e4943608232",
+   "collection": "B",
+   "asset_role": "实例海报",
+   "id": "B-15_特殊群体与专项服务-03_6233479228",
+   "domain_id": "D14",
+   "domain_name": "特殊群体与专项服务",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center",
+     "distributed"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "text_zones": [
+     "top",
+     "center",
+     "bottom"
+    ],
+    "features": [
+     "日期",
+     "二维码",
+     "插画",
+     "图文分区"
+    ],
+    "caveats": []
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "792866e814d5ebebcc58ac57d43499a0696d47dc785ce90df30b7e4943608232",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C01_重阳望远红色行书横版.jpg",
+   "group": "实例海报C组_横版敬老8张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    2000,
+    1119
+   ],
+   "file_sha256": "487e85a9cfb3721ca6b3a9fe1a6ef437a7ea677a2a2ec71a41227997909cc83d",
+   "collection": "C",
+   "asset_role": "实例海报",
+   "id": "C-C01_重阳望远红色行书横版",
+   "domain_id": "D03",
+   "domain_name": "养老与为老服务",
+   "features": "横版；敬老/重阳；国潮水彩山水、红色行书主标题、副标题两侧短横线、云纹回纹标签框、红日与鹤、菊花枫叶前景框景、老人登高背影",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "right"
+    ],
+    "text_zones": [
+     "left",
+     "top"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "横版",
+     "国潮水彩山水",
+     "红色行书主标题",
+     "副标题两侧短横线",
+     "云纹回纹标签框",
+     "红日与鹤",
+     "菊花枫叶前景框景",
+     "老人登高背影"
+    ],
+    "caveats": [
+     "横版宣传图，正文极少，只借标题组合与主体对侧关系，不证明长文容量。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "487e85a9cfb3721ca6b3a9fe1a6ef437a7ea677a2a2ec71a41227997909cc83d",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C02_重阳节蓝色水墨粗宋横版.jpg",
+   "group": "实例海报C组_横版敬老8张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    2000,
+    1122
+   ],
+   "file_sha256": "d42e09d26351ffc5d3e09b14da074f77f48b217f54230a8c273e51089995cf96",
+   "collection": "C",
+   "asset_role": "实例海报",
+   "id": "C-C02_重阳节蓝色水墨粗宋横版",
+   "domain_id": "D03",
+   "domain_name": "养老与为老服务",
+   "features": "横版；敬老/重阳；蓝色水墨山水、厚重粗体主标题、红色印章、左右竖排侧组、底部服务条带、电话图标、竖线分隔图标组、斜线分隔字",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center",
+     "bottom"
+    ],
+    "text_zones": [
+     "top",
+     "left",
+     "right",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom",
+     "modular"
+    ],
+    "features": [
+     "横版",
+     "蓝色水墨山水",
+     "厚重粗体主标题",
+     "红色印章",
+     "左右竖排侧组",
+     "底部服务条带",
+     "电话图标",
+     "竖线分隔图标组",
+     "斜线分隔字"
+    ],
+    "caveats": [
+     "样例英文为占位乱文，联系方式为假号码；只借底部服务条带与侧组结构。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "d42e09d26351ffc5d3e09b14da074f77f48b217f54230a8c273e51089995cf96",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C03_重阳竖排书法居中菊花.jpg",
+   "group": "实例海报C组_横版敬老8张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    2000,
+    1125
+   ],
+   "file_sha256": "0932b316b6aa25b10e7dd77fa0eec975a0aef918d3f4ba4dde37f40ad1d540c0",
+   "collection": "C",
+   "asset_role": "实例海报",
+   "id": "C-C03_重阳竖排书法居中菊花",
+   "domain_id": "D03",
+   "domain_name": "养老与为老服务",
+   "features": "横版；敬老/重阳；水彩留白、竖排书法主标题居中、小印章、竖排副标题、衬线日期、左右菊花框景、红日、老人背影右下",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "middle-center",
+    "subject_positions": [
+     "left",
+     "right",
+     "bottom"
+    ],
+    "text_zones": [
+     "center"
+    ],
+    "reading_route": [
+     "vertical"
+    ],
+    "features": [
+     "横版",
+     "水彩留白",
+     "竖排书法主标题居中",
+     "小印章",
+     "竖排副标题",
+     "衬线日期",
+     "左右菊花框景",
+     "红日",
+     "老人背影右下"
+    ],
+    "caveats": [
+     "正文极少；只借中轴竖排标题与左右框景。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "0932b316b6aa25b10e7dd77fa0eec975a0aef918d3f4ba4dde37f40ad1d540c0",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C04_九九重阳金色工笔山水.jpg",
+   "group": "实例海报C组_横版敬老8张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1882,
+    906
+   ],
+   "file_sha256": "7f20254a400dfb538c595eb914403b4eebed2603c988c50761284fcadc5e6728",
+   "collection": "C",
+   "asset_role": "实例海报",
+   "id": "C-C04_九九重阳金色工笔山水",
+   "domain_id": "D03",
+   "domain_name": "养老与为老服务",
+   "features": "横版；敬老/重阳；金色工笔山水、两行粗书法主标题、拼音大字浅底衬、印章、括号副标题、四角英文小字、红日与鹤",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-right",
+    "subject_positions": [
+     "left",
+     "distributed"
+    ],
+    "text_zones": [
+     "right",
+     "bottom",
+     "top"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "横版",
+     "金色工笔山水",
+     "两行粗书法主标题",
+     "拼音大字浅底衬",
+     "印章",
+     "括号副标题",
+     "四角英文小字",
+     "红日与鹤"
+    ],
+    "caveats": [
+     "四角英文为装饰；只借主标题右上与浅底拼音层叠。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "7f20254a400dfb538c595eb914403b4eebed2603c988c50761284fcadc5e6728",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C05_重阳佳节水彩剪影.jpg",
+   "group": "实例海报C组_横版敬老8张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    2000,
+    1125
+   ],
+   "file_sha256": "44f8543fa9bacdca65fcaaae417a6cd744a51b28785aaa8e7e04c4ae4ee14ddd",
+   "collection": "C",
+   "asset_role": "实例海报",
+   "id": "C-C05_重阳佳节水彩剪影",
+   "domain_id": "D03",
+   "domain_name": "养老与为老服务",
+   "features": "横版；敬老/重阳；水彩晕染、大字书法配宋体小字、印章、英文下划线、两行正文右下、老人剪影左下、菊花框景",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "middle-center",
+    "subject_positions": [
+     "left",
+     "bottom"
+    ],
+    "text_zones": [
+     "center",
+     "right"
+    ],
+    "reading_route": [
+     "left-to-right",
+     "top-to-bottom"
+    ],
+    "features": [
+     "横版",
+     "水彩晕染",
+     "大字书法配宋体小字",
+     "印章",
+     "英文下划线",
+     "两行正文右下",
+     "老人剪影左下",
+     "菊花框景"
+    ],
+    "caveats": [
+     "正文为繁体两行；只借大小字对比与主体对侧。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "44f8543fa9bacdca65fcaaae417a6cd744a51b28785aaa8e7e04c4ae4ee14ddd",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C06_重阳节水彩静物竖排书法.jpg",
+   "group": "实例海报C组_横版敬老8张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    2000,
+    1125
+   ],
+   "file_sha256": "a3b3d72e27e08c2136fcf45b7c95f5b11676117ef1faa1009e2623afc18c505e",
+   "collection": "C",
+   "asset_role": "实例海报",
+   "id": "C-C06_重阳节水彩静物竖排书法",
+   "domain_id": "D03",
+   "domain_name": "养老与为老服务",
+   "features": "横版；敬老/重阳；水彩静物、右侧竖排书法、金色英文竖组、印章、斜线分隔日期信息",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "vertical-right",
+    "subject_positions": [
+     "left",
+     "bottom"
+    ],
+    "text_zones": [
+     "right"
+    ],
+    "reading_route": [
+     "vertical",
+     "top-to-bottom"
+    ],
+    "features": [
+     "横版",
+     "水彩静物",
+     "右侧竖排书法",
+     "金色英文竖组",
+     "印章",
+     "斜线分隔日期信息"
+    ],
+    "caveats": [
+     "只借右侧竖排标题与左侧静物对侧关系。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "a3b3d72e27e08c2136fcf45b7c95f5b11676117ef1faa1009e2623afc18c505e",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C07_时光会老扁平插画胶囊标签.jpg",
+   "group": "实例海报C组_横版敬老8张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    2000,
+    999
+   ],
+   "file_sha256": "a174ac100813e023d5c293e411bc65b161c27a096284edc1f02664af35cec7e2",
+   "collection": "C",
+   "asset_role": "实例海报",
+   "id": "C-C07_时光会老扁平插画胶囊标签",
+   "domain_id": "D03",
+   "domain_name": "养老与为老服务",
+   "features": "横版；敬老/重阳；扁平插画、红橙毛笔字主标题、顶部斜线分隔年份栏、三个胶囊标签并列、一行正文、菊花前景框景、云带串联",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 3,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "right",
+     "bottom"
+    ],
+    "text_zones": [
+     "top",
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "横版",
+     "扁平插画",
+     "红橙毛笔字主标题",
+     "顶部斜线分隔年份栏",
+     "三个胶囊标签并列",
+     "一行正文",
+     "菊花前景框景",
+     "云带串联"
+    ],
+    "caveats": [
+     "三个胶囊为短标签，非长正文栏。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "a174ac100813e023d5c293e411bc65b161c27a096284edc1f02664af35cec7e2",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报C组_横版敬老8张/C08_重阳竖排书法居中红日.jpg",
+   "group": "实例海报C组_横版敬老8张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    2000,
+    1122
+   ],
+   "file_sha256": "845336de4353cd70b7cc3691d2e0895ec31bae780cace555307c029ba98ee4b4",
+   "collection": "C",
+   "asset_role": "实例海报",
+   "id": "C-C08_重阳竖排书法居中红日",
+   "domain_id": "D03",
+   "domain_name": "养老与为老服务",
+   "features": "横版；敬老/重阳；水彩国风、竖排行书居中、红日衬标题、竖排英文侧组、印章、老人底部中央、菊花枫叶云纹两侧框景",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "middle-center",
+    "subject_positions": [
+     "center",
+     "bottom",
+     "left",
+     "right"
+    ],
+    "text_zones": [
+     "center"
+    ],
+    "reading_route": [
+     "vertical"
+    ],
+    "features": [
+     "横版",
+     "水彩国风",
+     "竖排行书居中",
+     "红日衬标题",
+     "竖排英文侧组",
+     "印章",
+     "老人底部中央",
+     "菊花枫叶云纹两侧框景"
+    ],
+    "caveats": [
+     "正文极少；只借红日衬标题的中轴构图。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "845336de4353cd70b7cc3691d2e0895ec31bae780cace555307c029ba98ee4b4",
+    "reviewed_at": "2026-10-14"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D01_银龄手机课堂手绘暖调.jpg",
+   "group": "实例海报D组_风格参考20张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    478,
+    489
+   ],
+   "file_sha256": "f6b4e1a0663142ffbfbfd79df7b868222e46d50808291b3396a84861dcdbf32d",
+   "collection": "D",
+   "asset_role": "实例海报",
+   "id": "D-D01_银龄手机课堂手绘暖调",
+   "domain_name": "养老与为老服务",
+   "style_tag": "手绘暖调插画",
+   "source_page": "用户提供（屏幕翻拍）",
+   "features": "手绘暖调插画；竖版；老年手机课堂；米色纸底手绘插画、橙色粗手写标题、绿色手机线框从标题后穿出、“开课啦！”倾斜贴纸、“10.20”大数字图形化、房子线框内写“二楼活动室”、电话图标紧贴大号号码、“50+”配人群图标、“共6节课”小徽章、虚线动线串起日历房子电话、撕纸提示框关键词下划线、橙绿互补跳色",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 0,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "center"
+    ],
+    "text_zones": [
+     "top",
+     "right",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "字图交互范例",
+     "图标当容器",
+     "大数字图形化",
+     "标题与主体穿插",
+     "贴纸标注",
+     "虚线动线",
+     "关键词标注",
+     "互补跳色"
+    ],
+    "caveats": [
+     "屏幕翻拍有透视和反光，只借结构与手法，不量尺寸。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "f6b4e1a0663142ffbfbfd79df7b868222e46d50808291b3396a84861dcdbf32d",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D02_步步登高手绘卡通重阳.jpg",
+   "group": "实例海报D组_风格参考20张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1200,
+    1600
+   ],
+   "file_sha256": "bc8da8e8b8959d618685a73531106d0cc9941e88d2ef10e1cd3cba53e6c4f455",
+   "collection": "D",
+   "asset_role": "实例海报",
+   "id": "D-D02_步步登高手绘卡通重阳",
+   "domain_name": "节日营销",
+   "style_tag": "手绘暖调插画",
+   "source_page": "https://www.digitaling.com/articles/1421440.html",
+   "features": "手绘暖调插画；竖版；重阳；手绘粗笔标题两行错位带描边、卡通主体从标题下方冲出、水墨远山、角落数字徽章",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center"
+    ],
+    "text_zones": [
+     "top"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "手绘粗笔标题",
+     "主体与标题穿插",
+     "徽章数字"
+    ],
+    "caveats": [
+     "品牌营销海报，信息极少。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "bc8da8e8b8959d618685a73531106d0cc9941e88d2ef10e1cd3cba53e6c4f455",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D03_带着爸妈出行手绘对话框.jpg",
+   "group": "实例海报D组_风格参考20张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1245,
+    1660
+   ],
+   "file_sha256": "bb9f95ab9cc4672d28a172f830fd555f416e616318c2fc72d15140a9d575e1b0",
+   "collection": "D",
+   "asset_role": "实例海报",
+   "id": "D-D03_带着爸妈出行手绘对话框",
+   "domain_name": "养老与为老服务",
+   "style_tag": "手绘暖调插画",
+   "source_page": "https://www.digitaling.com/articles/1421440.html",
+   "features": "手绘暖调插画；竖版；敬老出行；手绘粗黑标题字大小错落、黄色对话框贴纸“重阳限定任务”、老人人物从标题下方斜穿、底部橙色区“参与方式”标签＋白字正文、手绘括号框住正文、银杏叶点缀",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-right",
+    "subject_positions": [
+     "left",
+     "center"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "对话框贴纸",
+     "手绘括号框正文",
+     "标签小标题",
+     "标题与主体穿插",
+     "银杏母题"
+    ],
+    "caveats": [
+     "品牌活动海报，号码地址类信息缺少。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "bb9f95ab9cc4672d28a172f830fd555f416e616318c2fc72d15140a9d575e1b0",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D04_爷爷奶奶有多Young手绘描边字.jpg",
+   "group": "实例海报D组_风格参考20张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1500,
+    2000
+   ],
+   "file_sha256": "a9ad5bcf60cd8dd5b19f596b4face05f3633896d83c1e4de7fe7edc13d312027",
+   "collection": "D",
+   "asset_role": "实例海报",
+   "id": "D-D04_爷爷奶奶有多Young手绘描边字",
+   "domain_name": "养老与为老服务",
+   "style_tag": "手绘暖调插画",
+   "source_page": "https://www.digitaling.com/articles/1421440.html",
+   "features": "手绘暖调插画；竖版；照片人物＋手绘描边大字、涂鸦星星和拟声字贴纸、黄色强调",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "bottom"
+    ],
+    "text_zones": [
+     "top"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "照片＋手绘字",
+     "贴纸拟声字",
+     "描边标题"
+    ],
+    "caveats": [
+     "照片主体，适合真实人物照片类海报。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "a9ad5bcf60cd8dd5b19f596b4face05f3633896d83c1e4de7fe7edc13d312027",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D05_双联手绘插画手机界面.jpg",
+   "group": "实例海报D组_风格参考20张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1400,
+    1245
+   ],
+   "file_sha256": "db0cfe3412c1f1573c2dafa0b86cbf0d3f999bf6310881c2aa50adfc345b6d5f",
+   "collection": "D",
+   "asset_role": "实例海报",
+   "id": "D-D05_双联手绘插画手机界面",
+   "domain_name": "养老与为老服务",
+   "style_tag": "手绘暖调插画",
+   "source_page": "https://www.digitaling.com/articles/1421440.html",
+   "features": "手绘暖调插画；近方形双联；手绘人物＋手机界面气泡、手写标题、暖橙底",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 2,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "center"
+    ],
+    "text_zones": [
+     "top"
+    ],
+    "reading_route": [
+     "left-to-right"
+    ],
+    "features": [
+     "对话气泡",
+     "手机界面元素",
+     "双联对比"
+    ],
+    "caveats": [
+     "品牌营销，双联结构。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "db0cfe3412c1f1573c2dafa0b86cbf0d3f999bf6310881c2aa50adfc345b6d5f",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D06_重阳水墨大字竖排.jpg",
+   "group": "实例海报D组_风格参考20张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1839,
+    2400
+   ],
+   "file_sha256": "ae203a6fb25b156b39d2d8e5e623ed2d7b450b21ce6e3167f43ffd0cf749c393",
+   "collection": "D",
+   "asset_role": "实例海报",
+   "id": "D-D06_重阳水墨大字竖排",
+   "domain_name": "节日营销",
+   "style_tag": "国潮水彩水墨",
+   "source_page": "https://www.digitaling.com/articles/1421440.html",
+   "features": "国潮水彩水墨；竖版；重阳；超大宋体“重阳”压红日、竖排小字、水墨山与亭、菊花前景",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "bottom",
+     "right"
+    ],
+    "text_zones": [
+     "top",
+     "left"
+    ],
+    "reading_route": [
+     "vertical"
+    ],
+    "features": [
+     "超大宋体",
+     "红日后衬",
+     "水墨山水",
+     "竖排诗句"
+    ],
+    "caveats": [
+     "文字少。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "ae203a6fb25b156b39d2d8e5e623ed2d7b450b21ce6e3167f43ffd0cf749c393",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D07_重阳登高插画菊花框景.jpg",
+   "group": "实例海报D组_风格参考20张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1280,
+    1707
+   ],
+   "file_sha256": "2b45ef27c5ace3c8a3e63330e20154efc176ef5d5907b5e99fcaea0579afe2d6",
+   "collection": "D",
+   "asset_role": "实例海报",
+   "id": "D-D07_重阳登高插画菊花框景",
+   "domain_name": "养老与为老服务",
+   "style_tag": "国潮水彩水墨",
+   "source_page": "https://www.digitaling.com/articles/1421440.html",
+   "features": "国潮水彩水墨；竖版；重阳；扁平国潮插画、老人背影登阶、菊花前景框景、竖排书法标题居中",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center",
+     "bottom"
+    ],
+    "text_zones": [
+     "top"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "老人背影",
+     "菊花框景",
+     "台阶动线"
+    ],
+    "caveats": [
+     "文字少。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "2b45ef27c5ace3c8a3e63330e20154efc176ef5d5907b5e99fcaea0579afe2d6",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D08_健康长寿蓝白线描大数字.jpg",
+   "group": "实例海报D组_风格参考20张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1350,
+    2400
+   ],
+   "file_sha256": "1d5ba6d9f9fca32f796af16c4dfa06379c6bda1632122a9d8efa0f21463ae6b8",
+   "collection": "D",
+   "asset_role": "实例海报",
+   "id": "D-D08_健康长寿蓝白线描大数字",
+   "domain_name": "养老与为老服务",
+   "style_tag": "简约扁平",
+   "source_page": "https://www.digitaling.com/articles/1421440.html",
+   "features": "简约扁平；竖版；蓝白双色、线描老人双人像、左右竖排大字、底部蓝色块“10/29”大数字",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "双色",
+     "线描人物",
+     "大数字图形化",
+     "底部色块信息条"
+    ],
+    "caveats": [
+     "品牌营销。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "1d5ba6d9f9fca32f796af16c4dfa06379c6bda1632122a9d8efa0f21463ae6b8",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D09_重阳节红色书法仙鹤.jpg",
+   "group": "实例海报D组_风格参考20张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1350,
+    2400
+   ],
+   "file_sha256": "dbc432f16b4590f443944de02995e4010f7fa663f1ec60bd2c4b25b21672fc4b",
+   "collection": "D",
+   "asset_role": "实例海报",
+   "id": "D-D09_重阳节红色书法仙鹤",
+   "domain_name": "节日营销",
+   "style_tag": "国潮水彩水墨",
+   "source_page": "https://www.digitaling.com/articles/1421440.html",
+   "features": "国潮水彩水墨；竖版；红色书法标题、仙鹤、福袋主体、右上竖排日期",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center"
+    ],
+    "text_zones": [
+     "top"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "红色书法",
+     "仙鹤",
+     "竖排日期"
+    ],
+    "caveats": [
+     "文字少。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "dbc432f16b4590f443944de02995e4010f7fa663f1ec60bd2c4b25b21672fc4b",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D10_拱门框景国潮插画.jpg",
+   "group": "实例海报D组_风格参考20张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1024,
+    2028
+   ],
+   "file_sha256": "ec32d91f5b0f2f36414073f6060cc660e64702f2c9e79d32f776839d89676f08",
+   "collection": "D",
+   "asset_role": "实例海报",
+   "id": "D-D10_拱门框景国潮插画",
+   "domain_name": "节日营销",
+   "style_tag": "国潮水彩水墨",
+   "source_page": "https://www.digitaling.com/articles/993803.html",
+   "features": "国潮水彩水墨；竖版；拱门形框景内装山水与红日、竖排小标题",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "middle-right",
+    "subject_positions": [
+     "center"
+    ],
+    "text_zones": [
+     "right"
+    ],
+    "reading_route": [
+     "vertical"
+    ],
+    "features": [
+     "拱门框景",
+     "红日",
+     "竖排标题"
+    ],
+    "caveats": [
+     "文字少。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "ec32d91f5b0f2f36414073f6060cc660e64702f2c9e79d32f776839d89676f08",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D11_竖排书法老人一家扁平.jpg",
+   "group": "实例海报D组_风格参考20张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    690,
+    1176
+   ],
+   "file_sha256": "b9f2ec7feddaee771d17c78cd661034a83dc5ac5686159177beda014b09303bf",
+   "collection": "D",
+   "asset_role": "实例海报",
+   "id": "D-D11_竖排书法老人一家扁平",
+   "domain_name": "养老与为老服务",
+   "style_tag": "国潮水彩水墨",
+   "source_page": "https://www.digitaling.com/articles/993803.html",
+   "features": "国潮水彩水墨；竖版；竖排书法标题左侧、扁平插画一家人与老人、仙鹤菊花",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "vertical-left",
+    "subject_positions": [
+     "right",
+     "bottom"
+    ],
+    "text_zones": [
+     "left"
+    ],
+    "reading_route": [
+     "vertical"
+    ],
+    "features": [
+     "竖排书法",
+     "扁平人物",
+     "仙鹤"
+    ],
+    "caveats": [
+     "文字少。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "b9f2ec7feddaee771d17c78cd661034a83dc5ac5686159177beda014b09303bf",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D12_线描老街市井复古.jpg",
+   "group": "实例海报D组_风格参考20张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    690,
+    1342
+   ],
+   "file_sha256": "c6327ac7f215c7a31d9d0953d78c83ed95d33379685655429b73e87a935639cb",
+   "collection": "D",
+   "asset_role": "实例海报",
+   "id": "D-D12_线描老街市井复古",
+   "domain_name": "节日营销",
+   "style_tag": "复古版画拼贴",
+   "source_page": "https://www.digitaling.com/articles/993803.html",
+   "features": "复古版画拼贴；竖版；线描淡彩老街与人物、右上竖排诗句、小红印",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-right",
+    "subject_positions": [
+     "bottom"
+    ],
+    "text_zones": [
+     "top"
+    ],
+    "reading_route": [
+     "vertical"
+    ],
+    "features": [
+     "线描淡彩",
+     "竖排诗句",
+     "印章"
+    ],
+    "caveats": [
+     "文字少。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "c6327ac7f215c7a31d9d0953d78c83ed95d33379685655429b73e87a935639cb",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D13_阶梯几何极简.jpg",
+   "group": "实例海报D组_风格参考20张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1024,
+    1820
+   ],
+   "file_sha256": "f4df612d6ce255acd8ac168a1232d461bd4f2c0b7654712d5df8ac851bf6dfd6",
+   "collection": "D",
+   "asset_role": "实例海报",
+   "id": "D-D13_阶梯几何极简",
+   "domain_name": "节日营销",
+   "style_tag": "简约扁平",
+   "source_page": "https://www.digitaling.com/articles/993803.html",
+   "features": "简约扁平；竖版；黄色几何阶梯通向光源、极简小字",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "center"
+    ],
+    "text_zones": [
+     "top"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "几何概括",
+     "单一隐喻"
+    ],
+    "caveats": [
+     "文字少。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "f4df612d6ce255acd8ac168a1232d461bd4f2c0b7654712d5df8ac851bf6dfd6",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D14_三维卡通鲸鱼重阳.jpg",
+   "group": "实例海报D组_风格参考20张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1350,
+    2400
+   ],
+   "file_sha256": "53b5ed0eee13f92bd88eed1c6c7e8059136355baef424ec74c156ebf3b4dbc75",
+   "collection": "D",
+   "asset_role": "实例海报",
+   "id": "D-D14_三维卡通鲸鱼重阳",
+   "domain_name": "节日营销",
+   "style_tag": "2.5D三维",
+   "source_page": "https://www.digitaling.com/articles/1421440.html",
+   "features": "2.5D三维；竖版；3D卡通主体、立体松树云、竖排标题、右上日历图标",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "middle-right",
+    "subject_positions": [
+     "center"
+    ],
+    "text_zones": [
+     "right"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "3D主体",
+     "日历图标"
+    ],
+    "caveats": [
+     "文字少。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "53b5ed0eee13f92bd88eed1c6c7e8059136355baef424ec74c156ebf3b4dbc75",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D15_三维小熊重阳.jpg",
+   "group": "实例海报D组_风格参考20张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    690,
+    1494
+   ],
+   "file_sha256": "645698690fd444adc826d1a7f460fae153adfd64092c3829e7347ffb76ddfbd5",
+   "collection": "D",
+   "asset_role": "实例海报",
+   "id": "D-D15_三维小熊重阳",
+   "domain_name": "节日营销",
+   "style_tag": "2.5D三维",
+   "source_page": "https://www.digitaling.com/articles/993803.html",
+   "features": "2.5D三维；竖版；3D毛绒小熊老少两人、竖排立体标题",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "vertical-right",
+    "subject_positions": [
+     "center",
+     "bottom"
+    ],
+    "text_zones": [
+     "right"
+    ],
+    "reading_route": [
+     "vertical"
+    ],
+    "features": [
+     "3D角色",
+     "立体标题"
+    ],
+    "caveats": [
+     "文字少。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "645698690fd444adc826d1a7f460fae153adfd64092c3829e7347ffb76ddfbd5",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D16_群打卡挑战手绘信息.jpg",
+   "group": "实例海报D组_风格参考20张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    1223
+   ],
+   "file_sha256": "5f943fd02ce16bccc60a2a7de0b5c8e358ac673998cbcfc74b8ba18dbb59eddf",
+   "collection": "D",
+   "asset_role": "实例海报",
+   "id": "D-D16_群打卡挑战手绘信息",
+   "domain_name": "社区活动",
+   "style_tag": "手绘暖调插画",
+   "source_page": "https://www.digitaling.com/articles/1279676.html",
+   "features": "手绘暖调插画；竖版；手绘人物奔跑、对话框标题、活页本形状信息区、进度条与日期、竖排“活动规则”标签",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "对话框标题",
+     "活页本信息框",
+     "进度条",
+     "标签"
+    ],
+    "caveats": [
+     "线上活动。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "5f943fd02ce16bccc60a2a7de0b5c8e358ac673998cbcfc74b8ba18dbb59eddf",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D17_呼叫懂法搭子手绘大字.jpg",
+   "group": "实例海报D组_风格参考20张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    1583
+   ],
+   "file_sha256": "63386de95ea4fb2d20c2ce96d47e32be1041ea7dd2e7395de1057c4a819ed114",
+   "collection": "D",
+   "asset_role": "实例海报",
+   "id": "D-D17_呼叫懂法搭子手绘大字",
+   "domain_name": "社区活动",
+   "style_tag": "手绘暖调插画",
+   "source_page": "https://www.digitaling.com/articles/1279676.html",
+   "features": "手绘暖调插画；竖版；手绘粗描边大字在对话框里、手绘人物、时间“9.23—10.31”",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "bottom"
+    ],
+    "text_zones": [
+     "top"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "对话框标题",
+     "粗描边字",
+     "手绘人物"
+    ],
+    "caveats": [
+     "文字少。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "63386de95ea4fb2d20c2ce96d47e32be1041ea7dd2e7395de1057c4a819ed114",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D18_黄底手写大字涂鸦.jpg",
+   "group": "实例海报D组_风格参考20张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    1439
+   ],
+   "file_sha256": "9e48ff775f4e3ea8397e327e4e38a5174fcfcd172630378ab88be53e4ae16dea",
+   "collection": "D",
+   "asset_role": "实例海报",
+   "id": "D-D18_黄底手写大字涂鸦",
+   "domain_name": "社区活动",
+   "style_tag": "手绘暖调插画",
+   "source_page": "https://www.digitaling.com/articles/1279676.html",
+   "features": "手绘暖调插画；竖版；黄底黑色手写大字占上半、涂鸦动物、日期胶囊",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "bottom",
+     "right"
+    ],
+    "text_zones": [
+     "top"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "手写大字",
+     "涂鸦",
+     "高饱和黄"
+    ],
+    "caveats": [
+     "文字少。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "9e48ff775f4e3ea8397e327e4e38a5174fcfcd172630378ab88be53e4ae16dea",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D19_秋景水彩手写标题.jpg",
+   "group": "实例海报D组_风格参考20张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    750,
+    1334
+   ],
+   "file_sha256": "9cfa8fbe69b71b3df8593fcf4d02bb10e9ee433bc003a878d555d59092437003",
+   "collection": "D",
+   "asset_role": "实例海报",
+   "id": "D-D19_秋景水彩手写标题",
+   "domain_name": "节日营销",
+   "style_tag": "国潮水彩水墨",
+   "source_page": "https://www.digitaling.com/articles/993803.html",
+   "features": "国潮水彩水墨；竖版；秋景水彩村落、手写标题左上、竖排小字",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "distributed"
+    ],
+    "text_zones": [
+     "top",
+     "left"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "水彩风景",
+     "手写标题"
+    ],
+    "caveats": [
+     "文字少。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "9cfa8fbe69b71b3df8593fcf4d02bb10e9ee433bc003a878d555d59092437003",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报D组_风格参考20张/D20_九九重阳橙块书法.jpg",
+   "group": "实例海报D组_风格参考20张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1350,
+    2400
+   ],
+   "file_sha256": "c1d09ea99403843f2687656d2dfc59e826994b315d9b7a935bd51dfd57acda4f",
+   "collection": "D",
+   "asset_role": "实例海报",
+   "id": "D-D20_九九重阳橙块书法",
+   "domain_name": "节日营销",
+   "style_tag": "简约扁平",
+   "source_page": "https://www.digitaling.com/articles/1421440.html",
+   "features": "简约扁平；竖版；米底中央橙色方块、黑色大书法、底部宜忌信息格",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 1,
+    "title_anchor": "middle-center",
+    "subject_positions": [
+     "center"
+    ],
+    "text_zones": [
+     "center",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "色块承托书法",
+     "信息格"
+    ],
+    "caveats": [
+     "文字少。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "c1d09ea99403843f2687656d2dfc59e826994b315d9b7a935bd51dfd57acda4f",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报E组_适老信息8张/E01_小家适老化直播课黄黑.jpg",
+   "group": "实例海报E组_适老信息8张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1074,
+    2315
+   ],
+   "file_sha256": "bce86a22ec9f4de3f4169d36b7e5c6ae1b36f5e6cf3b5ab04830f413caef143f",
+   "collection": "E",
+   "asset_role": "实例海报",
+   "id": "E-E01_小家适老化直播课黄黑",
+   "domain_name": "养老与为老服务",
+   "style_tag": "手绘暖调插画",
+   "source_page": "https://www.digitaling.com/projects/270010.html",
+   "features": "手绘暖调插画；竖版（手机截图）；适老化公益讲座；黄底、门框插画里写“1024 本周二 21:00”（图标当容器）、轮椅老人线描、右侧竖排超大黑字带投影、底部黑色信息条三条要点、讲者卡通头像",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "vertical-right",
+    "subject_positions": [
+     "left"
+    ],
+    "text_zones": [
+     "right",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "门框里写时间",
+     "竖排超大标题",
+     "黑色信息条",
+     "线描人物"
+    ],
+    "caveats": [
+     "含App界面边框，只看中间海报部分。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "bce86a22ec9f4de3f4169d36b7e5c6ae1b36f5e6cf3b5ab04830f413caef143f",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报E组_适老信息8张/E02_老年居家友好指南横版报刊.jpg",
+   "group": "实例海报E组_适老信息8张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    2232,
+    1511
+   ],
+   "file_sha256": "f4156ffc7caf0f7e24f9b74fbad8c40c4de238dde0b29f9d6fef99042daa3852",
+   "collection": "E",
+   "asset_role": "实例海报",
+   "id": "E-E02_老年居家友好指南横版报刊",
+   "domain_name": "养老与为老服务",
+   "style_tag": "复古版画拼贴",
+   "source_page": "https://www.digitaling.com/projects/270010.html",
+   "features": "复古版画拼贴；横版；适老化改造指南；报刊版式粗蓝双线框、左侧超大粗黑标题＋“10.21/10.23”日期＋青色印章形竖排“重阳特刊”、老人照片抠图贴纸、右侧三行对错对比漫画（红叉绿勾）、蓝色竖排小标题带拼音和编号、每行底部说明条",
+   "observed_structure": {
+    "text_density": "high",
+    "body_columns": 3,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "left"
+    ],
+    "text_zones": [
+     "top",
+     "right"
+    ],
+    "reading_route": [
+     "modular"
+    ],
+    "features": [
+     "报刊版式",
+     "对错对比",
+     "编号竖排小标题",
+     "照片贴纸",
+     "印章日期"
+    ],
+    "caveats": [
+     "信息量大，适合指南/须知类；字号偏小，老年张贴需放大。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "f4156ffc7caf0f7e24f9b74fbad8c40c4de238dde0b29f9d6fef99042daa3852",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报E组_适老信息8张/E03_旧时光会走远照片手写字.jpg",
+   "group": "实例海报E组_适老信息8张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1800,
+    2400
+   ],
+   "file_sha256": "00ec0c7dbba141400d781e5d34bd800a729bdb0051da192113f48445d6f4f044",
+   "collection": "E",
+   "asset_role": "实例海报",
+   "id": "E-E03_旧时光会走远照片手写字",
+   "domain_name": "养老与为老服务",
+   "style_tag": "其他",
+   "source_page": "https://www.digitaling.com/projects/270010.html",
+   "features": "其他；竖版；真实老人照片＋手写体大字、关键词橙色下划线、左下定位图标＋地点",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "right",
+     "bottom"
+    ],
+    "text_zones": [
+     "top",
+     "left"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "照片＋手写字",
+     "关键词下划线",
+     "定位图标"
+    ],
+    "caveats": [
+     "照片类。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "00ec0c7dbba141400d781e5d34bd800a729bdb0051da192113f48445d6f4f044",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报E组_适老信息8张/E04_交际圈不会变小照片手写.jpg",
+   "group": "实例海报E组_适老信息8张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1800,
+    2400
+   ],
+   "file_sha256": "cbe29bba99c4b104e24a472fa95bd2590820cdac8a2cc0571281561ea300d383",
+   "collection": "E",
+   "asset_role": "实例海报",
+   "id": "E-E04_交际圈不会变小照片手写",
+   "domain_name": "养老与为老服务",
+   "style_tag": "其他",
+   "source_page": "https://www.digitaling.com/projects/270010.html",
+   "features": "其他；竖版；老人聚会照片＋白色手写大字右上、左下定位地点",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-right",
+    "subject_positions": [
+     "bottom"
+    ],
+    "text_zones": [
+     "top"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "照片＋手写字",
+     "定位地点"
+    ],
+    "caveats": [
+     "照片类。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "cbe29bba99c4b104e24a472fa95bd2590820cdac8a2cc0571281561ea300d383",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报E组_适老信息8张/E05_扶手安装插画步骤.jpg",
+   "group": "实例海报E组_适老信息8张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1069,
+    2316
+   ],
+   "file_sha256": "67504c55e109e725b8444a7704b7d0adf0caa0027aa6f18077cd0d519b8781cc",
+   "collection": "E",
+   "asset_role": "实例海报",
+   "id": "E-E05_扶手安装插画步骤",
+   "domain_name": "养老与为老服务",
+   "style_tag": "简约扁平",
+   "source_page": "https://www.digitaling.com/projects/270010.html",
+   "features": "简约扁平；竖版（手机截图）；粉色线描插画、编号步骤圆点、楼梯扶手示意",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-right",
+    "subject_positions": [
+     "center"
+    ],
+    "text_zones": [
+     "throughout"
+    ],
+    "reading_route": [
+     "modular"
+    ],
+    "features": [
+     "编号步骤",
+     "线描插画"
+    ],
+    "caveats": [
+     "手机截图，正文部分为App界面。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "67504c55e109e725b8444a7704b7d0adf0caa0027aa6f18077cd0d519b8781cc",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报E组_适老信息8张/E06_奶奶们的客厅照片按钮字.jpg",
+   "group": "实例海报E组_适老信息8张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    992,
+    1649
+   ],
+   "file_sha256": "bf13faeb53a9b51c2bc5d5b7c826b9c8f65596a7e0ff817e714e7c78e1444d39",
+   "collection": "E",
+   "asset_role": "实例海报",
+   "id": "E-E06_奶奶们的客厅照片按钮字",
+   "domain_name": "养老与为老服务",
+   "style_tag": "其他",
+   "source_page": "https://www.digitaling.com/projects/164317.html",
+   "features": "其他；竖版；老人照片＋白色手写标题、关键词放进圆角按钮框“按钮”、底部胶囊标签标题",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "关键词进按钮框",
+     "胶囊标签",
+     "手写字"
+    ],
+    "caveats": [
+     "照片类。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "bf13faeb53a9b51c2bc5d5b7c826b9c8f65596a7e0ff817e714e7c78e1444d39",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报E组_适老信息8张/E07_适老化孝亲敬长京东.jpg",
+   "group": "实例海报E组_适老信息8张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1800,
+    2400
+   ],
+   "file_sha256": "e0ec63d368aaccc77025de4fc9b4a00a556aa8b1cb7266ddf933319fe0077cf0",
+   "collection": "E",
+   "asset_role": "实例海报",
+   "id": "E-E07_适老化孝亲敬长京东",
+   "domain_name": "养老与为老服务",
+   "style_tag": "手绘暖调插画",
+   "source_page": "https://www.digitaling.com/articles/1421440.html",
+   "features": "手绘暖调插画；竖版；秋景台阶插画老人与卡通狗背影、左上日历“29”图标、白色手写大标题、底部白字适老化服务说明＋二维码",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "center"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "日历图标",
+     "台阶动线",
+     "底部服务说明"
+    ],
+    "caveats": [
+     "二维码为品牌物料，不照搬。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "e0ec63d368aaccc77025de4fc9b4a00a556aa8b1cb7266ddf933319fe0077cf0",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报E组_适老信息8张/E08_人生后半场松下信息块.jpg",
+   "group": "实例海报E组_适老信息8张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1500,
+    2000
+   ],
+   "file_sha256": "4468306d69f233574d7701729545b48d9c19594239d0d1f190dfb419e04d9275",
+   "collection": "E",
+   "asset_role": "实例海报",
+   "id": "E-E08_人生后半场松下信息块",
+   "domain_name": "养老与为老服务",
+   "style_tag": "其他",
+   "source_page": "https://www.digitaling.com/articles/1421440.html",
+   "features": "其他；竖版；老人跳舞照片＋描边手写大字、底部黄色信息块分条说明",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "center"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "描边手写字",
+     "底部信息块"
+    ],
+    "caveats": [
+     "品牌营销。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "4468306d69f233574d7701729545b48d9c19594239d0d1f190dfb419e04d9275",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H01_孤独症关注日横版KV.jpg",
+   "group": "实例海报H组_横版16比9_12张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    545
+   ],
+   "file_sha256": "0865055ac9777f64e23d1b2b4a913a48eaf2ce4d61fde4b2a985bf7304b420cb",
+   "collection": "H",
+   "asset_role": "实例海报",
+   "id": "H-H01_孤独症关注日横版KV",
+   "domain_name": "公益宣传",
+   "style_tag": "手绘暖调插画",
+   "source_page": "https://www.digitaling.com/projects/203881.html",
+   "features": "手绘暖调插画；横版；蓝橙粉彩肌理插画占右2/3、左侧毛笔大字标题、蓝底白字副标题条、橙色编号三步“换个角度看见事实”带弯箭头、右下二维码＋日期信息块、左上倒置文字呼应主题",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "middle-left",
+    "subject_positions": [
+     "right"
+    ],
+    "text_zones": [
+     "left",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "左文右图",
+     "编号三步",
+     "弯箭头",
+     "副标题色条"
+    ],
+    "caveats": [
+     "左上倒置字是创意，不照搬。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "0865055ac9777f64e23d1b2b4a913a48eaf2ce4d61fde4b2a985bf7304b420cb",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H02_孤独症关注日横版KV倒置.jpg",
+   "group": "实例海报H组_横版16比9_12张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    545
+   ],
+   "file_sha256": "5580e7c6b052cf739d32d341ef82c3a6755d848e95dcf0f1052341c5c086a5ea",
+   "collection": "H",
+   "asset_role": "实例海报",
+   "id": "H-H02_孤独症关注日横版KV倒置",
+   "domain_name": "公益宣传",
+   "style_tag": "手绘暖调插画",
+   "source_page": "https://www.digitaling.com/projects/203881.html",
+   "features": "手绘暖调插画；横版；H01的旋转180°版本，右侧标题“帮助”，画面倒过来形成另一个形象",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 1,
+    "title_anchor": "middle-right",
+    "subject_positions": [
+     "left"
+    ],
+    "text_zones": [
+     "right"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "正反向创意",
+     "右文左图"
+    ],
+    "caveats": [
+     "与H01成对。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "5580e7c6b052cf739d32d341ef82c3a6755d848e95dcf0f1052341c5c086a5ea",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H03_奶奶们的客厅横版KV.jpg",
+   "group": "实例海报H组_横版16比9_12张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    2400,
+    1350
+   ],
+   "file_sha256": "7bb6336ffa93b2b165d0a78e4fca958ac4897bd013bc3ffbac34cd0dd8b9908b",
+   "collection": "H",
+   "asset_role": "实例海报",
+   "id": "H-H03_奶奶们的客厅横版KV",
+   "domain_name": "养老与为老服务",
+   "style_tag": "手绘暖调插画",
+   "source_page": "https://www.digitaling.com/projects/164317.html",
+   "features": "手绘暖调插画；横版；粉色底、左侧扁平老人插画群（跳舞、乐器、沙发）、右侧红色手写大标题＋红色副标题条＋小字主办单位",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "middle-right",
+    "subject_positions": [
+     "left"
+    ],
+    "text_zones": [
+     "right"
+    ],
+    "reading_route": [
+     "left-to-right"
+    ],
+    "features": [
+     "左图右文",
+     "副标题色条",
+     "主办信息"
+    ],
+    "caveats": [
+     "发布会主视觉。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "7bb6336ffa93b2b165d0a78e4fca958ac4897bd013bc3ffbac34cd0dd8b9908b",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H04_攻略地图定位针时间线.jpg",
+   "group": "实例海报H组_横版16比9_12张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    608
+   ],
+   "file_sha256": "9f7a5e595999af38d41b3cdb811c72d4935e8582d3296dd2ca8929fd3992e677",
+   "collection": "H",
+   "asset_role": "实例海报",
+   "id": "H-H04_攻略地图定位针时间线",
+   "domain_name": "社区活动",
+   "style_tag": "2.5D三维",
+   "source_page": "https://www.digitaling.com/articles/1047710.html",
+   "features": "2.5D三维；横版；3D草地大字横贯中部、虚线路径串起四个橙色定位针、每个定位针旁“日期＋小标题＋一行说明”、左上立体标题",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 4,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "center"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "reading_route": [
+     "left-to-right"
+    ],
+    "features": [
+     "虚线动线",
+     "定位针当信息节点",
+     "时间线",
+     "立体大字"
+    ],
+    "caveats": [
+     "品牌活动，四个节点适合活动日程。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "9f7a5e595999af38d41b3cdb811c72d4935e8582d3296dd2ca8929fd3992e677",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H05_不负所爱春日插画横版.jpg",
+   "group": "实例海报H组_横版16比9_12张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1022,
+    575
+   ],
+   "file_sha256": "7b5364e6d0a5237879e3df7691caa5b9b93559adb29875018fbb9984fb50a7d6",
+   "collection": "H",
+   "asset_role": "实例海报",
+   "id": "H-H05_不负所爱春日插画横版",
+   "domain_name": "社区活动",
+   "style_tag": "手绘暖调插画",
+   "source_page": "https://www.digitaling.com/articles/1047710.html",
+   "features": "手绘暖调插画；横版；春日草地花朵插画铺满、居中手写标题",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "middle-center",
+    "subject_positions": [
+     "distributed"
+    ],
+    "text_zones": [
+     "center"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "满版插画",
+     "居中标题"
+    ],
+    "caveats": [
+     "文字少。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "7b5364e6d0a5237879e3df7691caa5b9b93559adb29875018fbb9984fb50a7d6",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H06_春光好食节插画横版.jpg",
+   "group": "实例海报H组_横版16比9_12张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    608
+   ],
+   "file_sha256": "ae126eaaecade241053d9aa8558212e5204e8c9ad0c4826e92d497b8c464e4a8",
+   "collection": "H",
+   "asset_role": "实例海报",
+   "id": "H-H06_春光好食节插画横版",
+   "domain_name": "社区活动",
+   "style_tag": "手绘暖调插画",
+   "source_page": "https://www.digitaling.com/articles/1047710.html",
+   "features": "手绘暖调插画；横版；城市春日插画、人物与大爱心主体、左上粗手写标题、底部信息胶囊",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "center"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "粗手写标题",
+     "信息胶囊"
+    ],
+    "caveats": [
+     "文字少。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "ae126eaaecade241053d9aa8558212e5204e8c9ad0c4826e92d497b8c464e4a8",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H07_热爱至上涂鸦横版.jpg",
+   "group": "实例海报H组_横版16比9_12张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    608
+   ],
+   "file_sha256": "fc7169e60db3e82d8c277625c9868c900462c594e83bd087cddf0682354d6c1e",
+   "collection": "H",
+   "asset_role": "实例海报",
+   "id": "H-H07_热爱至上涂鸦横版",
+   "domain_name": "社区活动",
+   "style_tag": "复古版画拼贴",
+   "source_page": "https://www.digitaling.com/articles/1047710.html",
+   "features": "复古版画拼贴；横版；涂鸦风野餐场景、黑底白字手写标题叠在帐篷上、日期小字",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-center",
+    "subject_positions": [
+     "distributed"
+    ],
+    "text_zones": [
+     "top"
+    ],
+    "reading_route": [
+     "top-to-bottom"
+    ],
+    "features": [
+     "涂鸦",
+     "标题叠在主体上"
+    ],
+    "caveats": [
+     "文字少。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "fc7169e60db3e82d8c277625c9868c900462c594e83bd087cddf0682354d6c1e",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H08_岁悦可期国潮横版.jpg",
+   "group": "实例海报H组_横版16比9_12张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    608
+   ],
+   "file_sha256": "ae912cf6c5c713c3cfb7f432bebfcfd6abae05290cfea91ff321591633172504",
+   "collection": "H",
+   "asset_role": "实例海报",
+   "id": "H-H08_岁悦可期国潮横版",
+   "domain_name": "节日营销",
+   "style_tag": "国潮水彩水墨",
+   "source_page": "https://www.digitaling.com/articles/1047710.html",
+   "features": "国潮水彩水墨；横版；米金色国潮建筑山水、居中书法标题、右侧竖排小信息栏、底部飘带",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 2,
+    "title_anchor": "middle-center",
+    "subject_positions": [
+     "left",
+     "right"
+    ],
+    "text_zones": [
+     "center",
+     "right"
+    ],
+    "reading_route": [
+     "left-to-right"
+    ],
+    "features": [
+     "书法居中",
+     "竖排信息栏",
+     "飘带动线"
+    ],
+    "caveats": [
+     "地产营销。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "ae912cf6c5c713c3cfb7f432bebfcfd6abae05290cfea91ff321591633172504",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H09_浪游一夏插画横版.jpg",
+   "group": "实例海报H组_横版16比9_12张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1080,
+    603
+   ],
+   "file_sha256": "5a09328e855d2c5bdeb6cb7995f288075070b983d3f126635c4781b8a483456e",
+   "collection": "H",
+   "asset_role": "实例海报",
+   "id": "H-H09_浪游一夏插画横版",
+   "domain_name": "社区活动",
+   "style_tag": "手绘暖调插画",
+   "source_page": "https://www.digitaling.com/articles/1047710.html",
+   "features": "手绘暖调插画；横版；海浪船只插画、左侧标题、气球点缀",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "middle-left",
+    "subject_positions": [
+     "right"
+    ],
+    "text_zones": [
+     "left"
+    ],
+    "reading_route": [
+     "left-to-right"
+    ],
+    "features": [
+     "左文右图"
+    ],
+    "caveats": [
+     "文字少。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "5a09328e855d2c5bdeb6cb7995f288075070b983d3f126635c4781b8a483456e",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H10_秋日歌会手绘双联横版.jpg",
+   "group": "实例海报H组_横版16比9_12张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1400,
+    934
+   ],
+   "file_sha256": "4ea44a05952eaec663535c02c315e1aab887b196288f166d60f05a51bde98077",
+   "collection": "H",
+   "asset_role": "实例海报",
+   "id": "H-H10_秋日歌会手绘双联横版",
+   "domain_name": "社区活动",
+   "style_tag": "手绘暖调插画",
+   "source_page": "https://www.digitaling.com/articles/1279676.html",
+   "features": "手绘暖调插画；横版双联；米色纸底、手绘苹果与音符、手写标题左上、底部“时间/地点”小字分栏",
+   "observed_structure": {
+    "text_density": "medium",
+    "body_columns": 2,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "center"
+    ],
+    "text_zones": [
+     "top",
+     "bottom"
+    ],
+    "reading_route": [
+     "left-to-right"
+    ],
+    "features": [
+     "手绘",
+     "底部时间地点分栏"
+    ],
+    "caveats": [
+     "双联拼图。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "4ea44a05952eaec663535c02c315e1aab887b196288f166d60f05a51bde98077",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H11_淘宝自然大秀横版.jpg",
+   "group": "实例海报H组_横版16比9_12张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    1400,
+    788
+   ],
+   "file_sha256": "f482f37c6e968ca523f0c2190eaa1b82b127af8e5e46e7c57fd83d7722cfe8ff",
+   "collection": "H",
+   "asset_role": "实例海报",
+   "id": "H-H11_淘宝自然大秀横版",
+   "domain_name": "社区活动",
+   "style_tag": "手绘暖调插画",
+   "source_page": "https://www.digitaling.com/articles/1279676.html",
+   "features": "手绘暖调插画；横版；山水间人物群像插画、左侧手写标题＋白色信息条日期",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 1,
+    "title_anchor": "middle-left",
+    "subject_positions": [
+     "right",
+     "center"
+    ],
+    "text_zones": [
+     "left"
+    ],
+    "reading_route": [
+     "left-to-right"
+    ],
+    "features": [
+     "左文右图",
+     "人物群像",
+     "信息条"
+    ],
+    "caveats": [
+     "文字少。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "f482f37c6e968ca523f0c2190eaa1b82b127af8e5e46e7c57fd83d7722cfe8ff",
+    "reviewed_at": "2026-10-15"
+   }
+  },
+  {
+   "path": "assets/reference-posters/实例海报H组_横版16比9_12张/H12_东方浪潮国潮横版.jpg",
+   "group": "实例海报H组_横版16比9_12张",
+   "purpose": "研究参考，不能直接用作成品素材",
+   "canvas_px": [
+    700,
+    301
+   ],
+   "file_sha256": "30ec996c1c8dcd0bc852a5953ac2590ce9064720907ad5b31e590218225bb090",
+   "collection": "H",
+   "asset_role": "实例海报",
+   "id": "H-H12_东方浪潮国潮横版",
+   "domain_name": "节日营销",
+   "style_tag": "国潮水彩水墨",
+   "source_page": "https://www.digitaling.com/articles/1047710.html",
+   "features": "国潮水彩水墨；横版；国潮山海插画、左上书法标题与小字",
+   "observed_structure": {
+    "text_density": "low",
+    "body_columns": 0,
+    "title_anchor": "top-left",
+    "subject_positions": [
+     "right"
+    ],
+    "text_zones": [
+     "top",
+     "left"
+    ],
+    "reading_route": [
+     "left-to-right"
+    ],
+    "features": [
+     "国潮插画",
+     "左上书法"
+    ],
+    "caveats": [
+     "文字少。"
+    ]
+   },
+   "visual_review": {
+    "status": "observed",
+    "method": "actual_image",
+    "image_sha256": "30ec996c1c8dcd0bc852a5953ac2590ce9064720907ad5b31e590218225bb090",
+    "reviewed_at": "2026-10-15"
+   }
+  }
+ ],
+ "logical_poster_entry_count": 138,
+ "logical_collection_counts": {
+  "A": 45,
+  "B": 45,
+  "C": 8,
+  "D": 20,
+  "E": 8,
+  "H": 12
+ },
+ "deduplication_note": "15个逐字节相同的A组图片副本已合并；所有原编号和领域索引保留并指向同一实体图。",
+ "structural_review": {
+  "reviewed_at": "2026-10-14",
+  "method": "actual_image",
+  "unique_poster_files": 75,
+  "fields": [
+   "text_density",
+   "body_columns",
+   "title_anchor",
+   "subject_positions",
+   "text_zones",
+   "reading_route",
+   "features",
+   "caveats"
+  ],
+  "limitations": "可见结构观察，非真人评价、许可或可读性验收；unknown/null不臆测。源图多面板/折页/展示边框等局限见caveats。"
+ }
+}

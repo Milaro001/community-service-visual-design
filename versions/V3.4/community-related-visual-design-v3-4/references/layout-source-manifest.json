@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-10",
+  "toolkit_adaptation": "Maintained modules 10,13,14,15 and rubric replace conflicting toolkit defaults",
+  "sources": [
+    {
+      "name": "card-skill",
+      "origin": "https://github.com/KKenny0/card-skill.git",
+      "commit": "3b6d1ada1a14b95390d1139a9da3c1c92a614746",
+      "license_evidence": "Root LICENSE retained; MIT",
+      "bundled_files": [
+        {
+          "source_path": "references/visual-review.md",
+          "path": "references/vendor/card-skill/references/visual-review.md",
+          "sha256": "0a5feabad0c1d311ff68266696d96a50151ee38bd869974df18d9b5530641a09"
+        }
+      ]
+    },
+    {
+      "name": "deconstructed-duotone-poster",
+      "origin": "https://github.com/Lixorn/deconstructed-duotone-poster.git",
+      "commit": "0393d269ff82ef7044a6c6effd36473c4f983a33",
+      "license_evidence": "Root LICENSE retained; MIT",
+      "bundled_files": [],
+      "scope": "Link and adapted principles only; no original files bundled"
+    },
+    {
+      "name": "OpenDesignHarness",
+      "origin": "https://github.com/idvxlab/OpenDesignHarness.git",
+      "commit": "358fbbc71a6d85bdd46be2b07d5e05439feb03ca",
+      "license_evidence": "No root LICENSE found; selected SKILL frontmatter says MIT and README declares MIT; redistribution evidence incomplete",
+      "bundled_files": [],
+      "scope": "Link and adapted principles only; no original files bundled"
+    },
+    {
+      "name": "poster-generator-skill",
+      "origin": "https://github.com/howardz27/poster-generator-skill.git",
+      "commit": "fa2a40bf0943c14dbcf2dfd86a2efe66fa8b4cbc",
+      "license_evidence": "Root LICENSE retained; MIT",
+      "bundled_files": [
+        {
+          "source_path": "references/selection-guide.md",
+          "path": "references/vendor/poster-generator-skill/references/selection-guide.md",
+          "sha256": "9f847b166d290a227cb38ea7b16a12f5eb4f92bb9ced420d247dce9fc27d288e"
+        },
+        {
+          "source_path": "references/content-analysis.md",
+          "path": "references/vendor/poster-generator-skill/references/content-analysis.md",
+          "sha256": "542a971f136679e886599718c53c481de832eaed54dc3b05d37f87c74258a8a3"
+        },
+        {
+          "source_path": "references/quality-rubric.md",
+          "path": "references/vendor/poster-generator-skill/references/quality-rubric.md",
+          "sha256": "c2be9ced5043e18c839d2674b49fa39f3bcb24a1615b09d84a3eefc67602822f"
+        },
+        {
+          "source_path": "references/layouts/editorial-column.md",
+          "path": "references/vendor/poster-generator-skill/references/layouts/editorial-column.md",
+          "sha256": "b08523825de2ff29afe097bc972751a2bf139533556926602660502b9fe5d059"
+        },
+        {
+          "source_path": "references/layouts/modular-grid.md",
+          "path": "references/vendor/poster-generator-skill/references/layouts/modular-grid.md",
+          "sha256": "c30a8a7080b5399f1820a84a768f003e9ea26c226c1adf58129895cb031a132c"
+        },
+        {
+          "source_path": "references/layouts/timeline-sequence.md",
+          "path": "references/vendor/poster-generator-skill/references/layouts/timeline-sequence.md",
+          "sha256": "67dab3d572e739811ba25241c360fe0544a1ff77d370ad0e4afd285c2e5e1bde"
+        },
+        {
+          "source_path": "references/layouts/top-headline-stack.md",
+          "path": "references/vendor/poster-generator-skill/references/layouts/top-headline-stack.md",
+          "sha256": "fe804397f5b0168d8357fe9959cdf358add75354a490cc00184e3814006665c4"
+        },
+        {
+          "source_path": "references/layouts/split-horizontal.md",
+          "path": "references/vendor/poster-generator-skill/references/layouts/split-horizontal.md",
+          "sha256": "69614bf1b9cea93302691a52f9aa4bb81eb907a134d1ee2e973f45fbd7f1e989"
+        }
+      ]
+    },
+    {
+      "name": "typography-skills",
+      "origin": "https://github.com/jpoindexter/typography-skills.git",
+      "commit": "615006a142464d1a5abfa16304fbafa5e2ffef20",
+      "license_evidence": "Root LICENSE retained; MIT",
+      "bundled_files": [
+        {
+          "source_path": "skills/hierarchy-and-scale/SKILL.md",
+          "path": "references/vendor/typography-skills/skills/hierarchy-and-scale/SOURCE.md",
+          "sha256": "c12ceb3695d2be9c5af877a7d53cea89cd3c1ec58bf4fdadc18b819f3232b82b"
+        },
+        {
+          "source_path": "skills/typography-layout-systems/SKILL.md",
+          "path": "references/vendor/typography-skills/skills/typography-layout-systems/SOURCE.md",
+          "sha256": "fca7b3025b33169d7fdbf3404d5a3ba3a13cedea5f5cc2030e65a6c10c01380f"
+        },
+        {
+          "source_path": "skills/body-text-and-reading/SKILL.md",
+          "path": "references/vendor/typography-skills/skills/body-text-and-reading/SOURCE.md",
+          "sha256": "020a56102c3827ac9243845f21482de19c88b3796eb2834016e36401648c0778"
+        },
+        {
+          "source_path": "skills/international-typography/SKILL.md",
+          "path": "references/vendor/typography-skills/skills/international-typography/SOURCE.md",
+          "sha256": "86ace6a0a9a4a70ce77bcb7fd2b8e46c84f073eda0784e062ff3ca2a0c03ae73"
+        }
+      ]
+    },
+    {
+      "name": "typography-tools",
+      "origin": "https://github.com/thomasguillot/typography-skills.git",
+      "commit": "4635c41be6c99137110109a0d21a5024974dfd13",
+      "license_evidence": "Root LICENSE retained; MIT",
+      "bundled_files": [
+        {
+          "source_path": "typography-check/references/print.md",
+          "path": "references/vendor/typography-tools/typography-check/references/print.md",
+          "sha256": "36a87463c688c19c89ca450762b876204aa3e478192970434760b80e72f09268"
+        },
+        {
+          "source_path": "typography-check/references/shared.md",
+          "path": "references/vendor/typography-tools/typography-check/references/shared.md",
+          "sha256": "dc6d4bbe437d2644f6c3f233714f76b700f73d67850c51703e540e9da477d9a4"
+        }
+      ]
+    },
+    {
+      "name": "universal-design-principles",
+      "origin": "https://github.com/Deibler/universal-design-principles.git",
+      "commit": "09b9858fc983fe917b7fedae67a9625d9e6655a6",
+      "license_evidence": "Root LICENSE retained; MIT",
+      "bundled_files": [
+        {
+          "source_path": "plugins/perception-and-hierarchy-principles/skills/figure-ground-cues/SKILL.md",
+          "path": "references/vendor/universal-design-principles/plugins/perception-and-hierarchy-principles/skills/figure-ground-cues/SOURCE.md",
+          "sha256": "294ceaac703239688fd46fe4a189c66bfe3b7df6a91af9e9de382db79194f494"
+        },
+        {
+          "source_path": "plugins/perception-and-hierarchy-principles/skills/hierarchy-typographic/SKILL.md",
+          "path": "references/vendor/universal-design-principles/plugins/perception-and-hierarchy-principles/skills/hierarchy-typographic/SOURCE.md",
+          "sha256": "523905da9180c553f23d6730615758181960935e65cdfcdee356b9ef481b9d30"
+        },
+        {
+          "source_path": "plugins/perception-and-hierarchy-principles/skills/hierarchy-spatial/SKILL.md",
+          "path": "references/vendor/universal-design-principles/plugins/perception-and-hierarchy-principles/skills/hierarchy-spatial/SOURCE.md",
+          "sha256": "e074b6973ebcad817ab44eaf9c571befe10524448d17adff9fc556db26be0bba"
+        },
+        {
+          "source_path": "plugins/perception-and-hierarchy-principles/skills/snr-emphasis-economy/SKILL.md",
+          "path": "references/vendor/universal-design-principles/plugins/perception-and-hierarchy-principles/skills/snr-emphasis-economy/SOURCE.md",
+          "sha256": "1cf852ad2b67043b87d642a7bf9b1d44916b55a2871159a9c08c4c371747213d"
+        },
+        {
+          "source_path": "plugins/perception-and-hierarchy-principles/skills/snr-decoration-removal/SKILL.md",
+          "path": "references/vendor/universal-design-principles/plugins/perception-and-hierarchy-principles/skills/snr-decoration-removal/SOURCE.md",
+          "sha256": "b607458a2b979e592ae457ab9849cf832a67c04936059d832c7e008a0d44b17d"
+        }
+      ]
+    }
+  ]
+}
