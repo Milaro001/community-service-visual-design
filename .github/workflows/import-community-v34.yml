@@ -29,6 +29,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          gh api "repos/${GITHUB_REPOSITORY}/commits/${EXPECTED_PARENT}" > "${RUNNER_TEMP}/community-v34-trigger.json"
           gh api -H 'Accept: application/octet-stream' "repos/${GITHUB_REPOSITORY}/releases/assets/643864852" > "${RUNNER_TEMP}/community-v34.zip"
           python3 - <<'PY'
           import hashlib, json, os, stat, zipfile
@@ -39,7 +40,11 @@ jobs:
           assert os.environ['GITHUB_ACTOR'] == 'Milaro001'
           assert event['after'] == os.environ['EXPECTED_PARENT']
           assert event['head_commit']['message'] == 'Import V3.4 delivery into new version folder once'
-          assert '.github/workflows/import-community-v34.yml' in event['head_commit']['added']
+          trigger = json.loads((Path(os.environ['RUNNER_TEMP']) / 'community-v34-trigger.json').read_text())
+          assert trigger['sha'] == os.environ['EXPECTED_PARENT']
+          assert len(trigger['files']) == 1
+          assert trigger['files'][0]['filename'] == '.github/workflows/import-community-v34.yml'
+          assert trigger['files'][0]['status'] in {'added', 'modified'}
           archive = Path(os.environ['RUNNER_TEMP']) / 'community-v34.zip'
           expected = '2638d56496cf5fd41fd2d6660431cc57b306de3ee6916a3ffafd72dfa61d15a8'
           assert hashlib.file_digest(archive.open('rb'), 'sha256').hexdigest() == expected, 'Archive checksum mismatch'
