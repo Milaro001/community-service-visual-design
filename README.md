@@ -1,27 +1,16 @@
-# 社区服务视觉设计 Skill
+# 社区相关视觉设计 V3.4
 
-面向社区海报、公告、办事指引、安全提示、招募与求助信息的设计工作流。支持按能力适配不同AI平台，保留真实文案核验、视觉探索、独立主题字选择、完整排版及交付检查。
+Community-Related Visual Design · **V3.4** · Tag: **`v3.4`**
 
-## 使用
+当前版本的完整技能、规则卡、脚本、参考图库和中英文海报成品位于 [V3.4 目录](versions/V3.4/community-related-visual-design-v3-4/)。中英文共用一份资源。
 
-- 支持技能目录的平台：将整个`community-service-visual-design`目录放到该平台支持的技能位置，入口为`SKILL.md`。
-- 支持项目指令或知识文件的平台：加载`SKILL.md`及当前阶段所需的`references/`。触发词包括“社区视觉设计”“社区海报设计”。能否自动加载取决于宿主平台。
-- 首次使用可说：“按社区服务视觉设计规则，制作这份社区海报。”实际生图、联网、代码运行和导出取决于平台工具能力。
+- [中文 SKILL.md](versions/V3.4/community-related-visual-design-v3-4/SKILL.md)
+- [English SKILL.md](versions/V3.4/community-related-visual-design-v3-4/en/SKILL.md)
+- [中英文海报成品](versions/V3.4/community-related-visual-design-v3-4/posters/)
+- [V3.4 发布页与完整 ZIP](https://github.com/Milaro001/community-service-visual-design/releases/tag/v3.4)
 
-## 文件
+中文交付包名为 `社区相关视觉设计 3.4 版本.zip`。GitHub 下载附件使用 `community-related-visual-design-v3.4.zip`，内容与中文命名的本地 ZIP 完全相同。包内 `VERSION`、`TAG`、`release.json` 和 `checksums.sha256` 标记版本并支持核验。
 
-- `SKILL.md`：触发条件和主流程。
-- `references/`：13份按需使用的设计及跨平台适配规则。
-- `scripts/verify_copy.py`：可选Python 3标准库文本核对脚本，无第三方依赖。
-- `agents/openai.yaml`：可选平台元数据，其他平台可忽略。
-- `agents/local-resources.example.json`：可选本地图标库配置示例；需要时复制为`local-resources.json`并自行填写路径。
+下载并解压 ZIP，将整个 `community-related-visual-design-v3-4` 文件夹放入平台技能目录。默认入口为中文 `SKILL.md`；英文入口 `en/SKILL.md` 的链接直接跳转到共用规则卡。英文入口已完整翻译，配套规则卡和索引保留原始语言。
 
-默认流程：3–5种底图选稿 → 每种语言3横排＋2竖向主题字选稿 → AI校对配套正文 → 3–5种完整排版选稿 → 精修与交付。正文不另设确认，未提供的可选字段省略；严肃信息和求助号码醒目，图标优先iconfont.cn、其次用户提供的库。
-
-## 参考素材与检查
-
-此发布版不包含原私人包的第三方图片和本机路径。使用者可上传有权使用的参考和图标；没有资源时依平台适配规则记录受限项，不虚构已查看或完成生图。
-
-文本核对：`python3 scripts/verify_copy.py master.json actual.json`。两份文件均为`id`、`language`、`text`组成的JSON列表；只核对文本副本，不证明图内显示、事实、排版或许可已通过。跨平台实际运行尚需在目标平台验证。
-
-本仓库未指定开源许可证；公开上传不自动等于授予任意使用许可，发布者可根据自己的权利与意愿另行添加许可证。
+This V3.4 package contains Chinese and English `SKILL.md` entry points and one shared set of resources. See the [version folder](versions/V3.4/community-related-visual-design-v3-4/) for installation details. Existing third-party source and copyright notices are preserved; no additional license is granted for reference artwork.
